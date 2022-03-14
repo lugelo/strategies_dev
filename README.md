@@ -1,1 +1,3 @@
 # strategies_dev
+
+This study describes the development of a novel approach to sustain high coverage based on de-centralized and continuous vaccination delivery. A rabies vaccination campaign was conducted in 12 wards of Butiama, Tarime and Rorya districts of the Mara region (34°-35°E, 1°30 ́-2°10 ́S) in northwest Tanzania between July 2019 and July 2020.  Household surveys were used to obtain data on vaccination coverage as well as factors influencing dog vaccination. 
