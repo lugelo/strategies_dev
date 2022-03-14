@@ -1,0 +1,1436 @@
+sex_respondent,age_respondent,dog_total,campaign_type,Strategy,ward_rorya,village_rorya,subvillage_rorya,dog_vacc_status,dogs_yes_vacc,dogs_no_vacc,vacc_card_status,number_dogs_seen,microchip_scanned_dogs_yes,microchip_scanned_dogs_no,vacc_dog_no_chip_status,dogs_vacc_cert
+male,80,2,continuous,1,Tai,Nyahera,Rabour,no_vacc,NA,2,,2,0,NA,,NA
+female,38,0,continuous,1,Tai,Nyahera,Rabour,no_vacc,NA,0,,0,0,NA,,NA
+male,33,1,continuous,1,Tai,Nyahera,Rabour,no_vacc,NA,1,,1,0,NA,,NA
+male,86,2,continuous,1,Tai,Nyahera,Rabour,yes_vacc,2,0,yes_card,0,0,NA,no,2
+male,19,4,continuous,1,Tai,Nyahera,Rabour,no_vacc,NA,4,,0,0,NA,,NA
+male,32,0,continuous,1,Tai,Nyahera,Rabour,yes_vacc,1,0,yes_card,0,0,NA,no,1
+female,30,3,continuous,1,Tai,Nyahera,Rabour,yes_vacc,3,0,yes_card,2,2,NA,no,3
+male,50,2,continuous,1,Tai,Nyahera,Rabour,no_vacc,NA,2,,2,0,NA,,NA
+male,38,2,continuous,1,Tai,Nyahera,Nyahera,no_vacc,NA,2,,2,0,NA,,NA
+male,NA,2,continuous,1,Tai,Nyahera,Nyahera,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,35,0,continuous,1,Tai,Nyahera,Nyahera,yes_vacc,2,0,yes_card,0,0,NA,no,0
+male,29,1,continuous,1,Tai,Nyahera,Nyahera,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,35,3,continuous,1,Tai,Nyahera,Nyahera,yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,37,2,continuous,1,Tai,Nyahera,Nyahera,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,24,1,continuous,1,Tai,Nyahera,Nyahera,no_vacc,NA,1,,1,0,NA,,NA
+male,26,3,continuous,1,Tai,Nyahera,Nyahera,yes_vacc,3,0,yes_card,3,1,2,yes,3
+female,30,2,continuous,1,Tai,Nyahera,Nyahera,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,NA,2,continuous,1,Tai,Nyahera,Center,yes_vacc,2,0,yes_card,NA,2,NA,no,2
+female,25,5,continuous,1,Tai,Nyahera,Center,yes_vacc,1,4,yes_card,5,1,NA,no,1
+male,53,6,continuous,1,Tai,Nyahera,Center,yes_vacc,1,5,yes_card,6,1,NA,no,1
+male,24,2,continuous,1,Tai,Nyahera,Center,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,21,3,continuous,1,Tai,Nyahera,Center,yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,24,3,continuous,1,Tai,Nyahera,Center,yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,52,1,continuous,1,Tai,Nyahera,Center,yes_vacc,1,0,yes_card,NA,1,NA,no,1
+male,58,1,continuous,1,Tai,Nyahera,Center,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,82,3,continuous,1,Tai,Nyahera,Center,yes_vacc,1,2,yes_card,3,1,NA,no,1
+male,80,1,continuous,1,Tai,Nyahera,Center,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,NA,0,continuous,1,Tai,Nyamagongo,Nyamsarwa,yes_vacc,2,0,yes_card,NA,0,NA,no,2
+male,30,2,continuous,1,Tai,Nyamagongo,Nyamsarwa,yes_vacc,5,0,yes_card,2,2,NA,no,2
+female,23,1,continuous,1,Tai,Nyamagongo,Nyamsarwa,yes_vacc,1,0,yes_card,NA,1,NA,no,1
+male,52,0,continuous,1,Tai,Nyamagongo,Nyamsarwa,yes_vacc,1,0,yes_card,NA,0,NA,no,1
+male,NA,2,continuous,1,Tai,Nyamagongo,Nyamsarwa,no_vacc,NA,2,,NA,0,NA,,NA
+male,24,1,continuous,1,Tai,Nyamagongo,Nyamsarwa,yes_vacc,1,0,yes_card,NA,1,NA,no,1
+male,20,1,continuous,1,Tai,Nyamagongo,Nyamsarwa,no_vacc,NA,1,,NA,0,NA,,NA
+female,35,5,continuous,1,Tai,Nyamagongo,Nyamsarwa,yes_vacc,1,4,yes_card,NA,1,NA,no,1
+male,19,2,continuous,1,Tai,Nyamagongo,Nyamsarwa,yes_vacc,1,1,yes_card,NA,1,NA,no,1
+female,NA,3,continuous,1,Tai,Nyamagongo,Nyamsarwa,yes_vacc,1,2,yes_card,3,1,NA,no,1
+female,20,1,continuous,1,Tai,Nyamagongo,Makao,yes_vacc,1,0,yes_card,NA,0,NA,no,1
+male,53,1,continuous,1,Tai,Nyamagongo,Makao,yes_vacc,1,0,yes_card,NA,1,NA,no,1
+female,78,1,continuous,1,Tai,Nyamagongo,Makao,yes_vacc,1,0,yes_card,NA,1,NA,no,1
+female,49,0,continuous,1,Tai,Nyamagongo,Makao,yes_vacc,1,0,yes_card,0,0,NA,no,1
+male,28,3,continuous,1,Tai,Nyamagongo,Makao,no_vacc,NA,3,,NA,0,NA,,NA
+female,NA,1,continuous,1,Tai,Nyamagongo,Makao,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,10,1,continuous,1,Tai,Nyamagongo,Makao,no_vacc,NA,1,,1,0,NA,,NA
+female,52,2,continuous,1,Tai,Nyamagongo,Makao,yes_vacc,4,2,yes_card,NA,2,NA,no,2
+male,14,3,continuous,1,Tai,Nyamagongo,Makao,yes_vacc,2,1,yes_card,3,2,NA,no,2
+female,45,2,continuous,1,Tai,Nyamagongo,Makao,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,46,2,continuous,1,Tai,Nyamagongo,Oboke,yes_vacc,2,0,yes_card,1,0,NA,no,2
+female,38,2,continuous,1,Tai,Nyamagongo,Oboke,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,NA,1,continuous,1,Tai,Nyamagongo,Oboke,yes_vacc,1,0,yes_card,NA,0,NA,no,1
+male,17,4,continuous,1,Tai,Nyamagongo,Oboke,no_vacc,NA,4,,4,0,NA,,NA
+male,NA,5,continuous,1,Tai,Nyamagongo,Oboke,yes_vacc,1,4,yes_card,5,1,NA,no,1
+male,11,2,continuous,1,Tai,Nyamagongo,Oboke,yes_vacc,2,0,yes_card,2,2,NA,no,0
+male,12,2,continuous,1,Tai,Nyamagongo,Oboke,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,NA,1,continuous,1,Tai,Nyamagongo,Oboke,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,45,1,continuous,1,Tai,Nyamagongo,Oboke,no_vacc,NA,1,,1,0,NA,,NA
+male,16,2,continuous,1,Tai,Nyamagongo,Oboke,yes_vacc,0,2,yes_card,2,0,NA,no,2
+male,12,2,continuous,1,Tai,Masonga,Masonga,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,33,1,continuous,1,Tai,Masonga,Masonga,yes_vacc,1,0,yes_card,NA,0,NA,no,1
+female,15,2,continuous,1,Tai,Masonga,Masonga,yes_vacc,2,0,yes_card,2,0,NA,no,2
+male,13,1,continuous,1,Tai,Masonga,Masonga,yes_vacc,1,0,yes_card,0,0,NA,no,1
+female,46,3,continuous,1,Tai,Masonga,Masonga,yes_vacc,3,0,yes_card,2,2,NA,no,3
+male,29,2,continuous,1,Tai,Masonga,Masonga,yes_vacc,0,2,no_card,2,0,NA,no,2
+male,60,2,continuous,1,Tai,Masonga,Masonga,yes_vacc,1,1,yes_card,1,1,NA,no,1
+male,42,7,continuous,1,Tai,Masonga,Masonga,yes_vacc,1,6,yes_card,7,1,NA,no,1
+male,62,6,continuous,1,Tai,Masonga,Masonga,yes_vacc,3,3,yes_card,4,3,NA,no,3
+female,13,4,continuous,1,Tai,Masonga,Masonga,no_vacc,NA,4,,2,0,NA,,NA
+male,29,2,continuous,1,Tai,Masonga,NyamogoBugoge,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,25,2,continuous,1,Tai,Masonga,NyamogoBugoge,yes_vacc,3,0,yes_card,1,1,NA,no,3
+male,63,0,continuous,1,Tai,Masonga,NyamogoBugoge,yes_vacc,3,0,yes_card,0,0,NA,no,3
+female,27,2,continuous,1,Tai,Masonga,NyamogoBugoge,no_vacc,NA,2,,2,0,NA,,NA
+female,39,1,continuous,1,Tai,Masonga,NyamogoBugoge,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,52,3,continuous,1,Tai,Masonga,NyamogoBugoge,yes_vacc,2,1,yes_card,3,2,NA,no,1
+female,26,1,continuous,1,Tai,Masonga,NyamogoBugoge,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,49,1,continuous,1,Tai,Masonga,NyamogoBugoge,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,38,1,continuous,1,Tai,Masonga,NyamogoBugoge,yes_vacc,1,0,yes_card,1,0,NA,no,1
+male,46,5,continuous,1,Tai,Masonga,NyamogoBugoge,yes_vacc,3,2,yes_card,5,3,NA,no,3
+male,29,3,continuous,1,Tai,Masonga,NyamogoBugoge,yes_vacc,2,1,yes_card,3,2,1,yes,3
+female,NA,4,continuous,1,Tai,Masonga,NyamogoBugoge,yes_vacc,2,2,yes_card,2,0,NA,no,0
+female,38,1,continuous,1,Tai,Masonga,NyamogoBugoge,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,41,1,continuous,1,Tai,Masonga,NyamogoBugoge,yes_vacc,1,0,yes_card,1,0,NA,no,1
+male,35,10,continuous,1,Tai,Masonga,NyamogoBugoge,no_vacc,NA,10,,10,0,NA,,NA
+male,NA,1,continuous,1,Tai,Masonga,NyamogoBugoge,no_vacc,NA,1,,1,0,NA,,NA
+female,40,1,continuous,1,Tai,Masonga,NyamogoBugoge,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,33,2,continuous,1,Tai,Masonga,NyamogoBugoge,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,27,1,continuous,1,Tai,Masonga,NyamogoBugoge,no_vacc,NA,1,,NA,0,NA,,NA
+female,15,2,continuous,1,Tai,Shirati_Sota,Magamaga,yes_vacc,2,0,yes_card,1,0,NA,no,0
+male,62,2,continuous,1,Tai,Shirati_Sota,Magamaga,yes_vacc,2,0,yes_card,NA,0,NA,no,0
+female,29,1,continuous,1,Tai,Shirati_Sota,Magamaga,no_vacc,NA,1,,1,0,NA,,NA
+female,37,1,continuous,1,Tai,Shirati_Sota,Magamaga,yes_vacc,1,0,yes_card,1,0,NA,no,1
+male,15,1,continuous,1,Tai,Shirati_Sota,Magamaga,no_vacc,NA,1,,1,0,NA,,NA
+male,35,2,continuous,1,Tai,Shirati_Sota,Magamaga,yes_vacc,2,1,yes_card,2,1,NA,no,2
+male,16,2,continuous,1,Tai,Shirati_Sota,Magamaga,yes_vacc,2,0,yes_card,1,0,NA,no,2
+female,29,4,continuous,1,Tai,Shirati_Sota,Magamaga,yes_vacc,2,2,yes_card,3,2,NA,no,2
+male,50,1,continuous,1,Tai,Shirati_Sota,Magamaga,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,49,5,continuous,1,Tai,Shirati_Sota,Magamaga,yes_vacc,5,0,yes_card,3,3,NA,no,0
+female,14,3,continuous,1,Tai,Shirati_Sota,Sota,yes_vacc,3,0,yes_card,1,1,NA,no,3
+female,16,4,continuous,1,Tai,Shirati_Sota,Sota,unknown,NA,4,,1,0,NA,,NA
+female,20,2,continuous,1,Tai,Shirati_Sota,Sota,yes_vacc,2,0,unknown,2,2,NA,no,2
+male,62,2,continuous,1,Tai,Shirati_Sota,Sota,yes_vacc,2,0,yes_card,2,2,NA,no,3
+male,43,5,continuous,1,Tai,Shirati_Sota,Sota,no_vacc,NA,5,,5,0,NA,,NA
+female,29,2,continuous,1,Tai,Shirati_Sota,Sota,no_vacc,NA,2,,2,0,NA,,NA
+female,45,1,continuous,1,Tai,Shirati_Sota,Sota,no_vacc,NA,1,,1,0,NA,,NA
+female,62,1,continuous,1,Tai,Shirati_Sota,Sota,yes_vacc,1,0,yes_card,1,0,NA,no,1
+male,27,2,continuous,1,Tai,Shirati_Sota,Sota,unknown,NA,0,,1,0,NA,,NA
+male,21,1,continuous,1,Tai,Shirati_Sota,Sota,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,56,1,continuous,1,Tai,Shirati_Sota,Gingo,yes_vacc,1,0,yes_card,0,0,NA,no,1
+female,45,2,continuous,1,Tai,Shirati_Sota,Gingo,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,20,2,continuous,1,Tai,Shirati_Sota,Gingo,yes_vacc,2,0,yes_card,2,2,NA,no,1
+female,41,2,continuous,1,Tai,Shirati_Sota,Gingo,yes_vacc,2,0,yes_card,2,2,NA,no,0
+female,28,1,continuous,1,Tai,Shirati_Sota,Gingo,no_vacc,NA,1,,1,0,NA,,NA
+female,18,3,continuous,1,Tai,Shirati_Sota,Gingo,yes_vacc,3,0,yes_card,3,3,NA,no,0
+female,28,2,continuous,1,Tai,Shirati_Sota,Gingo,no_vacc,NA,2,,2,0,NA,,NA
+female,55,4,continuous,1,Tai,Shirati_Sota,Gingo,yes_vacc,4,0,yes_card,2,2,NA,no,4
+female,28,4,continuous,1,Tai,Shirati_Sota,Gingo,yes_vacc,4,0,yes_card,1,1,NA,no,4
+female,33,2,continuous,1,Tai,Shirati_Sota,Gingo,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,40,3,continuous,3,Bukura,Kirongwe,Lwana-agago,yes_vacc,2,1,yes_card,3,2,NA,no,2
+female,30,4,continuous,3,Bukura,Kirongwe,Lwana-agago,yes_vacc,4,0,yes_card,4,4,NA,no,4
+male,61,1,continuous,3,Bukura,Kirongwe,Lwana-agago,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,52,3,continuous,3,Bukura,Kirongwe,Lwana-agago,yes_vacc,1,2,yes_card,2,0,NA,no,1
+female,27,1,continuous,3,Bukura,Kirongwe,Nyarero,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,45,3,continuous,3,Bukura,Kirongwe,Nyarero,yes_vacc,1,2,no_card,2,1,NA,no,1
+female,40,1,continuous,3,Bukura,Kirongwe,Nyarero,no_vacc,NA,1,,1,0,NA,,NA
+male,40,1,continuous,3,Bukura,Kirongwe,Nyarero,no_vacc,NA,1,,1,0,NA,,NA
+male,62,2,continuous,3,Bukura,Kirongwe,Nyarero,yes_vacc,2,2,yes_card,2,0,NA,no,0
+female,24,4,continuous,3,Bukura,Kirongwe,Nyarero,yes_vacc,3,1,yes_card,3,2,NA,no,2
+male,NA,4,continuous,3,Bukura,Kirongwe,Nyarero,yes_vacc,2,2,yes_card,3,2,NA,no,2
+male,NA,3,continuous,3,Bukura,Kirongwe,Nyarero,yes_vacc,2,1,yes_card,2,2,NA,no,2
+male,30,1,continuous,3,Bukura,Kirongwe,Nyarero,no_vacc,NA,1,,1,0,NA,,NA
+female,28,4,continuous,3,Bukura,Kirongwe,Nyarero,yes_vacc,3,1,yes_card,3,3,NA,no,3
+female,50,1,continuous,3,Bukura,Kirongwe,Lwala,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,44,1,continuous,3,Bukura,Kirongwe,Lwala,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,46,1,continuous,3,Bukura,Kirongwe,Lwala,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,20,2,continuous,3,Bukura,Kirongwe,Lwala,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,72,2,continuous,3,Bukura,Kirongwe,Lwala,yes_vacc,1,1,yes_card,2,1,1,yes,1
+male,14,1,continuous,3,Bukura,Kirongwe,Lwala,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,70,3,continuous,3,Bukura,Kirongwe,Lwala,yes_vacc,1,2,yes_card,3,1,NA,no,1
+male,49,3,continuous,3,Bukura,Kirongwe,Lwala,yes_vacc,1,2,yes_card,3,1,NA,no,1
+female,24,1,continuous,3,Bukura,Kirongwe,Lwala,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,77,3,continuous,3,Bukura,Kirongwe,Lwala,yes_vacc,3,0,no_card,3,3,NA,no,3
+female,40,10,pulse,0,Masaba,Bisarye,Nyakagena,yes_vacc,7,3,yes_card,5,3,2,yes,5
+female,40,10,pulse,0,Masaba,Bisarye,Nyakagena,yes_vacc,7,3,yes_card,5,3,2,yes,5
+female,40,10,pulse,0,Masaba,Bisarye,Nyakagena,yes_vacc,7,3,yes_card,5,3,2,yes,5
+female,40,10,pulse,0,Masaba,Bisarye,Nyakagena,yes_vacc,7,3,yes_card,5,3,2,yes,5
+male,35,2,pulse,0,Masaba,Bisarye,Matarura,yes_vacc,1,1,yes_card,1,2,NA,no,5
+male,35,2,pulse,0,Masaba,Bisarye,Matarura,yes_vacc,1,1,yes_card,1,2,NA,no,5
+male,35,2,pulse,0,Masaba,Bisarye,Matarura,yes_vacc,1,1,yes_card,1,2,NA,no,5
+male,35,2,pulse,0,Masaba,Bisarye,Matarura,yes_vacc,1,1,yes_card,1,2,NA,no,5
+male,21,6,continuous,3,Bukura,"Nyambori,Nyambori","Senta,Senta",yes_vacc,3,3,yes_card,5,3,NA,no,3
+female,35,1,continuous,3,Bukura,"Nyambori,Nyambori","Senta,Senta",no_vacc,NA,1,,1,0,NA,,NA
+male,38,1,continuous,3,Bukura,"Nyambori,Nyambori","Senta,Senta",no_vacc,NA,0,,1,0,NA,,NA
+female,31,1,continuous,3,Bukura,"Nyambori,Nyambori","Senta,Senta",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,48,1,continuous,3,Bukura,"Nyambori,Nyambori","Senta,Senta",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,50,1,continuous,3,Bukura,"Nyambori,Nyambori","Senta,Senta",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,48,5,continuous,3,Bukura,"Nyambori,Nyambori","Senta,Senta",yes_vacc,2,3,yes_card,5,2,3,yes,2
+male,47,1,continuous,3,Bukura,"Nyambori,Nyambori","Senta,Senta",no_vacc,NA,1,,1,0,NA,,NA
+female,35,1,continuous,3,Bukura,"Nyambori,Nyambori","Senta,Senta",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,51,2,continuous,3,Bukura,"Nyambori,Nyambori","Senta,Senta",yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,49,1,continuous,3,Bukura,"Nyambori,Nyambori","Vunja Amri,Vunja Amri",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,40,2,continuous,3,Bukura,"Nyambori,Nyambori","Vunja Amri,Vunja Amri",yes_vacc,2,0,unknown,2,0,2,yes,0
+female,55,4,continuous,3,Bukura,"Nyambori,Nyambori","Vunja Amri,Vunja Amri",yes_vacc,3,1,yes_card,4,2,1,yes,3
+female,75,2,continuous,3,Bukura,"Bubombi,Bubombi","Anyuongi,Anyuongi",yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,49,1,continuous,3,Bukura,"Bubombi,Bubombi","Anyuongi,Anyuongi",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,50,3,continuous,3,Bukura,"Bubombi,Bubombi","Anyuongi,Anyuongi",yes_vacc,1,2,yes_card,3,1,NA,no,1
+female,21,2,continuous,3,Bukura,"Bubombi,Bubombi","Anyuongi,Anyuongi",yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,13,2,continuous,3,Bukura,"Bubombi,Bubombi","Anyuongi,Anyuongi",yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,27,6,continuous,3,Bukura,"Bubombi,Bubombi","Anyuongi,Anyuongi",yes_vacc,1,5,yes_card,1,1,NA,no,1
+female,22,1,continuous,3,Bukura,"Bubombi,Bubombi","Anyuongi,Anyuongi",no_vacc,NA,1,,1,0,NA,,NA
+male,34,1,continuous,3,Bukura,"Bubombi,Bubombi","Anyuongi,Anyuongi",yes_vacc,1,0,yes_card,1,0,NA,no,0
+female,30,1,continuous,3,Bukura,"Bubombi,Bubombi","Anyuongi,Anyuongi",yes_vacc,1,1,no_card,1,1,NA,no,0
+male,15,2,continuous,3,Bukura,"Bubombi,Bubombi","Anyuongi,Anyuongi",yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,50,2,continuous,3,Bukura,"Bubombi,Bubombi","Shuleni,Shuleni",yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,46,1,continuous,3,Bukura,"Bubombi,Bubombi","Shuleni,Shuleni",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,15,3,continuous,3,Bukura,"Bubombi,Bubombi","Shuleni,Shuleni",yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,30,1,continuous,3,Bukura,"Bubombi,Bubombi","Shuleni,Shuleni",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,64,8,continuous,3,Bukura,"Bubombi,Bubombi","Shuleni,Shuleni",yes_vacc,4,4,yes_card,8,4,NA,no,4
+male,48,1,continuous,3,Bukura,"Bubombi,Bubombi","Shuleni,Shuleni",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,13,1,continuous,3,Bukura,"Bubombi,Bubombi","Shuleni,Shuleni",yes_vacc,1,0,no_card,1,1,NA,no,0
+male,81,4,continuous,3,Bukura,"Bubombi,Bubombi","Shuleni,Shuleni",yes_vacc,4,0,yes_card,4,4,NA,no,4
+male,18,4,continuous,3,Bukura,"Bubombi,Bubombi","Shuleni,Shuleni",yes_vacc,4,0,yes_card,4,4,NA,no,4
+male,50,2,continuous,3,Bukura,"Bubombi,Bubombi","Shuleni,Shuleni",no_vacc,NA,2,,2,0,NA,,NA
+female,32,3,continuous,3,Bukura,"Bubombi,Bubombi","Mtakuja,Mtakuja",yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,41,1,continuous,3,Bukura,"Bubombi,Bubombi","Mtakuja,Mtakuja",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,NA,2,continuous,3,Bukura,"Bubombi,Bubombi","Mtakuja,Mtakuja",yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,13,5,continuous,3,Bukura,"Bubombi,Bubombi","Mtakuja,Mtakuja",no_vacc,NA,5,,5,0,NA,,NA
+female,80,2,continuous,3,Bukura,"Bubombi,Bubombi","Mtakuja,Mtakuja",yes_vacc,1,0,yes_card,2,1,NA,no,1
+female,NA,3,continuous,3,Bukura,"Bubombi,Bubombi","Mtakuja,Mtakuja",yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,NA,1,continuous,3,Bukura,"Bubombi,Bubombi","Mtakuja,Mtakuja",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,33,3,continuous,3,Bukura,"Bubombi,Bubombi","Mtakuja,Mtakuja",yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,46,1,continuous,3,Bukura,"Bubombi,Bubombi","Mtakuja,Mtakuja",no_vacc,NA,1,,1,0,NA,,NA
+male,87,1,continuous,3,Bukura,"Bubombi,Bubombi","Mtakuja,Mtakuja",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,36,2,continuous,2,Mkoma,Ngasaro,Parokia,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,39,1,continuous,2,Mkoma,Ngasaro,Parokia,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,47,2,continuous,2,Mkoma,Ngasaro,Parokia,no_vacc,NA,2,,2,0,NA,,NA
+female,28,1,continuous,2,Mkoma,Ngasaro,Parokia,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,30,1,continuous,2,Mkoma,Ngasaro,Parokia,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,62,2,continuous,2,Mkoma,Ngasaro,Parokia,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,30,1,continuous,2,Mkoma,Ngasaro,Parokia,no_vacc,NA,1,,1,0,NA,,NA
+male,57,1,continuous,2,Mkoma,Ngasaro,Parokia,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,12,12,continuous,2,Mkoma,Ngasaro,Parokia,yes_vacc,6,0,yes_card,12,6,NA,no,6
+female,22,1,continuous,2,Mkoma,Ngasaro,Parokia,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,NA,2,continuous,2,Mkoma,Ngasaro,Lamboni,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,73,1,continuous,2,Mkoma,Ngasaro,Lamboni,no_vacc,NA,1,,1,0,NA,,NA
+male,16,1,continuous,2,Mkoma,Ngasaro,Lamboni,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,20,2,continuous,2,Mkoma,Ngasaro,Lamboni,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,19,1,continuous,2,Mkoma,Ngasaro,Lamboni,no_vacc,NA,1,,1,0,NA,,NA
+female,10,1,continuous,2,Mkoma,Ngasaro,Lamboni,yes_vacc,1,0,no_card,1,1,NA,no,1
+male,48,2,continuous,2,Mkoma,Ngasaro,Lamboni,no_vacc,NA,2,,2,0,NA,,NA
+male,26,3,continuous,2,Mkoma,Ngasaro,Lamboni,no_vacc,NA,3,,1,0,NA,,NA
+female,49,1,continuous,2,Mkoma,Ngasaro,Lamboni,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,60,4,continuous,2,Mkoma,Ngasaro,Lamboni,yes_vacc,4,0,yes_card,0,0,NA,no,4
+male,63,3,continuous,3,Bukura,Bwiri,Bwiri A,yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,30,1,continuous,3,Bukura,Bwiri,Bwiri A,yes_vacc,1,0,yes_card,0,0,NA,no,1
+female,63,1,continuous,3,Bukura,Bwiri,Bwiri A,no_vacc,NA,1,,1,0,NA,,NA
+female,45,1,continuous,3,Bukura,Bwiri,Bwiri A,no_vacc,NA,1,,1,0,NA,,NA
+female,23,2,continuous,3,Bukura,Bwiri,Bwiri A,yes_vacc,2,0,yes_card,2,0,2,yes,2
+female,20,1,continuous,3,Bukura,Bwiri,Bwiri A,no_vacc,NA,1,,1,0,NA,,NA
+female,36,3,continuous,3,Bukura,Bwiri,Bwiri A,yes_vacc,2,1,yes_card,3,2,NA,no,2
+male,70,2,continuous,3,Bukura,Bwiri,Bwiri A,yes_vacc,2,0,no_card,2,2,NA,no,0
+male,38,2,continuous,3,Bukura,Bwiri,Bwiri A,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,29,1,continuous,3,Bukura,Bwiri,Bwiri A,no_vacc,NA,1,,1,0,NA,,NA
+female,42,2,continuous,2,Mkoma,Ngasaro,Rodi,no_vacc,NA,2,,2,0,NA,,NA
+female,19,2,continuous,2,Mkoma,Ngasaro,Rodi,no_vacc,NA,2,,2,0,NA,,NA
+female,24,1,continuous,2,Mkoma,Ngasaro,Rodi,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,47,1,continuous,2,Mkoma,Ngasaro,Rodi,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,68,3,continuous,2,Mkoma,Ngasaro,Rodi,yes_vacc,2,1,yes_card,2,2,NA,no,2
+male,16,2,continuous,2,Mkoma,Ngasaro,Rodi,no_vacc,NA,2,,2,0,NA,,NA
+male,39,2,continuous,2,Mkoma,Ngasaro,Rodi,no_vacc,NA,2,,2,0,NA,,NA
+male,12,3,continuous,2,Mkoma,Ngasaro,Rodi,yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,20,2,continuous,2,Mkoma,Ngasaro,Rodi,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,41,3,continuous,2,Mkoma,Ngasaro,Rodi,no_vacc,NA,3,,3,0,NA,,NA
+female,30,3,continuous,3,Bukura,Bwiri,Nyangwe,yes_vacc,2,1,yes_card,3,2,NA,no,2
+male,57,2,continuous,3,Bukura,Bwiri,Nyangwe,no_vacc,NA,2,,2,0,NA,,NA
+male,60,1,continuous,3,Bukura,Bwiri,Nyangwe,no_vacc,NA,1,,1,0,NA,,NA
+male,50,2,continuous,3,Bukura,Bwiri,Nyangwe,yes_vacc,2,0,unknown,0,0,NA,no,0
+female,38,1,continuous,3,Bukura,Bwiri,Nyangwe,yes_vacc,1,0,yes_card,1,0,NA,no,1
+male,54,3,continuous,3,Bukura,Bwiri,Nyangwe,yes_vacc,2,1,yes_card,3,2,NA,no,2
+female,35,2,continuous,3,Bukura,Bwiri,Nyangwe,yes_vacc,2,0,yes_card,2,2,NA,no,1
+female,50,1,continuous,3,Bukura,Bwiri,Nyangwe,no_vacc,NA,1,,1,0,NA,,NA
+female,36,6,continuous,3,Bukura,Bwiri,Nyangwe,yes_vacc,1,5,no_card,6,1,NA,no,0
+male,39,1,continuous,2,Mkoma,Oboke,Oboke Juu,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,65,2,continuous,2,Mkoma,Oboke,Oboke Juu,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,40,1,continuous,2,Mkoma,Oboke,Oboke Juu,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,65,1,continuous,2,Mkoma,Oboke,Oboke Juu,yes_vacc,1,1,yes_card,1,1,NA,no,1
+male,81,1,continuous,2,Mkoma,Oboke,Oboke Juu,no_vacc,NA,0,,1,1,NA,,NA
+female,27,1,continuous,2,Mkoma,Oboke,Oboke Juu,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,37,1,continuous,2,Mkoma,Oboke,Oboke Juu,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,67,1,continuous,2,Mkoma,Oboke,Oboke Juu,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,25,1,continuous,2,Mkoma,Oboke,Oboke Juu,yes_vacc,1,0,no_card,1,0,NA,no,0
+female,42,2,continuous,2,Mkoma,Oboke,Oboke Juu,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,16,4,continuous,2,Mkoma,Oboke,Obama Street,yes_vacc,2,2,yes_card,2,2,NA,no,2
+male,NA,1,continuous,2,Mkoma,Oboke,Obama Street,yes_vacc,1,0,no_card,1,1,NA,no,0
+female,65,2,continuous,2,Mkoma,Oboke,Obama Street,no_vacc,NA,2,,2,0,NA,,NA
+male,NA,3,continuous,2,Mkoma,Oboke,Obama Street,yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,NA,2,continuous,2,Mkoma,Oboke,Obama Street,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,35,1,continuous,2,Mkoma,Oboke,Obama Street,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,20,1,continuous,2,Mkoma,Oboke,Obama Street,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,64,2,continuous,2,Mkoma,Oboke,Obama Street,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,56,2,continuous,2,Mkoma,Oboke,Obama Street,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,28,1,continuous,2,Mkoma,Oboke,Obama Street,unknown,NA,1,,0,0,NA,,NA
+male,39,1,continuous,2,Mkoma,Oboke,Nyatike,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,28,3,continuous,2,Mkoma,Oboke,Nyatike,yes_vacc,3,0,no_card,3,3,NA,no,3
+male,NA,1,continuous,2,Mkoma,Oboke,Nyatike,yes_vacc,1,0,no_card,1,1,NA,no,1
+female,NA,2,continuous,2,Mkoma,Oboke,Nyatike,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,23,3,continuous,2,Mkoma,Oboke,Nyatike,yes_vacc,3,0,yes_card,3,3,NA,no,3
+male,45,1,continuous,2,Mkoma,Oboke,Nyatike,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,23,7,continuous,2,Mkoma,Oboke,Nyatike,yes_vacc,0,0,yes_card,NA,0,NA,no,7
+female,NA,4,continuous,2,Mkoma,Oboke,Nyatike,yes_vacc,4,0,yes_card,4,4,NA,no,4
+male,NA,1,continuous,2,Mkoma,Oboke,Nyatike,unknown,NA,1,,1,0,NA,,NA
+female,32,1,continuous,2,Mkoma,Oboke,Nyatike,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,35,1,continuous,3,Bukura,"Bwiri,Bwiri","Bwiri B,Bwiri B",no_vacc,NA,1,,1,0,NA,,NA
+female,20,1,continuous,3,Bukura,"Bwiri,Bwiri","Bwiri B,Bwiri B",no_vacc,NA,1,,1,0,NA,,NA
+female,39,1,continuous,3,Bukura,"Bwiri,Bwiri","Bwiri B,Bwiri B",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,50,2,continuous,3,Bukura,"Bwiri,Bwiri","Bwiri B,Bwiri B",yes_vacc,2,0,yes_card,0,0,NA,no,2
+male,48,4,continuous,3,Bukura,"Bwiri,Bwiri","Bwiri B,Bwiri B",yes_vacc,2,2,yes_card,2,0,NA,no,2
+female,36,1,continuous,3,Bukura,"Bwiri,Bwiri","Bwiri B,Bwiri B",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,45,1,continuous,3,Bukura,"Bwiri,Bwiri","Bwiri B,Bwiri B",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,28,3,continuous,3,Bukura,"Bwiri,Bwiri","Bwiri B,Bwiri B",yes_vacc,1,2,no_card,3,1,NA,no,0
+female,26,2,continuous,3,Bukura,"Bwiri,Bwiri","Bwiri B,Bwiri B",yes_vacc,1,1,yes_card,2,0,NA,no,1
+female,38,5,continuous,3,Bukura,"Bwiri,Bwiri","Bwiri B,Bwiri B",yes_vacc,5,0,unknown,5,5,NA,no,0
+female,70,4,continuous,2,Mkoma,Obwere,Bondeni,yes_vacc,1,3,yes_card,4,1,NA,no,1
+female,15,2,continuous,2,Mkoma,Obwere,Bondeni,yes_vacc,2,0,yes_card,2,1,NA,no,2
+male,70,1,continuous,2,Mkoma,Obwere,Bondeni,yes_vacc,1,0,yes_card,0,0,NA,no,1
+female,50,1,continuous,2,Mkoma,Obwere,Bondeni,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,26,1,continuous,2,Mkoma,Obwere,Bondeni,yes_vacc,1,0,yes_card,NA,1,NA,no,1
+male,60,2,continuous,2,Mkoma,Obwere,Bondeni,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,83,3,continuous,2,Mkoma,Obwere,Bondeni,yes_vacc,1,2,yes_card,3,1,NA,no,1
+male,NA,2,continuous,2,Mkoma,Obwere,Bondeni,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,NA,3,continuous,2,Mkoma,Obwere,Bondeni,yes_vacc,3,1,yes_card,3,2,NA,no,2
+,NA,3,continuous,2,Mkoma,Obwere,Bondeni,yes_vacc,3,1,no_card,3,2,NA,no,0
+female,38,2,pulse,0,Nyamwaga,Nyamwaga,Nyamwaga Senta,no_vacc,NA,2,,2,0,NA,,NA
+female,29,2,pulse,0,Nyamwaga,Nyamwaga,Nyamwaga Senta,yes_vacc,2,0,yes_card,2,0,NA,no,2
+male,19,2,pulse,0,Nyamwaga,Nyamwaga,Nyamwaga Senta,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,56,5,pulse,0,Nyamwaga,Nyamwaga,Nyamwaga Senta,yes_vacc,2,3,yes_card,3,0,NA,no,2
+female,23,1,pulse,0,Nyamwaga,Nyamwaga,Nyamwaga Senta,no_vacc,NA,1,,1,0,NA,,NA
+male,NA,3,pulse,0,Nyamwaga,Nyamwaga,Nyamwaga Senta,yes_vacc,3,0,yes_card,3,3,NA,no,3
+male,31,1,pulse,0,Nyamwaga,Nyamwaga,Nyamwaga Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,26,2,pulse,0,Nyamwaga,Nyamwaga,Nyamwaga Senta,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,39,3,pulse,0,Nyamwaga,Nyamwaga,Nyamwaga Senta,yes_vacc,2,0,yes_card,3,0,NA,no,2
+female,30,1,pulse,0,Nyamwaga,Nyamwaga,Nyamwaga Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,45,1,pulse,0,Nyamwaga,Nyamwaga,Makerero,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,30,2,pulse,0,Nyamwaga,Nyamwaga,Makerero,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,18,1,pulse,0,Nyamwaga,Nyamwaga,Makerero,no_vacc,NA,1,,1,0,NA,,NA
+male,44,3,pulse,0,Nyamwaga,Nyamwaga,Makerero,yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,32,1,pulse,0,Nyamwaga,Nyamwaga,Makerero,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,24,2,pulse,0,Nyamwaga,Nyamwaga,Makerero,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,40,2,pulse,0,Nyamwaga,Nyamwaga,Makerero,yes_vacc,1,1,yes_card,0,1,NA,no,1
+female,44,1,pulse,0,Nyamwaga,Nyamwaga,Makerero,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,30,1,pulse,0,Nyamwaga,Nyamwaga,Makerero,no_vacc,NA,1,,1,0,NA,,NA
+male,18,2,pulse,0,Nyamwaga,Nyamwaga,Makerero,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,29,3,pulse,0,Nyamwaga,"Nyamwaga,Nyamwaga","Mesero,Mesero",yes_vacc,3,0,yes_card,2,2,NA,no,3
+female,61,3,pulse,0,Nyamwaga,"Nyamwaga,Nyamwaga","Mesero,Mesero",yes_vacc,3,0,yes_card,0,0,NA,no,3
+female,63,1,pulse,0,Nyamwaga,"Nyamwaga,Nyamwaga","Mesero,Mesero",no_vacc,NA,1,,0,0,NA,,NA
+male,18,2,pulse,0,Nyamwaga,"Nyamwaga,Nyamwaga","Mesero,Mesero",yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,38,2,pulse,0,Nyamwaga,"Nyamwaga,Nyamwaga","Mesero,Mesero",yes_vacc,2,0,yes_card,1,1,NA,no,2
+female,30,3,pulse,0,Nyamwaga,"Nyamwaga,Nyamwaga","Mesero,Mesero",yes_vacc,3,3,yes_card,2,0,NA,no,0
+male,32,1,pulse,0,Nyamwaga,"Nyamwaga,Nyamwaga","Mesero,Mesero",yes_vacc,1,0,no_card,0,0,NA,no,0
+female,35,1,pulse,0,Nyamwaga,"Nyamwaga,Nyamwaga","Mesero,Mesero",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,19,1,pulse,0,Nyamwaga,"Nyamwaga,Nyamwaga","Mesero,Mesero",yes_vacc,1,0,yes_card,0,0,NA,no,1
+female,43,2,pulse,0,Nyamwaga,"Nyamwaga,Nyamwaga","Mesero,Mesero",yes_vacc,2,0,unknown,1,1,NA,no,0
+male,NA,5,continuous,2,Mkoma,Obwere,Nyamatheng'eng'e,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,16,1,continuous,2,Mkoma,Obwere,Nyamatheng'eng'e,yes_vacc,1,0,no_card,1,1,NA,no,1
+female,23,1,continuous,2,Mkoma,Obwere,Nyamatheng'eng'e,yes_vacc,1,0,no_card,0,0,NA,no,0
+female,NA,1,continuous,2,Mkoma,Obwere,Nyamatheng'eng'e,no_vacc,NA,1,,1,0,NA,,NA
+female,48,2,continuous,2,Mkoma,Obwere,Nyamatheng'eng'e,yes_vacc,2,0,no_card,2,0,NA,no,2
+male,37,2,continuous,2,Mkoma,Obwere,Nyamatheng'eng'e,no_vacc,NA,2,,2,0,NA,,NA
+female,37,1,continuous,2,Mkoma,Obwere,Nyamatheng'eng'e,no_vacc,NA,1,,1,0,NA,,NA
+male,17,2,continuous,2,Mkoma,Obwere,Nyamatheng'eng'e,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,15,1,continuous,2,Mkoma,Obwere,Nyamatheng'eng'e,yes_vacc,1,1,yes_card,1,1,NA,no,1
+male,29,2,continuous,2,Mkoma,Obwere,Kandege,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,NA,5,continuous,2,Mkoma,Obwere,Kandege,no_vacc,NA,5,,5,0,NA,,NA
+female,NA,3,continuous,2,Mkoma,Obwere,Kandege,unknown,NA,0,,3,0,NA,,NA
+male,NA,2,continuous,2,Mkoma,Obwere,Kandege,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,44,4,continuous,2,Mkoma,Obwere,Kandege,yes_vacc,4,0,yes_card,4,4,NA,no,4
+male,NA,4,continuous,2,Mkoma,Obwere,Kandege,no_vacc,NA,4,,4,0,NA,,NA
+,NA,3,continuous,2,Mkoma,Obwere,Kandege,no_vacc,NA,3,,3,0,NA,,NA
+male,17,1,continuous,2,Mkoma,Obwere,Kandege,no_vacc,NA,1,,1,0,NA,,NA
+male,74,2,continuous,2,Mkoma,Obwere,Kandege,no_vacc,NA,2,,2,0,NA,,NA
+male,30,1,continuous,2,Mkoma,Obwere,Kandege,no_vacc,NA,1,,1,0,NA,,NA
+male,48,1,continuous,2,Mkoma,Michire,Okebe,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,24,1,continuous,2,Mkoma,Michire,Okebe,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,17,1,continuous,2,Mkoma,Michire,Okebe,yes_vacc,1,0,yes_card,0,0,NA,no,1
+male,NA,1,continuous,2,Mkoma,Michire,Okebe,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,32,1,continuous,2,Mkoma,Michire,Okebe,no_vacc,NA,1,,1,0,NA,,NA
+male,56,1,continuous,2,Mkoma,Michire,Okebe,yes_vacc,1,0,yes_card,0,0,NA,no,1
+male,20,1,continuous,2,Mkoma,Michire,Okebe,no_vacc,NA,1,,1,0,NA,,NA
+,NA,2,continuous,2,Mkoma,Michire,Okebe,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,46,1,continuous,2,Mkoma,Michire,Okebe,yes_vacc,1,0,yes_card,1,0,NA,no,1
+male,37,2,continuous,2,Mkoma,Michire,Okebe,yes_vacc,1,1,yes_card,1,1,NA,no,1
+male,34,4,continuous,1,Buswahili,Wegero,Nyirobi B,yes_vacc,4,0,yes_card,4,4,NA,no,4
+female,78,2,continuous,1,Buswahili,Wegero,Nyirobi B,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,60,3,continuous,1,Buswahili,Wegero,Nyirobi B,yes_vacc,2,1,yes_card,3,2,NA,no,2
+female,33,1,continuous,1,Buswahili,Wegero,Nyirobi B,no_vacc,NA,1,,1,0,NA,,NA
+female,55,2,continuous,1,Buswahili,Wegero,Nyirobi B,yes_vacc,1,1,yes_card,1,1,NA,no,1
+male,52,1,continuous,1,Buswahili,Wegero,Nyirobi B,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,40,4,continuous,1,Buswahili,Wegero,Nyirobi B,yes_vacc,1,3,yes_card,4,1,NA,no,1
+female,55,3,continuous,1,Buswahili,Wegero,Nyirobi B,yes_vacc,3,0,yes_card,2,2,NA,no,3
+female,26,2,continuous,1,Buswahili,Wegero,Nyirobi B,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,21,2,continuous,1,Buswahili,Wegero,Nyirobi B,no_vacc,NA,2,,2,0,NA,,NA
+female,22,1,continuous,1,Buswahili,Wegero,Kitorare A,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,45,2,continuous,1,Buswahili,Wegero,Kitorare A,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,83,1,continuous,1,Buswahili,Wegero,Kitorare A,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,23,3,continuous,1,Buswahili,Wegero,Kitorare A,yes_vacc,2,1,yes_card,3,2,NA,no,2
+male,21,1,continuous,1,Buswahili,Wegero,Kitorare A,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,75,5,continuous,1,Buswahili,Wegero,Kitorare A,yes_vacc,3,2,yes_card,5,3,NA,no,3
+female,38,4,continuous,1,Buswahili,Wegero,Kitorare A,yes_vacc,1,3,yes_card,4,1,NA,no,1
+female,63,1,continuous,1,Buswahili,Wegero,Kitorare A,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,34,4,continuous,1,Buswahili,Wegero,Kitorare A,yes_vacc,1,3,yes_card,4,1,NA,no,1
+male,29,1,continuous,1,Buswahili,Wegero,Kitorare A,no_vacc,NA,1,,1,0,NA,,NA
+female,45,2,continuous,1,Buswahili,Wegero,Nyirema,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,21,3,continuous,1,Buswahili,Wegero,Nyirema,yes_vacc,1,2,yes_card,3,1,NA,no,1
+male,47,1,continuous,1,Buswahili,Wegero,Nyirema,no_vacc,NA,1,,1,0,NA,,NA
+male,60,3,continuous,1,Buswahili,Wegero,Nyirema,yes_vacc,3,0,yes_card,3,3,NA,no,3
+male,45,3,continuous,1,Buswahili,Wegero,Nyirema,no_vacc,NA,3,,3,0,NA,,NA
+male,56,2,continuous,1,Buswahili,Wegero,Nyirema,no_vacc,NA,2,,2,0,NA,,NA
+female,52,2,continuous,1,Buswahili,Wegero,Nyirema,no_vacc,NA,2,,2,0,NA,,NA
+female,55,5,continuous,1,Buswahili,Wegero,Nyirema,yes_vacc,4,1,yes_card,5,4,NA,no,4
+male,49,2,continuous,1,Buswahili,Wegero,Nyirema,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,52,2,continuous,1,Buswahili,Wegero,Nyirema,no_vacc,NA,2,,2,0,NA,,NA
+female,17,1,continuous,1,Buswahili,Kongoto,Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,46,3,continuous,1,Buswahili,Kongoto,Senta,yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,38,2,continuous,1,Buswahili,Kongoto,Senta,no_vacc,NA,2,,2,0,NA,,NA
+male,45,1,continuous,1,Buswahili,Kongoto,Senta,no_vacc,NA,1,,1,0,NA,,NA
+female,47,4,continuous,1,Buswahili,Kongoto,Senta,yes_vacc,4,0,unknown,4,4,NA,no,4
+female,68,2,continuous,1,Buswahili,Kongoto,Senta,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,65,1,continuous,1,Buswahili,Kongoto,Senta,no_vacc,NA,1,,1,0,NA,,NA
+female,52,1,continuous,1,Buswahili,Kongoto,Senta,no_vacc,NA,1,,1,0,NA,,NA
+male,18,2,continuous,1,Buswahili,Kongoto,Senta,no_vacc,NA,2,,2,0,NA,,NA
+female,30,1,continuous,1,Buswahili,Kongoto,Senta,yes_vacc,1,0,yes_card,1,1,NA,no,0
+female,66,2,continuous,1,Buswahili,Kongoto,Kiabakari B,no_vacc,NA,2,,2,0,NA,,NA
+female,20,5,continuous,1,Buswahili,Kongoto,Kiabakari B,yes_vacc,4,1,yes_card,3,2,NA,no,4
+male,48,2,continuous,1,Buswahili,Kongoto,Kiabakari B,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,56,3,continuous,1,Buswahili,Kongoto,Kiabakari B,yes_vacc,2,1,yes_card,3,2,NA,no,2
+male,70,2,continuous,1,Buswahili,Kongoto,Kiabakari B,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,75,2,continuous,1,Buswahili,Kongoto,Kiabakari B,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,38,2,continuous,1,Buswahili,Kongoto,Kiabakari B,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,45,5,continuous,1,Buswahili,Kongoto,Kiabakari B,yes_vacc,5,0,yes_card,5,5,NA,no,4
+female,32,1,continuous,1,Buswahili,Kongoto,Kiabakari B,no_vacc,NA,1,,1,0,NA,,NA
+female,23,1,continuous,1,Buswahili,Kongoto,Kiabakari B,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,13,3,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",no_vacc,NA,3,,3,0,NA,,NA
+male,13,3,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",no_vacc,NA,3,,3,0,NA,,NA
+male,13,3,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",no_vacc,NA,3,,3,0,NA,,NA
+male,13,3,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",no_vacc,NA,3,,3,0,NA,,NA
+male,62,1,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,62,1,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,62,1,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,62,1,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,34,1,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,34,1,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,34,1,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,34,1,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,20,2,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,20,2,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,20,2,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,20,2,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,NA,1,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,NA,1,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,NA,2,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",no_vacc,NA,2,,2,0,NA,,NA
+female,NA,2,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",no_vacc,NA,2,,2,0,NA,,NA
+male,45,1,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,45,1,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,NA,3,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",yes_vacc,3,0,yes_card,3,3,NA,no,3
+male,NA,3,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,26,1,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,26,1,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,34,1,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,34,1,continuous,2,Mkoma,"Michire,Michire","Matangwe A,Matangwe A",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,25,1,continuous,2,Mkoma,"Michire,Michire","Ziwani,Ziwani",no_vacc,NA,1,,1,0,NA,,NA
+female,NA,1,continuous,2,Mkoma,"Michire,Michire","Ziwani,Ziwani",no_vacc,NA,1,,1,0,NA,,NA
+male,59,1,continuous,2,Mkoma,"Michire,Michire","Ziwani,Ziwani",yes_vacc,1,0,yes_card,1,1,NA,no,0
+male,61,1,continuous,2,Mkoma,"Michire,Michire","Ziwani,Ziwani",yes_vacc,1,0,yes_card,0,0,NA,no,1
+female,49,1,continuous,2,Mkoma,"Michire,Michire","Ziwani,Ziwani",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,42,1,continuous,2,Mkoma,"Michire,Michire","Ziwani,Ziwani",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,NA,2,continuous,2,Mkoma,"Michire,Michire","Ziwani,Ziwani",yes_vacc,2,0,yes_card,0,0,NA,no,2
+female,30,2,continuous,2,Mkoma,"Michire,Michire","Ziwani,Ziwani",yes_vacc,1,1,yes_card,1,1,NA,no,1
+female,NA,2,continuous,2,Mkoma,"Michire,Michire","Ziwani,Ziwani",yes_vacc,1,1,yes_card,1,1,NA,no,1
+male,47,2,continuous,2,Mkoma,"Michire,Michire","Ziwani,Ziwani",yes_vacc,2,0,yes_card,0,0,NA,no,2
+male,NA,2,continuous,2,Mkoma,Kabwana,Nyakina,unknown,NA,2,,2,0,NA,,NA
+female,31,1,continuous,2,Mkoma,Kabwana,Nyakina,no_vacc,NA,1,,1,0,NA,,NA
+female,49,2,continuous,2,Mkoma,Kabwana,Nyakina,no_vacc,NA,0,,2,0,NA,,NA
+female,40,1,continuous,2,Mkoma,Kabwana,Nyakina,no_vacc,NA,1,,1,0,NA,,NA
+male,50,3,continuous,2,Mkoma,Kabwana,Nyakina,yes_vacc,2,1,yes_card,3,1,NA,no,2
+female,25,2,continuous,2,Mkoma,Kabwana,Nyakina,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,NA,4,continuous,2,Mkoma,Kabwana,Nyakina,no_vacc,NA,4,,4,0,NA,,NA
+male,NA,1,continuous,2,Mkoma,Kabwana,Nyakina,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,32,3,continuous,2,Mkoma,Kabwana,Nyakina,yes_vacc,2,3,yes_card,1,0,NA,no,2
+female,34,1,continuous,2,Mkoma,Kabwana,Nyakina,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,34,1,continuous,3,Bukura,Nyambori,Vunja Amri,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,57,2,continuous,3,Bukura,Nyambori,Zahanati,no_vacc,NA,2,,NA,0,NA,,NA
+male,58,3,continuous,3,Bukura,Nyambori,Zahanati,yes_vacc,1,2,yes_card,3,1,NA,no,1
+female,25,1,continuous,3,Bukura,Nyambori,Zahanati,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,33,4,continuous,3,Bukura,Nyambori,Zahanati,yes_vacc,2,2,yes_card,4,2,NA,no,2
+female,45,1,continuous,3,Bukura,Nyambori,Zahanati,yes_vacc,1,0,no_card,1,1,NA,no,0
+female,18,2,continuous,3,Bukura,Nyambori,Zahanati,no_vacc,NA,2,,2,0,NA,,NA
+female,60,2,continuous,3,Bukura,Nyambori,Zahanati,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,45,1,continuous,3,Bukura,Nyambori,Zahanati,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,58,1,continuous,3,Bukura,Nyambori,Zahanati,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,NA,1,continuous,3,Bukura,Nyambori,Zahanati,yes_vacc,1,0,no_card,1,1,NA,no,0
+male,41,2,continuous,3,Bukura,Thabache,Obembe,no_vacc,NA,2,,1,0,NA,,NA
+female,29,2,continuous,3,Bukura,Thabache,Obembe,no_vacc,NA,2,,1,0,NA,,NA
+male,42,1,continuous,3,Bukura,Thabache,Obembe,yes_vacc,1,0,no_card,1,1,NA,no,0
+male,45,1,continuous,3,Bukura,Thabache,Obembe,no_vacc,NA,1,,1,0,NA,,NA
+female,68,2,continuous,3,Bukura,Thabache,Obembe,no_vacc,NA,2,,2,0,NA,,NA
+female,30,1,continuous,3,Bukura,Thabache,Obembe,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,38,1,continuous,3,Bukura,Thabache,Obembe,no_vacc,NA,1,,1,0,NA,,NA
+female,45,2,continuous,3,Bukura,Thabache,Obembe,no_vacc,NA,2,,2,0,NA,,NA
+female,38,1,continuous,3,Bukura,Thabache,Obembe,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,75,1,continuous,3,Bukura,Thabache,Obembe,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,49,3,continuous,3,Bukura,Thabache,Shauri_yako,yes_vacc,2,1,yes_card,2,1,NA,no,2
+male,56,1,continuous,3,Bukura,Thabache,Shauri_yako,no_vacc,NA,1,,NA,0,NA,,NA
+male,52,4,continuous,3,Bukura,Thabache,Shauri_yako,yes_vacc,3,1,yes_card,3,2,1,yes,3
+female,68,2,continuous,3,Bukura,Thabache,Shauri_yako,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,22,3,continuous,3,Bukura,Thabache,Shauri_yako,yes_vacc,1,2,yes_card,1,0,NA,no,1
+female,40,2,continuous,3,Bukura,Thabache,Shauri_yako,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,32,2,continuous,3,Bukura,Thabache,Shauri_yako,no_vacc,NA,0,,2,0,NA,,NA
+female,18,2,continuous,3,Bukura,Thabache,Shauri_yako,no_vacc,NA,2,,2,0,NA,,NA
+male,71,1,continuous,3,Bukura,Thabache,Shauri_yako,no_vacc,NA,1,,1,0,NA,,NA
+female,35,2,continuous,3,Bukura,Thabache,Shauri_yako,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,22,1,continuous,3,Bukura,Thabache,Korino,no_vacc,NA,1,,1,0,NA,,NA
+female,25,1,continuous,3,Bukura,Thabache,Korino,no_vacc,NA,1,,1,0,NA,,NA
+female,25,3,continuous,3,Bukura,Thabache,Korino,yes_vacc,2,1,yes_card,2,2,NA,no,2
+male,22,1,continuous,3,Bukura,Thabache,Korino,no_vacc,NA,1,,1,0,NA,,NA
+female,38,1,continuous,3,Bukura,Thabache,Korino,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,25,1,continuous,3,Bukura,Thabache,Korino,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,54,1,continuous,3,Bukura,Thabache,Korino,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,38,1,continuous,3,Bukura,Thabache,Korino,no_vacc,NA,1,,1,0,NA,,NA
+female,30,2,continuous,3,Bukura,Thabache,Korino,yes_vacc,1,1,yes_card,1,0,1,yes,1
+male,52,1,continuous,3,Bukura,Thabache,Korino,no_vacc,NA,1,,1,0,NA,,NA
+female,30,3,continuous,1,Buswahili,Kongoto,Kiabakari A,yes_vacc,1,2,yes_card,3,1,NA,no,1
+female,35,1,continuous,1,Buswahili,Kongoto,Kiabakari A,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,45,1,continuous,1,Buswahili,Kongoto,Kiabakari A,yes_vacc,2,0,yes_card,1,1,NA,no,2
+male,28,1,continuous,1,Buswahili,Kongoto,Kiabakari A,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,36,1,continuous,1,Buswahili,Kongoto,Kiabakari A,no_vacc,NA,1,,1,0,NA,,NA
+male,39,2,continuous,1,Buswahili,Kongoto,Kiabakari A,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,60,2,continuous,1,Buswahili,Kongoto,Kiabakari A,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,58,1,continuous,1,Buswahili,Kongoto,Kiabakari A,yes_vacc,2,0,yes_card,1,1,NA,no,2
+female,18,2,continuous,1,Buswahili,Kongoto,Kiabakari A,yes_vacc,3,0,yes_card,2,2,NA,no,3
+female,22,2,continuous,1,Buswahili,Kongoto,Kiabakari A,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,61,1,continuous,1,Buswahili,Buswahili,Mtukula,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,30,1,continuous,1,Buswahili,Buswahili,Mtukula,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,49,3,continuous,1,Buswahili,Buswahili,Mtukula,yes_vacc,2,1,yes_card,3,2,NA,no,2
+male,40,2,continuous,1,Buswahili,Buswahili,Mtukula,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,40,2,continuous,1,Buswahili,Buswahili,Mtukula,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,40,2,continuous,1,Buswahili,Buswahili,Mtukula,no_vacc,NA,2,,2,0,NA,,NA
+male,20,1,continuous,1,Buswahili,Buswahili,Mtukula,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,28,2,continuous,1,Buswahili,Buswahili,Mtukula,no_vacc,NA,2,,2,0,NA,,NA
+male,47,3,continuous,1,Buswahili,Buswahili,Mtukula,yes_vacc,3,1,yes_card,4,3,NA,no,3
+male,48,4,continuous,1,Buswahili,Buswahili,Mtukula,yes_vacc,2,2,unknown,4,2,NA,no,2
+female,35,2,continuous,1,Buswahili,Buswahili,Biafra,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,29,1,continuous,1,Buswahili,Buswahili,Biafra,yes_vacc,1,0,yes_card,1,0,1,yes,1
+male,73,3,continuous,1,Buswahili,Buswahili,Biafra,yes_vacc,2,1,yes_card,3,2,NA,no,2
+female,56,1,continuous,1,Buswahili,Buswahili,Biafra,no_vacc,NA,1,,1,0,NA,,NA
+female,44,5,continuous,1,Buswahili,Buswahili,Biafra,yes_vacc,4,1,yes_card,5,4,NA,no,4
+female,54,4,continuous,1,Buswahili,Buswahili,Biafra,yes_vacc,2,2,yes_card,4,2,NA,no,2
+male,42,2,continuous,1,Buswahili,Buswahili,Biafra,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,31,1,continuous,1,Buswahili,Buswahili,Biafra,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,24,1,continuous,1,Buswahili,Buswahili,Biafra,no_vacc,NA,1,,1,0,NA,,NA
+female,69,2,continuous,1,Buswahili,Buswahili,Biafra,yes_vacc,1,1,unknown,2,1,NA,no,0
+male,56,2,continuous,1,Buswahili,Buswahili,Kigumi,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,45,3,continuous,1,Buswahili,Buswahili,Kigumi,no_vacc,NA,3,,3,0,NA,,NA
+female,24,2,continuous,1,Buswahili,Buswahili,Kigumi,no_vacc,NA,2,,2,0,NA,,NA
+male,53,3,continuous,1,Buswahili,Buswahili,Kigumi,yes_vacc,1,2,yes_card,3,1,NA,no,1
+female,58,2,continuous,1,Buswahili,Buswahili,Kigumi,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,55,2,continuous,1,Buswahili,Buswahili,Kigumi,no_vacc,NA,2,,2,0,NA,,NA
+female,63,1,continuous,1,Buswahili,Buswahili,Kigumi,no_vacc,NA,0,,1,0,NA,,NA
+male,65,2,continuous,1,Buswahili,Buswahili,Kigumi,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,45,3,continuous,1,Buswahili,Buswahili,Kigumi,no_vacc,NA,3,,3,0,NA,,NA
+male,61,3,continuous,1,Buswahili,Buswahili,Kigumi,yes_vacc,2,1,yes_card,3,2,NA,no,2
+male,10,1,continuous,2,Mkoma,Kabwana,Kabwana,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,22,1,continuous,2,Mkoma,Kabwana,Kabwana,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,37,1,continuous,2,Mkoma,Kabwana,Kabwana,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,34,1,continuous,2,Mkoma,Kabwana,Kabwana,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,32,1,continuous,2,Mkoma,Kabwana,Kabwana,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,33,3,continuous,2,Mkoma,Kabwana,Kabwana,yes_vacc,1,2,yes_card,3,1,NA,no,1
+female,57,1,continuous,2,Mkoma,Kabwana,Kabwana,no_vacc,NA,1,,1,0,NA,,NA
+male,41,2,continuous,2,Mkoma,Kabwana,Kabwana,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,66,1,continuous,2,Mkoma,Kabwana,Kabwana,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,19,2,continuous,2,Mkoma,Kabwana,Ryangubo,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,62,2,continuous,2,Mkoma,Kabwana,Ryangubo,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,14,1,continuous,2,Mkoma,Kabwana,Ryangubo,no_vacc,NA,1,,1,0,NA,,NA
+female,29,1,continuous,2,Mkoma,Kabwana,Ryangubo,yes_vacc,1,0,yes_card,2,1,NA,no,1
+male,25,1,continuous,2,Mkoma,Kabwana,Ryangubo,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,12,4,continuous,2,Mkoma,Kabwana,Ryangubo,yes_vacc,4,0,yes_card,4,4,NA,no,4
+female,39,1,continuous,2,Mkoma,Kabwana,Ryangubo,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,NA,1,continuous,2,Mkoma,Kabwana,Ryangubo,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,NA,2,continuous,2,Mkoma,Kabwana,Ryangubo,yes_vacc,2,0,yes_card,2,1,NA,no,1
+male,16,2,continuous,2,Mkoma,Kabwana,Ryangubo,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,62,5,continuous,1,Buswahili,Baranga,Kwisangura A,yes_vacc,3,2,yes_card,5,3,NA,no,3
+male,42,2,continuous,1,Buswahili,Baranga,Kwisangura A,no_vacc,NA,2,,2,0,NA,,NA
+female,25,1,continuous,1,Buswahili,Baranga,Kwisangura A,no_vacc,NA,1,,1,0,NA,,NA
+male,62,1,continuous,1,Buswahili,Baranga,Kwisangura A,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,57,2,continuous,1,Buswahili,Baranga,Kwisangura A,no_vacc,NA,2,,2,0,NA,,NA
+female,42,2,continuous,1,Buswahili,Baranga,Kwisangura A,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,47,1,continuous,1,Buswahili,Baranga,Kwisangura A,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,78,4,continuous,1,Buswahili,Baranga,Kwisangura A,no_vacc,NA,4,,4,0,NA,,NA
+female,20,3,continuous,1,Buswahili,Baranga,Kwisangura A,no_vacc,NA,3,,3,0,NA,,NA
+female,63,5,continuous,1,Buswahili,Baranga,Kwisangura A,no_vacc,NA,5,,5,0,NA,,NA
+female,47,3,continuous,1,Buswahili,Baranga,Kiabukima,no_vacc,NA,3,,3,0,NA,,NA
+female,25,2,continuous,1,Buswahili,Baranga,Kiabukima,no_vacc,NA,2,,2,0,NA,,NA
+male,30,4,continuous,1,Buswahili,Baranga,Kiabukima,no_vacc,NA,4,,4,8,NA,,NA
+female,37,11,continuous,1,Buswahili,Baranga,Kiabukima,yes_vacc,1,10,unknown,11,1,NA,no,0
+female,65,3,continuous,1,Buswahili,Baranga,Kiabukima,no_vacc,NA,3,,3,0,NA,,NA
+female,32,6,continuous,1,Buswahili,Baranga,Kiabukima,yes_vacc,4,2,yes_card,6,4,NA,no,4
+female,37,3,continuous,1,Buswahili,Baranga,Kiabukima,yes_vacc,2,1,yes_card,3,2,NA,no,2
+male,57,3,continuous,1,Buswahili,Baranga,Kiabukima,yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,60,4,continuous,1,Buswahili,Baranga,Kiabukima,yes_vacc,1,3,yes_card,4,1,NA,no,1
+female,58,2,continuous,1,Buswahili,Baranga,Kiabukima,yes_vacc,2,0,unknown,2,2,NA,no,2
+male,67,1,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Mumwamu,Mumwamu",no_vacc,NA,1,,1,0,NA,,NA
+male,18,4,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Nyanungu,Nyanungu",yes_vacc,1,3,yes_card,4,1,NA,no,1
+male,32,3,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Mumwamu,Mumwamu",yes_vacc,3,0,yes_card,2,3,NA,no,3
+female,30,2,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Nyanungu,Nyanungu",yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,51,1,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Mumwamu,Mumwamu",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,30,2,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Nyanungu,Nyanungu",yes_vacc,2,0,yes_card,1,2,NA,no,2
+female,38,1,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Mumwamu,Mumwamu",no_vacc,NA,1,,0,0,NA,,NA
+male,44,1,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Nyanungu,Nyanungu",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,18,2,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Mumwamu,Mumwamu",yes_vacc,1,1,yes_card,0,1,NA,no,1
+female,75,4,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Mumwamu,Mumwamu",yes_vacc,4,0,yes_card,0,0,NA,no,4
+female,NA,1,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Mumwamu,Mumwamu",yes_vacc,1,0,yes_card,1,0,NA,no,1
+female,36,2,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Mumwamu,Mumwamu",no_vacc,NA,2,,2,0,NA,,NA
+male,20,5,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Mumwamu,Mumwamu",yes_vacc,4,1,yes_card,0,4,NA,no,1
+female,30,1,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Nyanungu,Nyanungu",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,20,4,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Nyanungu,Nyanungu",yes_vacc,3,1,yes_card,2,3,NA,no,3
+male,78,1,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Nyanungu,Nyanungu",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,30,1,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Nyanungu,Nyanungu",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,21,2,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Nyanungu,Nyanungu",no_vacc,NA,2,,2,0,NA,,NA
+male,44,1,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Mumwamu,Mumwamu",yes_vacc,1,1,yes_card,0,0,NA,no,1
+male,18,1,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Getena,Getena",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,NA,2,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Getena,Getena",yes_vacc,1,1,yes_card,1,1,NA,no,1
+female,46,3,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Getena,Getena",no_vacc,NA,3,,0,0,NA,,NA
+male,45,1,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Nyanungu,Nyanungu",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,48,4,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Getena,Getena",yes_vacc,1,3,yes_card,1,1,NA,no,1
+female,NA,2,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Getena,Getena",yes_vacc,1,1,yes_card,1,1,NA,no,1
+male,18,3,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Getena,Getena",yes_vacc,3,0,yes_card,3,3,NA,no,3
+male,NA,2,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Getena,Getena",no_vacc,NA,2,,2,0,NA,,NA
+female,NA,2,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Getena,Getena",yes_vacc,1,1,yes_card,1,1,NA,no,1
+female,38,1,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Getena,Getena",yes_vacc,1,0,yes_card,1,0,NA,no,1
+female,28,2,continuous,2,Nyanungu,"Nyamombara,Nyamombara","Getena,Getena",yes_vacc,2,0,yes_card,0,2,NA,no,2
+female,21,1,continuous,2,Sirorisimba,Sirorisimba,Mtukula,no_vacc,NA,1,,1,0,NA,,NA
+female,38,1,continuous,2,Sirorisimba,Sirorisimba,Mtukula,no_vacc,NA,1,,1,0,NA,,NA
+female,28,1,continuous,2,Sirorisimba,Sirorisimba,Mtukula,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,41,2,continuous,2,Sirorisimba,Sirorisimba,Mtukula,no_vacc,NA,2,,2,0,NA,,NA
+female,35,1,continuous,2,Sirorisimba,Sirorisimba,Mtukula,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,62,3,continuous,2,Sirorisimba,Sirorisimba,Mtukula,yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,62,2,continuous,2,Sirorisimba,Sirorisimba,Mtukula,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,38,3,continuous,2,Sirorisimba,Sirorisimba,Mtukula,yes_vacc,1,2,yes_card,3,1,NA,no,1
+male,52,4,continuous,2,Sirorisimba,Sirorisimba,Mtukula,yes_vacc,2,2,yes_card,4,2,NA,no,2
+male,20,2,continuous,2,Sirorisimba,Sirorisimba,Mtukula,no_vacc,NA,2,,2,0,NA,,NA
+female,70,5,continuous,1,Buswahili,Baranga,Senta A,yes_vacc,3,2,yes_card,5,3,NA,no,3
+male,27,2,continuous,1,Buswahili,Baranga,Senta A,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,29,3,continuous,1,Buswahili,Baranga,Senta A,no_vacc,NA,3,,3,0,NA,,NA
+female,102,2,continuous,2,Sirorisimba,Sirorisimba,Bitotoni,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,30,4,continuous,2,Sirorisimba,Sirorisimba,Bitotoni,yes_vacc,4,0,yes_card,4,4,NA,no,4
+male,23,1,continuous,2,Sirorisimba,Sirorisimba,Bitotoni,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,20,4,continuous,2,Sirorisimba,Sirorisimba,Bitotoni,yes_vacc,2,2,yes_card,4,2,NA,no,2
+female,43,1,continuous,2,Sirorisimba,Sirorisimba,Bitotoni,no_vacc,NA,1,,1,0,NA,,NA
+female,30,4,continuous,2,Sirorisimba,Sirorisimba,Bitotoni,yes_vacc,4,0,yes_card,4,4,NA,no,4
+female,22,3,continuous,2,Sirorisimba,Sirorisimba,Bitotoni,yes_vacc,1,2,yes_card,3,1,NA,no,1
+female,32,1,continuous,2,Sirorisimba,Sirorisimba,Bitotoni,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,35,2,continuous,2,Sirorisimba,Sirorisimba,Bitotoni,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,32,4,continuous,2,Sirorisimba,Sirorisimba,Bitotoni,no_vacc,NA,4,,4,0,NA,,NA
+male,65,2,continuous,2,Sirorisimba,Sirorisimba,Senta B,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,47,1,continuous,2,Sirorisimba,Sirorisimba,Senta B,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,20,3,continuous,2,Sirorisimba,Sirorisimba,Senta B,yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,20,2,continuous,2,Sirorisimba,Sirorisimba,Senta B,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,52,4,continuous,2,Sirorisimba,Sirorisimba,Senta B,yes_vacc,3,1,yes_card,4,3,NA,no,4
+female,20,3,continuous,2,Sirorisimba,Sirorisimba,Senta B,yes_vacc,1,2,yes_card,3,1,NA,no,1
+female,20,3,continuous,2,Sirorisimba,Sirorisimba,Senta B,yes_vacc,1,2,yes_card,3,1,NA,no,1
+male,20,1,continuous,2,Sirorisimba,Sirorisimba,Senta B,no_vacc,NA,1,,1,0,NA,,NA
+male,39,1,continuous,2,Sirorisimba,Sirorisimba,Senta B,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,40,3,continuous,2,Sirorisimba,Sirorisimba,Senta B,yes_vacc,2,1,yes_card,3,2,NA,no,2
+female,28,2,continuous,2,Sirorisimba,Nyambili,Majengo,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,20,3,continuous,2,Sirorisimba,Nyambili,Majengo,yes_vacc,3,0,yes_card,3,3,NA,no,3
+male,58,1,continuous,2,Sirorisimba,Nyambili,Majengo,no_vacc,NA,1,,1,0,NA,,NA
+male,23,1,continuous,2,Sirorisimba,Nyambili,Majengo,no_vacc,NA,1,,1,0,NA,,NA
+male,54,2,continuous,2,Sirorisimba,Nyambili,Majengo,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,42,2,continuous,2,Sirorisimba,Nyambili,Majengo,no_vacc,NA,2,,2,0,NA,,NA
+male,25,2,continuous,2,Sirorisimba,Nyambili,Majengo,no_vacc,NA,2,,2,0,NA,,NA
+female,50,3,continuous,2,Sirorisimba,Nyambili,Majengo,no_vacc,NA,3,,3,0,NA,,NA
+female,50,2,continuous,2,Sirorisimba,Nyambili,Majengo,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,25,3,continuous,2,Sirorisimba,Nyambili,Majengo,yes_vacc,2,1,yes_card,3,2,NA,no,2
+female,45,1,continuous,2,Sirorisimba,Nyambili,Nyandewa,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,59,1,continuous,2,Sirorisimba,Nyambili,Nyandewa,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,39,2,continuous,2,Sirorisimba,Nyambili,Nyandewa,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,56,3,continuous,2,Sirorisimba,Nyambili,Nyandewa,yes_vacc,1,2,yes_card,2,1,NA,no,1
+female,39,4,continuous,2,Sirorisimba,Nyambili,Nyandewa,yes_vacc,4,0,yes_card,4,4,NA,no,4
+female,31,1,continuous,2,Sirorisimba,Nyambili,Nyandewa,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,20,2,continuous,2,Sirorisimba,Nyambili,Nyandewa,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,34,5,continuous,2,Sirorisimba,Nyambili,Nyandewa,yes_vacc,1,4,yes_card,5,1,NA,no,1
+male,32,2,continuous,2,Sirorisimba,Nyambili,Nyandewa,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,32,2,continuous,2,Sirorisimba,Nyambili,Nyandewa,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,69,3,continuous,2,Nyanungu,Kegonga,Kwibate,yes_vacc,3,0,yes_card,3,3,NA,no,3
+male,20,1,continuous,2,Nyanungu,Kegonga,Kwibate,yes_vacc,1,0,yes_card,0,0,NA,no,1
+female,27,2,continuous,2,Nyanungu,Kegonga,Kwibate,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,68,1,continuous,2,Nyanungu,Kegonga,Kwibate,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,26,1,continuous,2,Nyanungu,Kegonga,Kwibate,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,55,2,continuous,2,Nyanungu,Kegonga,Kwibate,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,41,1,continuous,2,Nyanungu,Kegonga,Kwibate,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,38,1,continuous,2,Nyanungu,Kegonga,Kwibate,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,34,2,continuous,2,Nyanungu,Kegonga,Kwibate,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,20,2,continuous,2,Nyanungu,Kegonga,Kwibate,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,50,4,continuous,2,Nyanungu,Kegonga,Isorya,yes_vacc,2,2,yes_card,2,2,NA,no,2
+female,72,2,continuous,2,Nyanungu,Kegonga,Isorya,yes_vacc,2,2,yes_card,2,2,NA,no,2
+female,28,3,continuous,2,Nyanungu,Kegonga,Isorya,yes_vacc,1,2,yes_card,3,1,NA,no,1
+female,36,2,continuous,2,Nyanungu,Kegonga,Isorya,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,39,1,continuous,2,Nyanungu,Kegonga,Isorya,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,49,2,continuous,2,Nyanungu,Kegonga,Isorya,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,69,2,continuous,2,Nyanungu,Kegonga,Isorya,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,45,2,continuous,2,Nyanungu,Kegonga,Isorya,yes_vacc,1,1,yes_card,1,1,NA,no,1
+male,35,1,continuous,2,Nyanungu,Kegonga,Isorya,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,27,1,continuous,2,Nyanungu,Kegonga,Isorya,no_vacc,NA,1,,1,0,NA,,NA
+female,35,2,continuous,2,Nyanungu,Kegonga,Borasa,yes_vacc,1,1,yes_card,1,1,NA,no,1
+female,25,7,continuous,2,Nyanungu,Kegonga,Borasa,yes_vacc,1,6,yes_card,1,1,NA,no,1
+male,35,1,continuous,2,Nyanungu,Kegonga,Borasa,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,19,1,continuous,2,Nyanungu,Kegonga,Borasa,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,38,1,continuous,2,Nyanungu,Kegonga,Borasa,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,52,3,continuous,2,Nyanungu,Kegonga,Borasa,yes_vacc,1,2,yes_card,3,1,NA,no,1
+male,21,1,continuous,2,Nyanungu,Kegonga,Borasa,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,18,1,continuous,2,Nyanungu,Kegonga,Borasa,yes_vacc,1,0,yes_card,1,0,NA,no,1
+female,18,1,continuous,2,Nyanungu,Kegonga,Borasa,yes_vacc,1,0,yes_card,1,0,NA,no,1
+female,35,1,continuous,2,Nyanungu,Kegonga,Borasa,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,18,1,continuous,2,Nyanungu,Mangucha,Kebose,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,75,1,continuous,2,Nyanungu,Mangucha,Kebose,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,38,1,continuous,2,Nyanungu,Mangucha,Kebose,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,35,1,continuous,2,Nyanungu,Mangucha,Kebose,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,43,3,continuous,2,Nyanungu,Mangucha,Kebose,yes_vacc,1,2,yes_card,1,1,NA,no,1
+male,NA,1,continuous,2,Nyanungu,Mangucha,Kebose,no_vacc,NA,1,,1,0,NA,,NA
+female,38,1,continuous,2,Nyanungu,Mangucha,Kebose,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,28,4,continuous,2,Nyanungu,Mangucha,Kebose,yes_vacc,3,1,yes_card,3,3,NA,no,3
+female,44,1,continuous,2,Nyanungu,Mangucha,Kebose,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,30,2,continuous,2,Nyanungu,Mangucha,Kebose,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,38,1,continuous,2,Nyanungu,Mangucha,Ikorongo,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,35,2,continuous,2,Nyanungu,Mangucha,Ikorongo,yes_vacc,2,0,yes_card,0,0,NA,no,2
+female,79,1,continuous,2,Nyanungu,Mangucha,Ikorongo,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,58,1,continuous,2,Nyanungu,Mangucha,Ikorongo,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,18,1,continuous,2,Nyanungu,Mangucha,Ikorongo,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,70,2,continuous,2,Nyanungu,Mangucha,Ikorongo,yes_vacc,1,1,yes_card,0,1,NA,no,1
+female,45,1,continuous,2,Nyanungu,Mangucha,Ikorongo,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,30,1,continuous,2,Nyanungu,Mangucha,Ikorongo,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,62,4,continuous,2,Nyanungu,Mangucha,Ikorongo,yes_vacc,4,0,yes_card,4,4,NA,no,4
+female,42,2,continuous,2,Nyanungu,Mangucha,Ikorongo,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,45,1,continuous,2,Nyanungu,Mangucha,Manguncha Senta,no_vacc,NA,1,,1,0,NA,,NA
+male,40,3,continuous,2,Nyanungu,Mangucha,Manguncha Senta,no_vacc,NA,3,,3,0,NA,,NA
+male,35,2,continuous,2,Nyanungu,Mangucha,Manguncha Senta,yes_vacc,1,1,yes_card,1,1,NA,no,1
+male,32,3,continuous,2,Nyanungu,Mangucha,Manguncha Senta,yes_vacc,3,0,yes_card,2,3,NA,no,3
+male,32,1,continuous,2,Nyanungu,Mangucha,Manguncha Senta,yes_vacc,1,0,yes_card,1,0,NA,no,1
+female,29,3,continuous,2,Nyanungu,Mangucha,Manguncha Senta,unknown,NA,0,,1,0,NA,,NA
+male,35,2,continuous,2,Nyanungu,Mangucha,Manguncha Senta,yes_vacc,1,1,yes_card,1,1,NA,no,1
+female,19,1,continuous,2,Nyanungu,Mangucha,Manguncha Senta,unknown,NA,0,,1,0,NA,,NA
+female,42,3,continuous,2,Nyanungu,Mangucha,Manguncha Senta,yes_vacc,1,2,yes_card,1,1,NA,no,1
+male,48,2,continuous,2,Nyanungu,Mangucha,Manguncha Senta,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,78,2,continuous,2,Sirorisimba,Nyambili,Komachare,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,58,1,continuous,2,Sirorisimba,Nyambili,Komachare,no_vacc,NA,1,,1,0,NA,,NA
+female,40,7,continuous,2,Sirorisimba,Nyambili,Komachare,yes_vacc,3,4,yes_card,7,3,NA,no,3
+male,44,4,continuous,2,Sirorisimba,Nyambili,Komachare,yes_vacc,1,3,yes_card,4,1,NA,no,1
+female,52,3,continuous,2,Sirorisimba,Nyambili,Komachare,yes_vacc,2,1,yes_card,3,2,NA,no,2
+female,40,4,continuous,2,Sirorisimba,Nyambili,Komachare,yes_vacc,4,0,yes_card,4,4,NA,no,4
+female,46,1,continuous,2,Sirorisimba,Nyambili,Komachare,no_vacc,NA,1,,1,0,NA,,NA
+male,30,1,continuous,2,Sirorisimba,Nyambili,Komachare,no_vacc,NA,1,,1,0,NA,,NA
+female,43,5,continuous,2,Sirorisimba,Nyambili,Komachare,yes_vacc,3,2,yes_card,5,3,NA,no,3
+female,33,2,continuous,2,Sirorisimba,Nyambili,Komachare,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,52,1,continuous,2,Sirorisimba,Rwasereta,Rwasereta,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,42,1,continuous,2,Sirorisimba,Rwasereta,Rwasereta,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,48,3,continuous,2,Sirorisimba,Rwasereta,Rwasereta,yes_vacc,2,1,yes_card,3,2,NA,no,2
+female,34,3,continuous,2,Sirorisimba,Rwasereta,Rwasereta,yes_vacc,2,1,yes_card,3,2,NA,no,1
+female,42,2,continuous,2,Sirorisimba,Rwasereta,Rwasereta,no_vacc,NA,2,,2,0,NA,,NA
+female,36,3,continuous,2,Sirorisimba,Rwasereta,Rwasereta,yes_vacc,1,2,yes_card,3,1,NA,no,1
+female,42,4,continuous,2,Sirorisimba,Rwasereta,Rwasereta,yes_vacc,3,1,yes_card,4,3,NA,no,3
+female,45,4,continuous,2,Sirorisimba,Rwasereta,Rwasereta,yes_vacc,3,1,yes_card,4,3,NA,no,3
+female,61,2,continuous,2,Sirorisimba,Rwasereta,Rwasereta,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,38,3,continuous,2,Sirorisimba,Rwasereta,Rwasereta,yes_vacc,1,2,yes_card,3,1,NA,no,1
+female,41,3,continuous,2,Sirorisimba,Rwasereta,Komaraha,yes_vacc,1,2,yes_card,3,1,NA,no,1
+female,28,4,continuous,2,Sirorisimba,Rwasereta,Komaraha,yes_vacc,2,2,yes_card,4,2,NA,no,2
+female,59,2,continuous,2,Sirorisimba,Rwasereta,Komaraha,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,20,2,continuous,2,Sirorisimba,Rwasereta,Komaraha,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,49,2,continuous,2,Sirorisimba,Rwasereta,Komaraha,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,62,1,continuous,2,Sirorisimba,Rwasereta,Komaraha,no_vacc,NA,1,,1,0,NA,,NA
+female,54,1,continuous,2,Sirorisimba,Rwasereta,Komaraha,no_vacc,NA,1,,1,0,NA,,NA
+male,30,4,continuous,2,Sirorisimba,Rwasereta,Komaraha,no_vacc,NA,4,,4,0,NA,,NA
+male,48,2,continuous,2,Sirorisimba,Rwasereta,Komaraha,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,49,2,continuous,2,Sirorisimba,Rwasereta,Komaraha,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,18,2,continuous,3,Itiryo,Nyankoni,Tisya,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,35,1,continuous,3,Itiryo,Nyankoni,Tisya,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,25,1,continuous,3,Itiryo,Nyankoni,Tisya,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,24,1,continuous,3,Itiryo,Nyankoni,Tisya,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,30,3,continuous,3,Itiryo,Nyankoni,Tisya,yes_vacc,3,0,yes_card,3,3,NA,no,3
+male,35,4,continuous,3,Itiryo,Nyankoni,Tisya,yes_vacc,1,3,yes_card,4,1,NA,no,1
+male,39,1,continuous,3,Itiryo,Nyankoni,Tisya,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,18,5,continuous,3,Itiryo,Nyankoni,Tisya,yes_vacc,1,4,yes_card,1,1,NA,no,1
+female,39,1,continuous,3,Itiryo,Nyankoni,Tisya,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,55,1,continuous,3,Itiryo,Nyankoni,Tisya,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,18,3,continuous,3,Itiryo,Nyankoni,Nyankoni,no_vacc,NA,3,,3,0,NA,,NA
+female,45,2,continuous,3,Itiryo,Nyankoni,Nyankoni,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,55,2,continuous,3,Itiryo,Nyankoni,Nyankoni,no_vacc,NA,2,,2,0,NA,,NA
+female,30,1,continuous,3,Itiryo,Nyankoni,Nyankoni,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,60,1,continuous,3,Itiryo,Nyankoni,Nyankoni,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,39,1,continuous,3,Itiryo,Nyankoni,Nyankoni,no_vacc,NA,1,,1,0,NA,,NA
+female,72,1,continuous,3,Itiryo,Nyankoni,Nyankoni,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,22,1,continuous,3,Itiryo,Nyankoni,Nyankoni,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,62,5,continuous,3,Itiryo,Nyankoni,Nyankoni,yes_vacc,2,3,yes_card,2,2,NA,no,2
+male,45,2,continuous,3,Itiryo,Nyankoni,Nyankoni,yes_vacc,1,1,yes_card,2,1,NA,no,2
+female,39,3,continuous,3,Itiryo,Nyankoni,Gitimama,yes_vacc,1,2,yes_card,1,1,NA,no,1
+female,25,2,continuous,3,Itiryo,Nyankoni,Gitimama,yes_vacc,1,1,yes_card,1,1,NA,no,1
+male,70,1,continuous,3,Itiryo,Nyankoni,Gitimama,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,54,2,continuous,3,Itiryo,Nyankoni,Gitimama,yes_vacc,1,1,yes_card,1,1,NA,no,1
+male,28,1,continuous,3,Itiryo,Nyankoni,Gitimama,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,45,2,continuous,3,Itiryo,Nyankoni,Gitimama,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,65,1,continuous,3,Itiryo,Nyankoni,Gitimama,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,40,3,continuous,3,Itiryo,Nyankoni,Gitimama,yes_vacc,1,2,yes_card,1,1,NA,no,1
+male,21,2,continuous,3,Itiryo,Nyankoni,Gitimama,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,44,3,continuous,3,Itiryo,Nyankoni,Gitimama,yes_vacc,3,0,yes_card,3,3,NA,no,3
+male,82,1,continuous,2,Sirorisimba,Rwasereta,Kitaramanka,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,47,6,continuous,2,Sirorisimba,Rwasereta,Kitaramanka,yes_vacc,6,0,yes_card,6,6,NA,no,6
+male,50,1,continuous,2,Sirorisimba,Rwasereta,Kitaramanka,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,60,3,continuous,2,Sirorisimba,Rwasereta,Kitaramanka,yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,61,3,continuous,2,Sirorisimba,Rwasereta,Kitaramanka,yes_vacc,2,1,yes_card,3,2,NA,no,2
+male,47,1,continuous,2,Sirorisimba,Rwasereta,Kitaramanka,no_vacc,NA,1,,1,8,NA,,NA
+female,20,3,continuous,2,Sirorisimba,Rwasereta,Kitaramanka,yes_vacc,2,1,yes_card,3,2,NA,no,2
+female,50,2,continuous,2,Sirorisimba,Rwasereta,Kitaramanka,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,44,1,continuous,2,Sirorisimba,Rwasereta,Kitaramanka,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,21,3,continuous,2,Sirorisimba,Rwasereta,Kitaramanka,yes_vacc,2,1,yes_card,3,2,NA,no,2
+male,37,1,continuous,2,Sirorisimba,Kitaramanka,Mwiringo,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,36,9,continuous,2,Sirorisimba,Kitaramanka,Mwiringo,yes_vacc,3,6,yes_card,9,3,NA,no,3
+female,60,7,continuous,2,Sirorisimba,Kitaramanka,Mwiringo,yes_vacc,2,5,yes_card,7,2,NA,no,2
+male,28,2,continuous,2,Sirorisimba,Kitaramanka,Mwiringo,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,35,2,continuous,2,Sirorisimba,Kitaramanka,Mwiringo,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,45,2,continuous,2,Sirorisimba,Kitaramanka,Mwiringo,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,57,1,continuous,2,Sirorisimba,Kitaramanka,Mwiringo,yes_vacc,1,0,no_card,1,1,NA,no,1
+female,39,1,continuous,2,Sirorisimba,Kitaramanka,Mwiringo,yes_vacc,1,0,unknown,1,1,NA,no,1
+female,46,2,continuous,2,Sirorisimba,Kitaramanka,Mwiringo,yes_vacc,2,0,yes_card,2,0,NA,no,2
+male,72,3,continuous,2,Sirorisimba,Kitaramanka,Mwiringo,yes_vacc,2,1,yes_card,3,2,NA,no,2
+female,25,4,continuous,2,Sirorisimba,Kitaramanka,Kyamaiha,yes_vacc,3,1,yes_card,4,3,NA,no,3
+male,70,2,continuous,2,Sirorisimba,Kitaramanka,Kyamaiha,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,51,6,continuous,2,Sirorisimba,Kitaramanka,Kyamaiha,yes_vacc,4,2,yes_card,4,4,NA,no,4
+male,29,1,continuous,2,Sirorisimba,Kitaramanka,Kyamaiha,no_vacc,NA,1,,1,0,NA,,NA
+female,40,3,continuous,2,Sirorisimba,Kitaramanka,Kyamaiha,yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,62,1,continuous,2,Sirorisimba,Kitaramanka,Kyamaiha,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,46,3,continuous,2,Sirorisimba,Kitaramanka,Kyamaiha,yes_vacc,2,1,yes_card,3,2,NA,no,2
+male,45,3,continuous,2,Sirorisimba,Kitaramanka,Kyamaiha,yes_vacc,1,2,yes_card,3,1,NA,no,1
+female,32,3,continuous,2,Sirorisimba,Kitaramanka,Kyamaiha,yes_vacc,1,2,yes_card,3,1,NA,no,1
+female,60,1,continuous,2,Sirorisimba,Kitaramanka,Kyamaiha,no_vacc,NA,1,,1,0,NA,,NA
+female,35,4,continuous,2,Sirorisimba,Kitaramanka,Nyamimange,yes_vacc,4,0,yes_card,4,4,NA,no,4
+male,39,6,continuous,2,Sirorisimba,Kitaramanka,Nyamimange,yes_vacc,3,3,yes_card,6,3,NA,no,3
+female,39,4,continuous,2,Sirorisimba,Kitaramanka,Nyamimange,yes_vacc,2,2,yes_card,4,2,NA,no,2
+male,69,1,continuous,2,Sirorisimba,Kitaramanka,Nyamimange,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,39,14,continuous,2,Sirorisimba,Kitaramanka,Nyamimange,yes_vacc,2,12,yes_card,14,2,NA,no,2
+female,22,1,continuous,2,Sirorisimba,Kitaramanka,Nyamimange,no_vacc,NA,1,,1,0,NA,,NA
+female,45,1,continuous,2,Sirorisimba,Kitaramanka,Nyamimange,no_vacc,NA,1,,1,0,NA,,NA
+male,36,1,continuous,2,Sirorisimba,Kitaramanka,Nyamimange,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,70,1,continuous,2,Sirorisimba,Kitaramanka,Nyamimange,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,53,2,continuous,2,Sirorisimba,Kitaramanka,Nyamimange,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,48,1,continuous,3,Nyamimange,Kyankoma,Kabwasi,no_vacc,NA,1,,1,0,NA,,NA
+female,56,1,continuous,3,Nyamimange,Kyankoma,Kabwasi,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,60,2,continuous,3,Nyamimange,Kyankoma,Kabwasi,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,34,4,continuous,3,Nyamimange,Kyankoma,Kabwasi,yes_vacc,2,2,yes_card,4,2,NA,no,2
+female,25,2,continuous,3,Nyamimange,Kyankoma,Kabwasi,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,30,5,continuous,3,Nyamimange,Kyankoma,Kabwasi,yes_vacc,3,2,yes_card,5,3,NA,no,3
+female,67,4,continuous,3,Nyamimange,Kyankoma,Kabwasi,yes_vacc,4,3,yes_card,4,1,NA,no,1
+male,26,1,continuous,3,Nyamimange,Kyankoma,Kabwasi,no_vacc,NA,1,,1,0,NA,,NA
+female,60,2,continuous,3,Nyamimange,Kyankoma,Kabwasi,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,46,4,continuous,3,Nyamimange,Kyankoma,Kabwasi,yes_vacc,2,2,yes_card,4,2,NA,no,2
+male,43,5,continuous,3,Nyamimange,Kyankoma,Sania,yes_vacc,2,3,yes_card,5,2,NA,no,2
+male,45,3,continuous,3,Nyamimange,Kyankoma,Sania,yes_vacc,1,2,yes_card,3,1,NA,no,1
+female,23,3,continuous,3,Nyamimange,Kyankoma,Sania,no_vacc,NA,3,,3,0,NA,,NA
+male,38,3,continuous,3,Nyamimange,Kyankoma,Sania,yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,25,4,continuous,3,Nyamimange,Kyankoma,Sania,no_vacc,NA,4,,4,0,NA,,NA
+male,76,3,continuous,3,Nyamimange,Kyankoma,Sania,yes_vacc,2,1,yes_card,3,2,NA,no,2
+female,30,1,continuous,3,Nyamimange,Kyankoma,Sania,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,32,1,continuous,3,Nyamimange,Kyankoma,Sania,no_vacc,NA,1,,1,0,NA,,NA
+male,47,2,continuous,3,Nyamimange,Kyankoma,Sania,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,40,3,continuous,3,Nyamimange,Kyankoma,Sania,yes_vacc,1,2,yes_card,3,1,NA,no,1
+male,50,8,continuous,3,Nyamimange,Kwisaro,Nyamsense,yes_vacc,2,6,yes_card,8,2,NA,no,2
+male,35,1,continuous,3,Nyamimange,Kwisaro,Nyamsense,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,48,3,continuous,3,Nyamimange,Kwisaro,Nyamsense,yes_vacc,2,1,yes_card,3,2,NA,no,2
+male,45,3,continuous,3,Nyamimange,Kwisaro,Nyamsense,no_vacc,NA,3,,3,0,NA,,NA
+male,76,1,continuous,3,Nyamimange,Kwisaro,Nyamsense,no_vacc,NA,1,,1,0,NA,,NA
+female,28,2,continuous,3,Nyamimange,Kwisaro,Nyamsense,no_vacc,NA,2,,2,0,NA,,NA
+female,70,1,continuous,3,Nyamimange,Kwisaro,Nyamsense,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,20,2,continuous,3,Nyamimange,Kwisaro,Nyamsense,yes_vacc,1,1,yes_card,1,1,NA,no,1
+male,66,1,continuous,3,Nyamimange,Kwisaro,Nyamsense,no_vacc,NA,1,,1,0,NA,,NA
+male,52,4,continuous,3,Nyamimange,Kwisaro,Nyamsense,yes_vacc,4,0,yes_card,4,4,NA,no,4
+male,48,3,continuous,3,Nyamimange,Kyankoma,Mtakuja,yes_vacc,3,0,yes_card,3,3,NA,no,3
+male,42,1,continuous,3,Nyamimange,Kyankoma,Mtakuja,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,26,3,continuous,3,Nyamimange,Kyankoma,Mtakuja,yes_vacc,1,2,yes_card,3,1,NA,no,1
+male,49,8,continuous,3,Nyamimange,Kyankoma,Mtakuja,yes_vacc,1,0,yes_card,8,1,NA,no,1
+female,52,1,continuous,3,Nyamimange,Kyankoma,Mtakuja,no_vacc,NA,1,,1,0,NA,,NA
+female,41,1,continuous,3,Nyamimange,Kyankoma,Mtakuja,no_vacc,NA,1,,1,0,NA,,NA
+male,50,2,continuous,3,Nyamimange,Kyankoma,Mtakuja,no_vacc,NA,2,,2,0,NA,,NA
+female,68,4,continuous,3,Nyamimange,Kyankoma,Mtakuja,yes_vacc,4,0,yes_card,4,4,NA,no,0
+female,61,3,continuous,3,Nyamimange,Kyankoma,Mtakuja,yes_vacc,2,1,yes_card,3,2,NA,no,2
+female,47,4,continuous,3,Nyamimange,Kyankoma,Mtakuja,yes_vacc,2,2,yes_card,4,2,NA,no,2
+male,27,3,continuous,3,Nyamimange,Kwisaro,Ikongo la Kisyeri,yes_vacc,2,1,yes_card,3,2,NA,no,2
+male,39,3,continuous,3,Nyamimange,Kwisaro,Ikongo la Kisyeri,yes_vacc,2,1,yes_card,2,2,NA,no,2
+male,57,5,continuous,3,Nyamimange,Kwisaro,Ikongo la Kisyeri,yes_vacc,3,2,yes_card,5,3,NA,no,3
+male,4,2,continuous,3,Nyamimange,Kwisaro,Ikongo la Kisyeri,yes_vacc,2,2,yes_card,4,2,NA,no,2
+female,32,3,continuous,3,Nyamimange,Kwisaro,Ikongo la Kisyeri,no_vacc,NA,3,,3,0,NA,,NA
+male,21,5,continuous,3,Nyamimange,Kwisaro,Ikongo la Kisyeri,yes_vacc,5,0,yes_card,5,5,NA,no,5
+female,23,1,continuous,3,Nyamimange,Kwisaro,Ikongo la Kisyeri,no_vacc,NA,1,,1,0,NA,,NA
+male,70,4,continuous,3,Nyamimange,Kwisaro,Ikongo la Kisyeri,yes_vacc,3,1,yes_card,4,3,NA,no,3
+male,54,9,continuous,3,Nyamimange,Kwisaro,Ikongo la Kisyeri,yes_vacc,3,6,yes_card,9,3,NA,no,0
+female,72,1,continuous,3,Nyamimange,Kwisaro,Ikongo la Kisyeri,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,26,1,continuous,3,Itiryo,"Kangariani,Kangariani","Isago,Isago",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,40,2,continuous,3,Itiryo,"Kangariani,Kangariani","Isago,Isago",yes_vacc,2,0,unknown,2,2,NA,no,0
+male,56,1,continuous,3,Itiryo,"Kangariani,Kangariani","Isago,Isago",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,45,1,continuous,3,Itiryo,"Kangariani,Kangariani","Isago,Isago",yes_vacc,1,0,yes_card,1,0,NA,no,1
+male,45,2,continuous,3,Itiryo,"Kangariani,Kangariani","Isago,Isago",yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,65,3,continuous,3,Itiryo,"Kangariani,Kangariani","Isago,Isago",yes_vacc,2,1,yes_card,3,2,NA,no,2
+female,20,1,continuous,3,Itiryo,"Kangariani,Kangariani","Isago,Isago",no_vacc,NA,1,,1,0,NA,,NA
+female,22,1,continuous,3,Itiryo,"Kangariani,Kangariani","Isago,Isago",no_vacc,NA,1,,1,0,NA,,NA
+male,30,1,continuous,3,Itiryo,"Kangariani,Kangariani","Isago,Isago",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,22,3,continuous,3,Itiryo,"Kangariani,Kangariani","Birira,Birira",yes_vacc,3,0,yes_card,3,0,NA,no,3
+male,71,3,continuous,3,Itiryo,"Kangariani,Kangariani","Isago,Isago",yes_vacc,3,0,yes_card,1,1,NA,no,3
+female,19,2,continuous,3,Itiryo,"Kangariani,Kangariani","Birira,Birira",yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,20,2,continuous,3,Itiryo,"Kangariani,Kangariani","Birira,Birira",yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,36,2,continuous,3,Itiryo,"Kangariani,Kangariani","Kangariani senta,Kangariani senta",yes_vacc,2,0,yes_card,0,0,NA,no,2
+male,21,2,continuous,3,Itiryo,"Kangariani,Kangariani","Birira,Birira",yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,20,2,continuous,3,Itiryo,"Kangariani,Kangariani","Kangariani senta,Kangariani senta",yes_vacc,2,0,no_card,2,2,NA,no,0
+male,40,1,continuous,3,Itiryo,"Kangariani,Kangariani","Kangariani senta,Kangariani senta",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,19,1,continuous,3,Itiryo,"Kangariani,Kangariani","Birira,Birira",yes_vacc,1,0,no_card,0,0,NA,no,0
+female,46,2,continuous,3,Itiryo,"Kangariani,Kangariani","Birira,Birira",yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,23,1,continuous,3,Itiryo,"Kangariani,Kangariani","Kangariani senta,Kangariani senta",no_vacc,NA,1,,1,0,NA,,NA
+female,25,2,continuous,3,Itiryo,"Kangariani,Kangariani","Birira,Birira",yes_vacc,1,1,no_card,1,0,NA,no,0
+female,30,1,continuous,3,Itiryo,"Kangariani,Kangariani","Kangariani senta,Kangariani senta",yes_vacc,1,0,yes_card,1,1,NA,no,0
+male,19,1,continuous,3,Itiryo,"Kangariani,Kangariani","Birira,Birira",yes_vacc,1,0,yes_card,0,0,NA,no,1
+female,56,4,continuous,3,Itiryo,"Kangariani,Kangariani","Kangariani senta,Kangariani senta",yes_vacc,2,2,yes_card,4,2,NA,no,2
+female,29,1,continuous,3,Itiryo,"Kangariani,Kangariani","Birira,Birira",yes_vacc,1,0,no_card,1,1,NA,no,0
+male,20,2,continuous,3,Itiryo,"Kangariani,Kangariani","Kangariani senta,Kangariani senta",yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,65,2,continuous,3,Itiryo,"Kangariani,Kangariani","Kangariani senta,Kangariani senta",yes_vacc,1,1,yes_card,1,0,NA,no,1
+male,24,2,continuous,3,Itiryo,"Kangariani,Kangariani","Birira,Birira",yes_vacc,2,0,no_card,2,2,NA,no,0
+male,68,1,continuous,3,Itiryo,"Kangariani,Kangariani","Kangariani senta,Kangariani senta",yes_vacc,1,0,yes_card,0,0,NA,no,1
+female,51,1,continuous,3,Itiryo,"Kangariani,Kangariani","Kangariani senta,Kangariani senta",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,49,1,pulse,0,Komuge,Kuruya,Senta,yes_vacc,1,0,yes_card,1,1,1,yes,1
+female,40,2,pulse,0,Komuge,Kuruya,Senta,yes_vacc,2,0,yes_card,1,2,NA,no,2
+male,55,1,pulse,0,Komuge,Kuruya,Senta,no_vacc,NA,1,,1,1,NA,,NA
+male,44,2,pulse,0,Komuge,Kuruya,Senta,yes_vacc,2,1,yes_card,2,1,1,yes,1
+female,34,2,pulse,0,Komuge,Kuruya,Senta,yes_vacc,2,1,yes_card,2,1,NA,no,1
+female,46,1,pulse,0,Komuge,Kuruya,Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,31,1,pulse,0,Komuge,Kuruya,Senta,no_vacc,NA,1,,1,1,NA,,NA
+female,33,6,pulse,0,Komuge,Kuruya,Senta,yes_vacc,2,0,yes_card,2,1,NA,no,2
+male,26,1,pulse,0,Komuge,Kuruya,Senta,yes_vacc,1,0,yes_card,1,0,1,yes,1
+female,20,1,pulse,0,Komuge,Kuruya,Senta,no_vacc,NA,1,,1,0,NA,,NA
+female,48,1,pulse,0,Komuge,Kuruya,Songambele,yes_vacc,1,0,no_card,1,1,NA,no,0
+female,33,4,pulse,0,Komuge,Kuruya,Songambele,yes_vacc,2,2,yes_card,3,0,NA,no,2
+female,NA,1,pulse,0,Komuge,Kuruya,Shule,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,53,3,pulse,0,Komuge,Kuruya,Shule,yes_vacc,3,0,yes_card,3,1,NA,no,3
+female,61,1,pulse,0,Komuge,Kuruya,Shule,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,45,1,pulse,0,Komuge,Kuruya,Shule,no_vacc,NA,1,,1,0,NA,,NA
+female,37,1,pulse,0,Komuge,Kuruya,Shule,no_vacc,NA,1,,1,0,NA,,NA
+female,43,3,pulse,0,Komuge,Kuruya,Shule,yes_vacc,1,2,yes_card,3,1,NA,no,1
+male,56,1,pulse,0,Komuge,Kuruya,Shule,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,53,1,pulse,0,Komuge,Kuruya,Shule,no_vacc,NA,1,,1,0,NA,,NA
+male,42,7,pulse,0,Komuge,Kuruya,Shule,yes_vacc,1,0,yes_card,7,1,NA,no,1
+female,62,2,pulse,0,Komuge,Kuruya,Shule,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,38,2,continuous,3,Nyamimange,Kwisaro,Kiagata Ndogo,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,52,5,continuous,3,Nyamimange,Kwisaro,Kiagata Ndogo,yes_vacc,2,3,yes_card,5,2,NA,no,2
+female,78,3,continuous,3,Nyamimange,Kwisaro,Kiagata Ndogo,yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,48,2,continuous,3,Nyamimange,Kwisaro,Kiagata Ndogo,no_vacc,NA,2,,2,0,NA,,NA
+female,56,3,continuous,3,Nyamimange,Kwisaro,Kiagata Ndogo,yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,60,1,continuous,3,Nyamimange,Kwisaro,Kiagata Ndogo,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,67,1,continuous,3,Nyamimange,Kwisaro,Kiagata Ndogo,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,28,3,continuous,3,Nyamimange,Kwisaro,Kiagata Ndogo,yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,36,1,continuous,3,Nyamimange,Kwisaro,Kiagata Ndogo,no_vacc,NA,1,,1,0,NA,,NA
+female,55,3,continuous,3,Nyamimange,Kwisaro,Kiagata Ndogo,yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,25,3,pulse,0,Masaba,Bisarye,Nyabitaramanka,no_vacc,NA,3,,3,0,NA,,NA
+female,23,3,pulse,0,Masaba,Bisarye,Nyabitaramanka,no_vacc,NA,3,,3,0,NA,,NA
+male,44,1,pulse,0,Masaba,Bisarye,Nyabitaramanka,no_vacc,NA,1,,1,0,NA,,NA
+male,75,2,pulse,0,Masaba,Bisarye,Nyabitaramanka,no_vacc,NA,2,,2,0,NA,,NA
+female,36,1,pulse,0,Masaba,Bisarye,Nyabitaramanka,no_vacc,NA,1,,1,0,NA,,NA
+male,44,3,pulse,0,Masaba,Bisarye,Nyabitaramanka,no_vacc,NA,3,,0,0,NA,,NA
+male,38,1,pulse,0,Masaba,Bisarye,Nyabitaramanka,no_vacc,NA,1,,1,0,NA,,NA
+female,59,5,pulse,0,Masaba,Bisarye,Nyabitaramanka,no_vacc,NA,5,,5,0,NA,,NA
+female,36,2,pulse,0,Masaba,Bisarye,Nyabitaramanka,no_vacc,NA,2,,2,0,NA,,NA
+male,55,3,pulse,0,Masaba,Bisarye,Nyabitaramanka,no_vacc,NA,3,,3,0,NA,,NA
+female,50,11,pulse,0,Masaba,Bisarye,Nyang'ombe,yes_vacc,1,10,yes_card,11,1,NA,no,1
+female,37,1,pulse,0,Masaba,Bisarye,Nyang'ombe,no_vacc,NA,1,,1,0,NA,,NA
+female,33,1,pulse,0,Masaba,Bisarye,Nyang'ombe,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,45,3,pulse,0,Masaba,Bisarye,Nyang'ombe,yes_vacc,2,1,yes_card,3,2,NA,no,2
+male,42,3,pulse,0,Masaba,Bisarye,Nyang'ombe,no_vacc,NA,3,,3,0,NA,,NA
+male,48,3,pulse,0,Masaba,Bisarye,Nyang'ombe,no_vacc,NA,3,,3,0,NA,,NA
+male,48,2,pulse,0,Masaba,Bisarye,Nyang'ombe,no_vacc,NA,2,,2,0,NA,,NA
+male,70,1,pulse,0,Masaba,Bisarye,Nyang'ombe,no_vacc,NA,1,,1,0,NA,,NA
+male,54,2,pulse,0,Masaba,Bisarye,Nyang'ombe,no_vacc,NA,2,,2,0,NA,,NA
+male,33,1,pulse,0,Masaba,Bisarye,Nyang'ombe,no_vacc,NA,1,,1,0,NA,,NA
+female,38,2,continuous,3,Itiryo,Itiryo,Senta,yes_vacc,2,0,no_card,2,2,NA,no,0
+female,40,8,continuous,3,Itiryo,Itiryo,Senta,yes_vacc,1,7,yes_card,8,1,NA,no,1
+male,78,1,continuous,3,Itiryo,Itiryo,Senta,yes_vacc,1,0,yes_card,0,0,NA,no,1
+female,65,2,continuous,3,Itiryo,Itiryo,Senta,yes_vacc,2,0,no_card,2,2,NA,no,0
+male,63,1,continuous,3,Itiryo,Itiryo,Senta,yes_vacc,1,0,yes_card,0,0,NA,no,1
+male,39,1,continuous,3,Itiryo,Itiryo,Senta,yes_vacc,1,0,no_card,1,1,NA,no,0
+male,32,1,continuous,3,Itiryo,Itiryo,Senta,no_vacc,NA,1,,1,0,NA,,NA
+female,68,1,continuous,3,Itiryo,Itiryo,Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,72,1,continuous,3,Itiryo,Itiryo,Senta,no_vacc,NA,1,,0,0,NA,,NA
+male,61,2,continuous,3,Itiryo,Itiryo,Senta,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,58,1,continuous,3,Itiryo,Itiryo,Nyaitebe,no_vacc,NA,1,,1,0,NA,,NA
+male,68,1,continuous,3,Itiryo,Itiryo,Nyaitebe,no_vacc,NA,1,,1,0,NA,,NA
+female,45,2,continuous,3,Itiryo,Itiryo,Nyaitebe,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,25,1,continuous,3,Itiryo,Itiryo,Nyaitebe,yes_vacc,1,0,yes_card,0,0,NA,no,1
+female,23,2,continuous,3,Itiryo,Itiryo,Nyaitebe,yes_vacc,2,0,yes_card,0,0,NA,no,2
+male,70,1,continuous,3,Itiryo,Itiryo,Nyaitebe,yes_vacc,1,0,yes_card,0,0,NA,no,1
+female,36,1,continuous,3,Itiryo,Itiryo,Nyaitebe,yes_vacc,1,0,yes_card,1,0,NA,no,1
+female,36,3,continuous,3,Itiryo,Itiryo,Nyaitebe,yes_vacc,3,0,no_card,3,3,NA,no,0
+female,28,2,continuous,3,Itiryo,Itiryo,Nyaitebe,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,34,3,continuous,3,Itiryo,Itiryo,Nyaitebe,yes_vacc,3,0,no_card,0,0,NA,no,0
+male,23,1,continuous,3,Itiryo,Itiryo,Manyata,yes_vacc,1,0,no_card,0,0,NA,no,0
+male,23,1,continuous,3,Itiryo,Itiryo,Manyata,yes_vacc,1,0,no_card,0,0,NA,no,0
+male,23,1,continuous,3,Itiryo,Itiryo,Manyata,yes_vacc,1,0,no_card,0,0,NA,no,0
+male,23,1,continuous,3,Itiryo,Itiryo,Manyata,yes_vacc,1,0,no_card,0,0,NA,no,0
+female,38,1,continuous,3,Itiryo,Itiryo,Manyata,no_vacc,NA,1,,1,0,NA,,NA
+female,38,1,continuous,3,Itiryo,Itiryo,Manyata,no_vacc,NA,1,,1,0,NA,,NA
+female,38,1,continuous,3,Itiryo,Itiryo,Manyata,no_vacc,NA,1,,1,0,NA,,NA
+female,38,1,continuous,3,Itiryo,Itiryo,Manyata,no_vacc,NA,1,,1,0,NA,,NA
+male,69,1,continuous,3,Itiryo,Itiryo,Manyata,no_vacc,NA,1,,1,0,NA,,NA
+male,69,1,continuous,3,Itiryo,Itiryo,Manyata,no_vacc,NA,1,,1,0,NA,,NA
+female,30,2,continuous,3,Itiryo,Itiryo,Manyata,yes_vacc,2,0,no_card,2,2,NA,no,0
+female,30,2,continuous,3,Itiryo,Itiryo,Manyata,yes_vacc,2,0,no_card,2,2,NA,no,0
+female,22,1,continuous,3,Itiryo,Itiryo,Manyata,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,22,1,continuous,3,Itiryo,Itiryo,Manyata,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,20,2,continuous,3,Itiryo,Itiryo,Manyata,yes_vacc,1,1,yes_card,1,1,NA,no,1
+female,20,2,continuous,3,Itiryo,Itiryo,Manyata,yes_vacc,1,1,yes_card,1,1,NA,no,1
+male,18,2,continuous,3,Itiryo,Itiryo,Manyata,yes_vacc,2,0,no_card,2,2,NA,no,0
+male,18,2,continuous,3,Itiryo,Itiryo,Manyata,yes_vacc,2,0,no_card,2,2,NA,no,0
+male,40,2,continuous,3,Itiryo,Itiryo,Manyata,yes_vacc,2,0,yes_card,1,1,NA,no,2
+male,40,2,continuous,3,Itiryo,Itiryo,Manyata,yes_vacc,2,0,yes_card,1,1,NA,no,2
+female,30,1,continuous,3,Itiryo,Itiryo,Manyata,yes_vacc,1,0,no_card,1,1,NA,no,0
+female,30,1,continuous,3,Itiryo,Itiryo,Manyata,yes_vacc,1,0,no_card,1,1,NA,no,0
+female,40,1,continuous,3,Itiryo,Itiryo,Manyata,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,40,1,continuous,3,Itiryo,Itiryo,Manyata,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,35,2,pulse,0,Masaba,Bisarye,Kurutambi,no_vacc,NA,2,,2,0,NA,,NA
+female,66,4,pulse,0,Masaba,Bisarye,Kurutambi,no_vacc,NA,4,,4,0,NA,,NA
+male,80,1,pulse,0,Masaba,Bisarye,Kurutambi,no_vacc,NA,1,,1,0,NA,,NA
+female,25,3,pulse,0,Masaba,Bisarye,Kurutambi,no_vacc,NA,3,,3,0,NA,,NA
+male,33,2,pulse,0,Masaba,Bisarye,Kurutambi,no_vacc,NA,2,,2,0,NA,,NA
+female,40,2,pulse,0,Masaba,Bisarye,Kurutambi,no_vacc,NA,2,,2,0,NA,,NA
+male,33,3,pulse,0,Masaba,Bisarye,Kurutambi,no_vacc,NA,3,,3,0,NA,,NA
+female,42,4,pulse,0,Masaba,Bisarye,Kurutambi,no_vacc,NA,4,,4,0,NA,,NA
+male,61,1,pulse,0,Masaba,Bisarye,Kurutambi,no_vacc,NA,1,,1,0,NA,,NA
+male,48,5,pulse,0,Masaba,Bisarye,Kurutambi,no_vacc,NA,5,,5,0,NA,,NA
+male,74,3,pulse,0,Masaba,Nyansirori,Nyansirori,no_vacc,NA,3,,3,0,NA,,NA
+female,25,4,pulse,0,Masaba,Nyansirori,Nyansirori,yes_vacc,1,3,yes_card,4,1,NA,no,1
+male,38,2,pulse,0,Masaba,Nyansirori,Nyansirori,no_vacc,NA,2,,2,0,NA,,NA
+female,20,5,pulse,0,Masaba,Nyansirori,Nyansirori,yes_vacc,1,4,yes_card,5,1,NA,no,1
+male,90,4,pulse,0,Masaba,Nyansirori,Nyansirori,no_vacc,NA,4,,4,0,NA,,NA
+male,45,2,pulse,0,Masaba,Nyansirori,Nyansirori,no_vacc,NA,2,,2,0,NA,,NA
+male,57,2,pulse,0,Masaba,Nyansirori,Nyansirori,no_vacc,NA,2,,2,0,NA,,NA
+female,22,1,pulse,0,Masaba,Nyansirori,Nyansirori,no_vacc,NA,1,,1,0,NA,,NA
+female,58,1,pulse,0,Masaba,Nyansirori,Nyansirori,no_vacc,NA,1,,1,0,NA,,NA
+male,47,1,pulse,0,Masaba,Nyansirori,Nyansirori,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,51,4,pulse,0,Masaba,Nyansirori,Nyamurasa,yes_vacc,2,2,yes_card,4,2,NA,no,2
+female,20,2,pulse,0,Masaba,Nyansirori,Nyamurasa,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,48,2,pulse,0,Masaba,Nyansirori,Nyamurasa,no_vacc,NA,2,,2,0,NA,,NA
+female,52,2,pulse,0,Masaba,Nyansirori,Nyamurasa,no_vacc,NA,2,,2,0,NA,,NA
+female,40,2,pulse,0,Masaba,Nyansirori,Nyamurasa,no_vacc,NA,2,,2,0,NA,,NA
+male,51,1,pulse,0,Masaba,Nyansirori,Nyamurasa,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,42,1,pulse,0,Masaba,Nyansirori,Nyamurasa,no_vacc,NA,1,,1,0,NA,,NA
+male,42,2,pulse,0,Masaba,Nyansirori,Nyamurasa,no_vacc,NA,2,,2,0,NA,,NA
+male,88,1,pulse,0,Masaba,Nyansirori,Nyamurasa,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,NA,3,pulse,0,Masaba,Nyansirori,Nyamurasa,yes_vacc,2,1,yes_card,3,2,NA,no,2
+female,18,2,continuous,1,Gorong a,Kenyamosabi,Kiobhoke,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,19,1,continuous,1,Gorong a,Kenyamosabi,Kiobhoke,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,45,1,continuous,1,Gorong a,Kenyamosabi,Kiobhoke,no_vacc,NA,1,,1,0,NA,,NA
+female,60,1,continuous,1,Gorong a,Kenyamosabi,Kiobhoke,no_vacc,NA,1,,1,0,NA,,NA
+male,38,1,continuous,1,Gorong a,Kenyamosabi,Kiobhoke,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,36,2,continuous,1,Gorong a,Kenyamosabi,Kiobhoke,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,40,1,continuous,1,Gorong a,Kenyamosabi,Kiobhoke,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,47,3,continuous,1,Gorong a,Kenyamosabi,Kiobhoke,yes_vacc,2,1,yes_card,2,2,NA,no,2
+female,42,1,continuous,1,Gorong a,Kenyamosabi,Kiobhoke,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,40,1,continuous,1,Gorong a,Kenyamosabi,Kiobhoke,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,34,1,continuous,1,Gorong a,"Kenyamosabi,Kenyamosabi","Nyamagongwe,Nyamagongwe",no_vacc,NA,1,,1,0,NA,,NA
+male,18,2,continuous,1,Gorong a,"Kenyamosabi,Kenyamosabi","Nyamagongwe,Nyamagongwe",yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,49,1,continuous,1,Gorong a,"Kenyamosabi,Kenyamosabi","Nyamagongwe,Nyamagongwe",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,20,1,continuous,1,Gorong a,"Kenyamosabi,Kenyamosabi","Nyamagongwe,Nyamagongwe",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,28,2,continuous,1,Gorong a,"Kenyamosabi,Kenyamosabi","Nyamagongwe,Nyamagongwe",yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,70,3,continuous,1,Gorong a,"Kenyamosabi,Kenyamosabi","Nyamagongwe,Nyamagongwe",yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,28,6,continuous,1,Gorong a,"Kenyamosabi,Kenyamosabi","Nyamagongwe,Nyamagongwe",yes_vacc,6,0,yes_card,6,6,NA,no,6
+female,28,3,continuous,1,Gorong a,"Kenyamosabi,Kenyamosabi","Nyamagongwe,Nyamagongwe",yes_vacc,3,0,yes_card,3,3,NA,no,3
+male,20,1,continuous,1,Gorong a,"Kenyamosabi,Kenyamosabi","Nyamagongwe,Nyamagongwe",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,19,2,continuous,1,Gorong a,"Kenyamosabi,Kenyamosabi","Nyamagongwe,Nyamagongwe",yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,45,9,continuous,1,Gorong a,"Kenyamosabi,Kenyamosabi,Kenyamosabi","Ngonche,Ngonche,Ngonche",yes_vacc,2,7,yes_card,2,2,NA,no,2
+female,58,1,continuous,1,Gorong a,"Kenyamosabi,Kenyamosabi,Kenyamosabi","Ngonche,Ngonche,Ngonche",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,36,3,continuous,1,Gorong a,"Kenyamosabi,Kenyamosabi,Kenyamosabi","Ngonche,Ngonche,Ngonche",yes_vacc,3,0,yes_card,3,3,NA,no,3
+male,18,4,continuous,1,Gorong a,"Kenyamosabi,Kenyamosabi,Kenyamosabi","Ngonche,Ngonche,Ngonche",yes_vacc,2,2,yes_card,2,2,NA,no,2
+male,35,4,continuous,1,Gorong a,"Kenyamosabi,Kenyamosabi,Kenyamosabi","Ngonche,Ngonche,Ngonche",yes_vacc,1,3,yes_card,1,1,NA,no,1
+female,18,2,continuous,1,Gorong a,"Kenyamosabi,Kenyamosabi,Kenyamosabi","Ngonche,Ngonche,Ngonche",yes_vacc,1,1,yes_card,1,1,NA,no,1
+female,55,7,continuous,1,Gorong a,"Kenyamosabi,Kenyamosabi,Kenyamosabi","Ngonche,Ngonche,Ngonche",yes_vacc,3,4,yes_card,3,3,NA,no,3
+female,35,1,continuous,1,Gorong a,"Kenyamosabi,Kenyamosabi,Kenyamosabi","Ngonche,Ngonche,Ngonche",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,19,2,continuous,1,Gorong a,"Kenyamosabi,Kenyamosabi,Kenyamosabi","Ngonche,Ngonche,Ngonche",yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,19,1,continuous,1,Gorong a,"Kenyamosabi,Kenyamosabi,Kenyamosabi","Ngonche,Ngonche,Ngonche",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,40,1,pulse,0,Masaba,Nyansirori,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA
+female,40,1,pulse,0,Masaba,Nyansirori,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA
+female,40,1,pulse,0,Masaba,Nyansirori,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA
+female,40,1,pulse,0,Masaba,Nyansirori,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA
+female,85,1,pulse,0,Masaba,Nyansirori,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA
+female,85,1,pulse,0,Masaba,Nyansirori,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA
+female,85,1,pulse,0,Masaba,Nyansirori,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA
+female,85,1,pulse,0,Masaba,Nyansirori,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA
+male,39,3,pulse,0,Masaba,Nyansirori,Chamasabeta,no_vacc,NA,3,,3,0,NA,,NA
+male,39,3,pulse,0,Masaba,Nyansirori,Chamasabeta,no_vacc,NA,3,,3,0,NA,,NA
+male,39,3,pulse,0,Masaba,Nyansirori,Chamasabeta,no_vacc,NA,3,,3,0,NA,,NA
+male,39,3,pulse,0,Masaba,Nyansirori,Chamasabeta,no_vacc,NA,3,,3,0,NA,,NA
+female,46,1,pulse,0,Masaba,Nyansirori,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA
+female,46,1,pulse,0,Masaba,Nyansirori,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA
+male,46,3,pulse,0,Masaba,Nyansirori,Chamasabeta,yes_vacc,1,2,yes_card,3,1,NA,no,1
+male,46,3,pulse,0,Masaba,Nyansirori,Chamasabeta,yes_vacc,1,2,yes_card,3,1,NA,no,1
+male,32,3,pulse,0,Masaba,Nyansirori,Chamasabeta,yes_vacc,3,0,yes_card,3,0,3,yes,3
+male,32,3,pulse,0,Masaba,Nyansirori,Chamasabeta,yes_vacc,3,0,yes_card,3,0,3,yes,3
+male,46,1,pulse,0,Masaba,Nyansirori,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA
+male,46,1,pulse,0,Masaba,Nyansirori,Chamasabeta,no_vacc,NA,1,,1,0,NA,,NA
+female,51,1,pulse,0,Masaba,Nyansirori,Chamasabeta,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,51,1,pulse,0,Masaba,Nyansirori,Chamasabeta,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,80,1,pulse,0,Masaba,Nyansirori,Chamasabeta,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,80,1,pulse,0,Masaba,Nyansirori,Chamasabeta,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,46,3,pulse,0,Komuge,Irienyi,Nyakatende,yes_vacc,3,2,yes_card,3,1,NA,no,1
+male,37,1,pulse,0,Komuge,Irienyi,Nyakatende,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,30,1,pulse,0,Komuge,Irienyi,Nyakatende,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,43,1,pulse,0,Komuge,Irienyi,Nyakatende,no_vacc,NA,1,,1,0,NA,,NA
+male,67,2,pulse,0,Komuge,"Komuge,Komuge,Komuge,Komuge,Komuge,Komuge,Komuge","Ngereri,Ngereri,Ngereri,Ngereri,Ngereri,Ngereri,Ngereri",yes_vacc,1,0,yes_card,2,1,NA,no,1
+male,35,1,pulse,0,Komuge,"Komuge,Komuge,Komuge,Komuge,Komuge,Komuge,Komuge","Ngereri,Ngereri,Ngereri,Ngereri,Ngereri,Ngereri,Ngereri",no_vacc,NA,1,,1,0,NA,,NA
+female,58,2,pulse,0,Komuge,"Komuge,Komuge,Komuge,Komuge,Komuge,Komuge,Komuge","Ngereri,Ngereri,Ngereri,Ngereri,Ngereri,Ngereri,Ngereri",yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,18,3,pulse,0,Komuge,"Komuge,Komuge,Komuge,Komuge,Komuge,Komuge,Komuge","Ngereri,Ngereri,Ngereri,Ngereri,Ngereri,Ngereri,Ngereri",no_vacc,NA,3,,3,0,NA,,NA
+female,45,4,pulse,0,Komuge,Irienyi,Ititwe,yes_vacc,1,3,yes_card,2,0,NA,no,1
+male,14,4,pulse,0,Komuge,Irienyi,Ititwe,yes_vacc,3,3,yes_card,2,2,NA,no,3
+female,32,2,pulse,0,Komuge,Irienyi,Ititwe,no_vacc,NA,2,,3,0,NA,,NA
+male,50,1,pulse,0,Komuge,Irienyi,Ititwe,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,38,3,pulse,0,Komuge,Irienyi,Ititwe,yes_vacc,1,2,yes_card,2,1,NA,no,1
+male,65,3,pulse,0,Komuge,Irienyi,Ititwe,yes_vacc,1,2,yes_card,3,1,NA,no,1
+male,57,1,pulse,0,Komuge,Irienyi,Ititwe,no_vacc,NA,1,,1,0,NA,,NA
+male,NA,4,pulse,0,Komuge,Irienyi,Ititwe,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,19,4,pulse,0,Komuge,Irienyi,Ititwe,yes_vacc,1,3,yes_card,4,1,NA,no,1
+male,82,3,pulse,0,Komuge,Irienyi,Ititwe,yes_vacc,2,1,yes_card,1,0,NA,no,2
+male,15,1,pulse,0,Komuge,Irienyi,Malegeri,yes_vacc,1,0,yes_card,1,0,NA,no,1
+male,16,1,pulse,0,Komuge,Irienyi,Malegeri,no_vacc,NA,1,,1,0,NA,,NA
+female,33,1,pulse,0,Komuge,Irienyi,Malegeri,no_vacc,NA,1,,2,0,NA,,NA
+female,20,1,pulse,0,Komuge,Irienyi,Malegeri,no_vacc,NA,1,,1,1,NA,,NA
+female,31,3,pulse,0,Komuge,Irienyi,Malegeri,yes_vacc,1,2,yes_card,1,1,NA,no,1
+male,39,3,pulse,0,Komuge,Irienyi,Malegeri,yes_vacc,1,2,yes_card,3,1,NA,no,1
+female,34,4,pulse,0,Komuge,Irienyi,Malegeri,yes_vacc,4,0,yes_card,4,4,NA,no,4
+male,58,3,pulse,0,Komuge,Irienyi,Malegeri,yes_vacc,3,0,yes_card,3,1,2,yes,3
+female,33,1,continuous,1,Gorong a,Masurura,Nyaichirichiri,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,29,3,continuous,1,Gorong a,Masurura,Nyaichirichiri,yes_vacc,2,1,no_card,2,1,NA,no,0
+female,57,2,continuous,1,Gorong a,Masurura,Nyaichirichiri,yes_vacc,2,0,yes_card,2,1,NA,no,2
+male,53,3,continuous,1,Gorong a,Masurura,Nyaichirichiri,yes_vacc,1,2,yes_card,3,1,NA,no,1
+female,22,1,continuous,1,Gorong a,Masurura,Nyaichirichiri,no_vacc,NA,1,,1,0,NA,,NA
+male,25,2,continuous,1,Gorong a,Masurura,Nyaichirichiri,no_vacc,NA,2,,2,0,NA,,NA
+female,23,2,continuous,1,Gorong a,Masurura,Nyaichirichiri,yes_vacc,1,1,no_card,0,0,NA,no,0
+female,65,1,continuous,1,Gorong a,Masurura,Nyaichirichiri,no_vacc,NA,1,,1,0,NA,,NA
+female,32,2,continuous,1,Gorong a,Masurura,Nyaichirichiri,no_vacc,NA,2,,2,0,NA,,NA
+female,30,2,continuous,1,Gorong a,Masurura,Nyaichirichiri,yes_vacc,2,0,yes_card,1,1,NA,no,2
+female,42,1,continuous,1,Gorong a,Masurura,Nyantare,yes_vacc,1,0,yes_card,1,0,1,yes,1
+male,64,3,continuous,1,Gorong a,Masurura,Nyantare,yes_vacc,3,0,yes_card,3,3,NA,no,3
+male,56,1,continuous,1,Gorong a,Masurura,Nyantare,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,45,1,continuous,1,Gorong a,Masurura,Nyantare,no_vacc,NA,1,,1,0,NA,,NA
+male,32,1,continuous,1,Gorong a,Masurura,Nyantare,no_vacc,NA,1,,1,0,NA,,NA
+female,38,1,continuous,1,Gorong a,Masurura,Nyantare,no_vacc,NA,1,,1,0,NA,,NA
+female,33,3,continuous,1,Gorong a,Masurura,Nyantare,yes_vacc,2,1,yes_card,1,0,NA,no,2
+male,22,3,continuous,1,Gorong a,Masurura,Nyantare,no_vacc,NA,3,,3,0,NA,,NA
+female,35,2,continuous,1,Gorong a,Masurura,Nyantare,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,49,3,continuous,1,Gorong a,Masurura,Nyantare,no_vacc,NA,3,,3,0,NA,,NA
+male,41,2,continuous,1,Gorong a,Masurura,Kemoseti,yes_vacc,1,1,yes_card,1,0,NA,no,1
+male,68,1,continuous,1,Gorong a,Masurura,Kemoseti,yes_vacc,1,0,no_card,1,1,NA,no,0
+female,53,1,continuous,1,Gorong a,Masurura,Kemoseti,no_vacc,NA,1,,1,0,NA,,NA
+male,19,2,continuous,1,Gorong a,Masurura,Kemoseti,yes_vacc,2,0,no_card,2,2,NA,no,0
+male,46,4,continuous,1,Gorong a,Masurura,Kemoseti,yes_vacc,2,2,yes_card,4,2,NA,no,2
+female,40,3,continuous,1,Gorong a,Masurura,Kemoseti,yes_vacc,2,1,yes_card,3,2,NA,no,2
+female,32,1,continuous,1,Gorong a,Masurura,Kemoseti,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,20,1,continuous,1,Gorong a,Masurura,Kemoseti,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,45,1,continuous,1,Gorong a,Masurura,Kemoseti,no_vacc,NA,1,,1,0,NA,,NA
+male,27,2,continuous,1,Gorong a,Masurura,Kemoseti,yes_vacc,2,0,no_card,2,2,NA,no,0
+female,24,1,continuous,1,Gorong a,Kitawasi,Kitawasi Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,41,3,continuous,1,Gorong a,Kitawasi,Kitawasi Senta,yes_vacc,1,2,yes_card,3,1,NA,no,1
+male,29,2,continuous,1,Gorong a,Kitawasi,Kitawasi Senta,yes_vacc,1,1,yes_card,2,1,NA,no,11
+female,45,1,continuous,1,Gorong a,Kitawasi,Kitawasi Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,30,1,continuous,1,Gorong a,Kitawasi,Kitawasi Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,45,2,continuous,1,Gorong a,Kitawasi,Kitawasi Senta,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,28,2,continuous,1,Gorong a,Kitawasi,Kitawasi Senta,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,45,3,continuous,1,Gorong a,Kitawasi,Kitawasi Senta,yes_vacc,2,1,yes_card,3,2,NA,no,2
+male,68,4,continuous,1,Gorong a,Kitawasi,Kitawasi Senta,yes_vacc,2,2,yes_card,4,2,NA,no,2
+male,25,2,continuous,1,Gorong a,Kitawasi,Kitawasi Senta,no_vacc,NA,2,,2,0,NA,,NA
+male,28,1,continuous,1,Gorong a,Kitawasi,Remerera,no_vacc,NA,1,,1,0,NA,,NA
+female,70,1,continuous,1,Gorong a,Kitawasi,Remerera,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,49,3,continuous,1,Gorong a,Kitawasi,Remerera,yes_vacc,3,0,yes_card,3,3,NA,no,3
+female,39,1,continuous,1,Gorong a,Kitawasi,Remerera,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,24,2,continuous,1,Gorong a,Kitawasi,Remerera,no_vacc,NA,2,,2,0,NA,,NA
+female,50,4,continuous,1,Gorong a,Kitawasi,Remerera,yes_vacc,4,0,yes_card,4,4,NA,no,4
+male,47,5,continuous,1,Gorong a,Kitawasi,Remerera,yes_vacc,4,1,yes_card,4,4,NA,no,4
+female,28,4,continuous,1,Gorong a,Kitawasi,Remerera,yes_vacc,1,3,yes_card,4,1,NA,no,1
+male,32,1,continuous,1,Gorong a,Kitawasi,Remerera,no_vacc,NA,1,,1,0,NA,,NA
+female,36,1,continuous,1,Gorong a,Kitawasi,Remerera,no_vacc,NA,1,,1,0,NA,,NA
+female,43,3,continuous,1,Gorong a,Kitawasi,Gibasisi,yes_vacc,2,1,yes_card,3,2,NA,no,2
+female,32,2,continuous,1,Gorong a,Kitawasi,Gibasisi,no_vacc,NA,2,,2,0,NA,,NA
+male,46,2,continuous,1,Gorong a,Kitawasi,Gibasisi,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,39,4,continuous,1,Gorong a,Kitawasi,Gibasisi,yes_vacc,3,1,yes_card,3,3,NA,no,3
+female,49,3,continuous,1,Gorong a,Kitawasi,Gibasisi,yes_vacc,2,1,yes_card,3,2,NA,no,2
+female,28,1,continuous,1,Gorong a,Kitawasi,Gibasisi,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,40,2,continuous,1,Gorong a,Kitawasi,Gibasisi,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,65,1,continuous,1,Gorong a,Kitawasi,Gibasisi,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,42,1,continuous,1,Gorong a,Kitawasi,Gibasisi,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,38,2,continuous,1,Gorong a,Kitawasi,Gibasisi,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,29,2,continuous,1,Gorong a,Masanga,Nyamerama,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,50,1,continuous,1,Gorong a,Masanga,Nyamerama,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,40,1,continuous,1,Gorong a,Masanga,Nyamerama,no_vacc,NA,1,,1,0,NA,,NA
+female,40,1,continuous,1,Gorong a,Masanga,Nyamerama,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,45,1,continuous,1,Gorong a,Masanga,Nyamerama,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,29,2,continuous,1,Gorong a,Masanga,Nyamerama,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,37,1,continuous,1,Gorong a,Masanga,Nyamerama,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,45,1,continuous,1,Gorong a,Masanga,Nyamerama,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,28,1,continuous,1,Gorong a,Masanga,Nyamerama,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,25,1,continuous,1,Gorong a,Masanga,Nyamerama,no_vacc,NA,1,,1,1,NA,,NA
+male,35,1,continuous,1,Gorong a,Masanga,Kemosae,no_vacc,NA,1,,1,0,NA,,NA
+female,41,1,continuous,1,Gorong a,Masanga,Kemosae,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,32,1,continuous,1,Gorong a,Masanga,Kemosae,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,45,1,continuous,1,Gorong a,Masanga,Kemosae,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,36,2,continuous,1,Gorong a,Masanga,Kemosae,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,61,2,continuous,1,Gorong a,Masanga,Kemosae,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,20,1,continuous,1,Gorong a,Masanga,Kemosae,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,32,1,continuous,1,Gorong a,Masanga,Kemosae,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,19,1,continuous,1,Gorong a,Masanga,Kemosae,no_vacc,NA,1,,1,0,NA,,NA
+male,51,2,continuous,1,Gorong a,Masanga,Kemosae,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,56,2,pulse,0,Komuge,Kyamwame,Kyabuganga,no_vacc,NA,2,,NA,0,NA,,NA
+male,18,1,pulse,0,Komuge,Kyamwame,Kyabuganga,no_vacc,NA,1,,1,0,NA,,NA
+male,21,2,pulse,0,Komuge,Kyamwame,Kyabuganga,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,59,2,pulse,0,Komuge,Kyamwame,Kyabuganga,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,31,1,pulse,0,Komuge,Kyamwame,Kyabuganga,no_vacc,NA,1,,1,0,NA,,NA
+female,34,2,pulse,0,Komuge,Kyamwame,Kyabuganga,no_vacc,NA,2,,2,0,NA,,NA
+female,28,2,pulse,0,Komuge,Kyamwame,Kyabuganga,yes_vacc,1,0,yes_card,2,1,NA,no,1
+male,45,1,pulse,0,Komuge,Kyamwame,Kyabuganga,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,37,1,pulse,0,Komuge,Kyamwame,Kyabuganga,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,63,2,pulse,0,Komuge,Kyamwame,Mtakuja,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,32,2,pulse,0,Komuge,Kyamwame,Mtakuja,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,37,2,pulse,0,Komuge,Kyamwame,Mtakuja,yes_vacc,2,0,yes_card,1,1,NA,no,2
+female,67,1,pulse,0,Komuge,Kyamwame,Mtakuja,no_vacc,NA,0,,1,0,NA,,NA
+female,57,2,pulse,0,Komuge,Kyamwame,Mtakuja,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,38,1,pulse,0,Komuge,Kyamwame,Mtakuja,yes_vacc,1,0,no_card,1,1,NA,no,0
+male,59,1,pulse,0,Komuge,Kyamwame,Mtakuja,yes_vacc,1,0,yes_card,0,0,NA,no,1
+female,57,1,pulse,0,Komuge,Kyamwame,Mtakuja,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,62,1,pulse,0,Komuge,"Kyamwame,Kyamwame","Kati,Kati",yes_vacc,1,0,yes_card,0,0,NA,no,13
+male,26,1,pulse,0,Komuge,"Kyamwame,Kyamwame","Kati,Kati",no_vacc,NA,1,,1,0,NA,,NA
+female,52,1,pulse,0,Komuge,"Kyamwame,Kyamwame","Kati,Kati",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,31,1,pulse,0,Komuge,"Kyamwame,Kyamwame","Kati,Kati",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,46,1,pulse,0,Komuge,"Kyamwame,Kyamwame","Kati,Kati",no_vacc,NA,1,,1,0,NA,,NA
+female,41,1,pulse,0,Komuge,"Kyamwame,Kyamwame","Kati,Kati",no_vacc,NA,0,,1,0,NA,,NA
+female,NA,2,pulse,0,Komuge,"Kyamwame,Kyamwame","Kati,Kati",yes_vacc,2,0,yes_card,0,0,NA,no,2
+female,35,1,pulse,0,Komuge,"Kyamwame,Kyamwame","Kati,Kati",yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,55,2,pulse,0,Komuge,"Kyamwame,Kyamwame","Kati,Kati",yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,30,4,pulse,0,Komuge,"Kyamwame,Kyamwame","Kati,Kati",no_vacc,NA,4,,3,0,NA,,NA
+female,22,5,pulse,0,Komuge,"Komuge,Komuge","Songambele,Songambele",yes_vacc,1,4,no_card,5,0,NA,no,0
+male,36,1,pulse,0,Komuge,"Komuge,Komuge","Songambele,Songambele",no_vacc,NA,1,,1,0,NA,,NA
+male,55,1,pulse,0,Komuge,"Komuge,Komuge","Songambele,Songambele",no_vacc,NA,1,,1,0,NA,,NA
+female,75,3,pulse,0,Komuge,"Komuge,Komuge","Songambele,Songambele",yes_vacc,2,1,yes_card,1,0,NA,no,2
+male,67,1,pulse,0,Komuge,"Komuge,Komuge","Songambele,Songambele",yes_vacc,1,0,yes_card,0,0,NA,no,1
+female,47,2,pulse,0,Komuge,"Komuge,Komuge","Songambele,Songambele",yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,NA,2,pulse,0,Komuge,"Komuge,Komuge","Songambele,Songambele",yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,53,3,pulse,0,Komuge,"Komuge,Komuge","Songambele,Songambele",yes_vacc,1,2,yes_card,3,1,NA,no,1
+female,50,2,pulse,0,Komuge,"Komuge,Komuge","Songambele,Songambele",yes_vacc,1,1,yes_card,3,1,NA,no,1
+male,53,1,pulse,0,Komuge,"Komuge,Komuge","Songambele,Songambele",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,53,3,pulse,0,Komuge,"Komuge,Komuge","irindibwa,irindibwa",yes_vacc,2,1,yes_card,3,1,NA,no,2
+male,48,5,pulse,0,Komuge,"Komuge,Komuge","irindibwa,irindibwa",yes_vacc,1,4,yes_card,4,1,NA,no,1
+male,72,2,pulse,0,Komuge,"Komuge,Komuge","irindibwa,irindibwa",yes_vacc,2,0,yes_card,1,1,NA,no,2
+male,34,3,pulse,0,Komuge,"Komuge,Komuge","irindibwa,irindibwa",yes_vacc,1,2,yes_card,3,0,NA,no,1
+female,65,2,pulse,0,Komuge,"Komuge,Komuge","irindibwa,irindibwa",yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,38,1,pulse,0,Komuge,"Komuge,Komuge","irindibwa,irindibwa",yes_vacc,1,0,yes_card,0,0,NA,no,1
+female,61,3,pulse,0,Komuge,"Komuge,Komuge","irindibwa,irindibwa",yes_vacc,1,2,yes_card,2,0,NA,no,1
+male,30,1,pulse,0,Komuge,"Komuge,Komuge","irindibwa,irindibwa",yes_vacc,1,0,yes_card,0,0,NA,no,1
+female,63,3,pulse,0,Komuge,"Komuge,Komuge","irindibwa,irindibwa",yes_vacc,3,0,yes_card,3,3,NA,no,3
+male,18,1,pulse,0,Komuge,"Komuge,Komuge","irindibwa,irindibwa",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,54,1,pulse,0,Komuge,"Komuge,Komuge,Komuge,Komuge,Komuge,Komuge,Komuge","Ngereri,Ngereri,Ngereri,Ngereri,Ngereri,Ngereri,Ngereri",no_vacc,NA,1,,1,1,NA,,NA
+male,33,1,pulse,0,Komuge,"Komuge,Komuge,Komuge,Komuge,Komuge,Komuge,Komuge","Ngereri,Ngereri,Ngereri,Ngereri,Ngereri,Ngereri,Ngereri",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,13,1,pulse,0,Komuge,"Komuge,Komuge,Komuge,Komuge,Komuge,Komuge,Komuge","Ngereri,Ngereri,Ngereri,Ngereri,Ngereri,Ngereri,Ngereri",yes_vacc,1,0,no_card,1,1,NA,no,0
+female,34,1,pulse,0,Komuge,"Komuge,Komuge,Komuge,Komuge,Komuge,Komuge,Komuge","Ngereri,Ngereri,Ngereri,Ngereri,Ngereri,Ngereri,Ngereri",yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,18,7,pulse,0,Komuge,"Komuge,Komuge,Komuge,Komuge,Komuge,Komuge,Komuge","Ngereri,Ngereri,Ngereri,Ngereri,Ngereri,Ngereri,Ngereri",yes_vacc,1,6,no_card,6,0,NA,no,0
+male,54,1,pulse,0,Komuge,"Komuge,Komuge,Komuge,Komuge,Komuge,Komuge,Komuge","Ngereri,Ngereri,Ngereri,Ngereri,Ngereri,Ngereri,Ngereri",no_vacc,NA,1,,1,0,NA,,NA
+female,21,1,continuous,1,Gorong a,Masanga,Kemangari,no_vacc,NA,1,,1,0,NA,,NA
+male,61,3,continuous,1,Gorong a,Masanga,Kemangari,yes_vacc,3,0,yes_card,3,3,NA,no,3
+male,46,2,continuous,1,Gorong a,Masanga,Kemangari,yes_vacc,2,0,yes_card,1,1,NA,no,2
+female,42,1,continuous,1,Gorong a,Masanga,Kemangari,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,42,2,continuous,1,Gorong a,Masanga,Kemangari,yes_vacc,1,1,yes_card,1,0,NA,no,1
+female,45,3,continuous,1,Gorong a,Masanga,Kemangari,yes_vacc,2,1,yes_card,2,1,NA,no,2
+female,50,3,continuous,1,Gorong a,Masanga,Kemangari,yes_vacc,1,2,yes_card,3,1,NA,no,1
+male,35,2,continuous,1,Gorong a,Masanga,Kemangari,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,21,3,continuous,1,Gorong a,Masanga,Kemangari,yes_vacc,2,1,yes_card,3,2,NA,no,2
+male,21,4,continuous,1,Gorong a,Masanga,Kemangari,yes_vacc,2,2,yes_card,4,2,NA,no,2
+female,42,1,pulse,0,Nyamwaga,Kimusi,Nyarusiaga,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,48,1,pulse,0,Nyamwaga,Kimusi,Nyarusiaga,no_vacc,NA,1,,1,0,NA,,NA
+female,31,1,pulse,0,Nyamwaga,Kimusi,Nyarusiaga,yes_vacc,1,0,yes_card,0,0,NA,no,1
+male,24,2,pulse,0,Nyamwaga,Kimusi,Nyarusiaga,yes_vacc,2,0,no_card,2,0,NA,no,0
+female,35,2,pulse,0,Nyamwaga,Kimusi,Nyarusiaga,yes_vacc,2,0,no_card,2,2,NA,no,0
+male,75,2,pulse,0,Nyamwaga,Kimusi,Nyarusiaga,yes_vacc,2,0,yes_card,0,0,NA,no,2
+male,64,1,pulse,0,Nyamwaga,Kimusi,Nyarusiaga,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,61,1,pulse,0,Nyamwaga,Kimusi,Nyarusiaga,no_vacc,NA,1,,1,0,NA,,NA
+female,29,2,pulse,0,Nyamwaga,Kimusi,Nyarusiaga,yes_vacc,1,1,yes_card,1,0,NA,no,1
+female,65,1,pulse,0,Nyamwaga,Kimusi,Nyarusiaga,no_vacc,NA,0,,1,0,NA,,NA
+female,32,2,pulse,0,Nyamwaga,Kimusi,Gwikunili,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,30,1,pulse,0,Nyamwaga,Kimusi,Gwikunili,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,32,1,pulse,0,Nyamwaga,Kimusi,Gwikunili,no_vacc,NA,0,,1,0,NA,,NA
+male,75,1,pulse,0,Nyamwaga,Kimusi,Gwikunili,yes_vacc,1,0,yes_card,1,0,NA,no,1
+female,23,1,pulse,0,Nyamwaga,Kimusi,Gwikunili,yes_vacc,1,0,yes_card,1,0,NA,no,1
+male,72,2,pulse,0,Nyamwaga,Kimusi,Gwikunili,yes_vacc,2,0,yes_card,0,0,NA,no,2
+male,29,1,pulse,0,Nyamwaga,Kimusi,Gwikunili,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,24,1,pulse,0,Nyamwaga,Kimusi,Gwikunili,yes_vacc,1,0,no_card,0,0,NA,no,0
+female,21,5,pulse,0,Nyamwaga,Kimusi,Gwikunili,yes_vacc,1,4,yes_card,5,1,NA,no,1
+female,65,3,pulse,0,Nyamwaga,Kimusi,Gwikunili,yes_vacc,2,1,yes_card,1,0,NA,no,2
+female,36,3,pulse,0,Nyamwaga,Kimusi,Senta,yes_vacc,1,2,yes_card,0,0,NA,no,1
+female,37,1,pulse,0,Nyamwaga,Kimusi,Senta,yes_vacc,1,0,no_card,0,0,NA,no,0
+female,22,1,pulse,0,Nyamwaga,Kimusi,Senta,yes_vacc,1,0,no_card,1,1,NA,no,0
+female,35,1,pulse,0,Nyamwaga,Kimusi,Senta,yes_vacc,1,0,yes_card,0,0,NA,no,1
+male,67,1,pulse,0,Nyamwaga,Kimusi,Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,21,1,pulse,0,Nyamwaga,Kimusi,Senta,yes_vacc,1,0,yes_card,0,0,NA,no,1
+female,30,3,pulse,0,Nyamwaga,Kimusi,Senta,yes_vacc,3,0,no_card,0,0,NA,no,0
+female,45,1,pulse,0,Nyamwaga,Kimusi,Senta,no_vacc,NA,1,,1,0,NA,,NA
+male,44,2,pulse,0,Nyamwaga,Kimusi,Senta,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,19,1,pulse,0,Nyamwaga,Kimusi,Senta,no_vacc,NA,1,,1,0,NA,,NA
+female,21,2,pulse,0,Nyamwaga,Komarera,Moharango,no_vacc,NA,2,,2,0,NA,,NA
+female,42,2,pulse,0,Nyamwaga,Komarera,Moharango,no_vacc,NA,2,,1,0,NA,,NA
+female,41,2,pulse,0,Nyamwaga,Komarera,Moharango,yes_vacc,2,0,no_card,0,0,NA,no,0
+female,42,1,pulse,0,Nyamwaga,Komarera,Moharango,no_vacc,NA,1,,1,0,NA,,NA
+female,35,6,pulse,0,Nyamwaga,Komarera,Moharango,no_vacc,NA,6,,6,0,NA,,NA
+male,26,1,pulse,0,Nyamwaga,Komarera,Moharango,no_vacc,NA,1,,1,0,NA,,NA
+male,45,1,pulse,0,Nyamwaga,Komarera,Moharango,no_vacc,NA,1,,0,0,NA,,NA
+female,32,1,pulse,0,Nyamwaga,Komarera,Moharango,no_vacc,NA,1,,0,0,NA,,NA
+female,54,1,pulse,0,Nyamwaga,Komarera,Moharango,no_vacc,NA,1,,1,0,NA,,NA
+female,31,1,pulse,0,Nyamwaga,Komarera,Moharango,no_vacc,NA,1,,1,0,NA,,NA
+male,19,1,pulse,0,Nyamwaga,Komarera,Ntarechagini,yes_vacc,1,0,no_card,1,1,NA,no,0
+female,57,2,pulse,0,Nyamwaga,Komarera,Ntarechagini,no_vacc,NA,2,,2,0,NA,,NA
+male,20,2,pulse,0,Nyamwaga,Komarera,Ntarechagini,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,38,1,pulse,0,Nyamwaga,Komarera,Ntarechagini,no_vacc,NA,1,,1,0,NA,,NA
+male,40,2,pulse,0,Nyamwaga,Komarera,Ntarechagini,yes_vacc,1,1,yes_card,0,0,NA,no,1
+male,30,1,pulse,0,Nyamwaga,Komarera,Ntarechagini,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,47,1,pulse,0,Nyamwaga,Komarera,Ntarechagini,yes_vacc,1,0,yes_card,0,0,NA,no,1
+male,62,1,pulse,0,Nyamwaga,Komarera,Ntarechagini,yes_vacc,1,0,yes_card,0,0,NA,no,1
+female,45,2,pulse,0,Nyamwaga,Komarera,Ntarechagini,no_vacc,NA,2,,2,0,NA,,NA
+female,49,2,pulse,0,Nyamwaga,Komarera,Ntarechagini,yes_vacc,1,1,yes_card,2,1,NA,no,1
+female,34,1,pulse,0,Nyamwaga,Komarera,Komera Senta,yes_vacc,1,0,yes_card,0,0,NA,no,1
+male,26,1,pulse,0,Nyamwaga,Komarera,Komera Senta,no_vacc,NA,1,,1,0,NA,,NA
+female,26,1,pulse,0,Nyamwaga,Komarera,Komera Senta,no_vacc,NA,1,,1,0,NA,,NA
+female,23,2,pulse,0,Nyamwaga,Komarera,Komera Senta,unknown,NA,2,,2,0,NA,,NA
+female,60,2,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,2,,2,0,NA,,NA
+female,60,2,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,2,,2,0,NA,,NA
+female,60,2,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,2,,2,0,NA,,NA
+female,60,2,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,2,,2,0,NA,,NA
+male,45,4,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,4,,4,0,NA,,NA
+male,45,4,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,4,,4,0,NA,,NA
+male,45,4,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,4,,4,0,NA,,NA
+male,45,4,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,4,,4,0,NA,,NA
+male,72,1,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA
+male,72,1,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA
+male,72,1,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA
+male,72,1,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA
+female,31,2,pulse,0,Masaba,Kwigutu,Nyamaharaga,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,31,2,pulse,0,Masaba,Kwigutu,Nyamaharaga,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,31,2,pulse,0,Masaba,Kwigutu,Nyamaharaga,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,31,2,pulse,0,Masaba,Kwigutu,Nyamaharaga,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,68,3,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA
+female,68,3,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA
+female,68,3,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA
+female,68,3,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA
+female,30,1,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA
+female,30,1,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA
+female,30,1,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA
+female,30,1,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA
+male,27,3,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA
+male,27,3,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA
+male,27,3,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA
+male,27,3,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA
+female,31,1,pulse,0,Masaba,Kwigutu,Nyamaharaga,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,31,1,pulse,0,Masaba,Kwigutu,Nyamaharaga,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,31,1,pulse,0,Masaba,Kwigutu,Nyamaharaga,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,31,1,pulse,0,Masaba,Kwigutu,Nyamaharaga,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,31,1,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA
+female,31,1,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA
+female,31,1,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA
+female,31,1,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,1,,1,0,NA,,NA
+male,28,3,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA
+male,28,3,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA
+male,28,3,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA
+male,28,3,pulse,0,Masaba,Kwigutu,Nyamaharaga,no_vacc,NA,3,,3,0,NA,,NA
+male,30,3,pulse,0,Masaba,Kwigutu,Butambahu,no_vacc,NA,3,,3,0,NA,,NA
+male,30,3,pulse,0,Masaba,Kwigutu,Butambahu,no_vacc,NA,3,,3,0,NA,,NA
+male,30,3,pulse,0,Masaba,Kwigutu,Butambahu,no_vacc,NA,3,,3,0,NA,,NA
+male,30,3,pulse,0,Masaba,Kwigutu,Butambahu,no_vacc,NA,3,,3,0,NA,,NA
+male,63,2,pulse,0,Masaba,Kwigutu,Butambahu,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,63,2,pulse,0,Masaba,Kwigutu,Butambahu,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,63,2,pulse,0,Masaba,Kwigutu,Butambahu,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,63,2,pulse,0,Masaba,Kwigutu,Butambahu,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,36,2,pulse,0,Masaba,Kwigutu,Butambahu,no_vacc,NA,2,,2,0,NA,,NA
+female,36,2,pulse,0,Masaba,Kwigutu,Butambahu,no_vacc,NA,2,,2,0,NA,,NA
+female,31,3,pulse,0,Masaba,Kwigutu,Butambahu,no_vacc,NA,3,,3,0,NA,,NA
+female,31,3,pulse,0,Masaba,Kwigutu,Butambahu,no_vacc,NA,3,,3,0,NA,,NA
+female,25,3,pulse,0,Masaba,Kwigutu,Butambahu,no_vacc,NA,3,,3,0,NA,,NA
+female,25,3,pulse,0,Masaba,Kwigutu,Butambahu,no_vacc,NA,3,,3,0,NA,,NA
+male,28,3,pulse,0,Masaba,Kwigutu,Butambahu,no_vacc,NA,3,,3,0,NA,,NA
+male,28,3,pulse,0,Masaba,Kwigutu,Butambahu,no_vacc,NA,3,,3,0,NA,,NA
+female,25,3,pulse,0,Masaba,Kwigutu,Butambahu,yes_vacc,1,2,yes_card,3,1,NA,no,1
+female,25,3,pulse,0,Masaba,Kwigutu,Butambahu,yes_vacc,1,2,yes_card,3,1,NA,no,1
+female,47,2,pulse,0,Masaba,Kwigutu,Butambahu,no_vacc,NA,2,,2,0,NA,,NA
+female,47,2,pulse,0,Masaba,Kwigutu,Butambahu,no_vacc,NA,2,,2,0,NA,,NA
+male,29,1,pulse,0,Masaba,Kwigutu,Butambahu,no_vacc,NA,1,,1,0,NA,,NA
+male,29,1,pulse,0,Masaba,Kwigutu,Butambahu,no_vacc,NA,1,,1,0,NA,,NA
+male,29,1,pulse,0,Masaba,Kwigutu,Butambahu,no_vacc,NA,1,,1,0,NA,,NA
+male,29,1,pulse,0,Masaba,Kwigutu,Butambahu,no_vacc,NA,1,,1,0,NA,,NA
+female,28,3,pulse,0,Masaba,Kwigutu,Butambahu,no_vacc,NA,3,,3,0,NA,,NA
+female,28,3,pulse,0,Masaba,Kwigutu,Butambahu,no_vacc,NA,3,,3,0,NA,,NA
+female,50,1,pulse,0,Masaba,Kwigutu,Kukigumu,no_vacc,NA,1,,1,0,NA,,NA
+male,63,1,pulse,0,Masaba,Kwigutu,Kukigumu,yes_vacc,1,0,yes_card,1,1,NA,no,0
+male,37,2,pulse,0,Masaba,Kwigutu,Kukigumu,no_vacc,NA,2,,2,0,NA,,NA
+female,32,5,pulse,0,Masaba,Kwigutu,Kukigumu,no_vacc,NA,5,,5,0,NA,,NA
+female,41,3,pulse,0,Masaba,Kwigutu,Kukigumu,no_vacc,NA,3,,3,0,NA,,NA
+male,50,2,pulse,0,Masaba,Kwigutu,Kukigumu,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,45,1,pulse,0,Masaba,Kwigutu,Kukigumu,no_vacc,NA,1,,1,0,NA,,NA
+female,25,1,pulse,0,Masaba,Kwigutu,Kukigumu,no_vacc,NA,1,,1,0,NA,,NA
+male,21,1,pulse,0,Masaba,Kwigutu,Kukigumu,no_vacc,NA,1,,1,0,NA,,NA
+female,21,2,pulse,0,Masaba,Kwigutu,Kukigumu,no_vacc,NA,2,,2,0,NA,,NA
+male,25,5,pulse,0,Nyamwaga,Keisangora,Keruta,yes_vacc,1,4,yes_card,5,1,NA,no,1
+female,42,2,pulse,0,Nyamwaga,Keisangora,Keruta,no_vacc,NA,2,,2,0,NA,,NA
+male,30,2,pulse,0,Nyamwaga,Keisangora,Keruta,no_vacc,NA,2,,2,0,NA,,NA
+male,28,1,pulse,0,Nyamwaga,Keisangora,Keruta,no_vacc,NA,1,,1,0,NA,,NA
+male,29,2,pulse,0,Nyamwaga,Keisangora,Keruta,no_vacc,NA,2,,2,0,NA,,NA
+female,29,2,pulse,0,Nyamwaga,Keisangora,Keruta,no_vacc,NA,2,,2,0,NA,,NA
+female,32,1,pulse,0,Nyamwaga,Keisangora,Keruta,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,46,1,pulse,0,Nyamwaga,Keisangora,Keruta,no_vacc,NA,1,,1,0,NA,,NA
+female,31,7,pulse,0,Nyamwaga,Keisangora,Keruta,no_vacc,NA,7,,7,0,NA,,NA
+female,29,1,pulse,0,Nyamwaga,Gwitare,Gwitare Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,32,1,pulse,0,Nyamwaga,Gwitare,Gwitare Senta,no_vacc,NA,1,,1,0,NA,,NA
+male,42,3,pulse,0,Nyamwaga,Gwitare,Gwitare Senta,yes_vacc,2,1,yes_card,3,2,NA,no,2
+male,40,1,pulse,0,Nyamwaga,Gwitare,Gwitare Senta,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,45,2,pulse,0,Nyamwaga,Keisangora,Keruta,no_vacc,NA,2,,2,0,NA,,NA
+female,24,1,pulse,0,Nyamwaga,Gwitare,Senta,no_vacc,NA,1,,1,0,NA,,NA
+female,30,2,pulse,0,Nyamwaga,Gwitare,Keisunguruta,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,29,3,pulse,0,Nyamwaga,Gwitare,Senta,yes_vacc,2,1,yes_card,3,2,NA,no,2
+female,45,1,pulse,0,Nyamwaga,Keisangora,Keisunguruta,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,45,2,pulse,0,Nyamwaga,Gwitare,Senta,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,35,2,pulse,0,Nyamwaga,Gwitare,Senta,no_vacc,NA,1,,1,1,NA,,NA
+male,20,4,pulse,0,Nyamwaga,Gwitare,Senta,yes_vacc,4,0,yes_card,4,4,NA,no,4
+male,36,1,pulse,0,Nyamwaga,Keisangora,Keisunguruta,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,32,2,pulse,0,Nyamwaga,Keisangora,Keisunguruta,no_vacc,NA,2,,2,0,NA,,NA
+male,40,2,pulse,0,Nyamwaga,Gwitare,Senta,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,29,1,pulse,0,Nyamwaga,Keisangora,Keisunguruta,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,31,3,pulse,0,Nyamwaga,Keisangora,Keisunguruta,yes_vacc,1,2,yes_card,3,1,NA,no,1
+male,69,1,pulse,0,Nyamwaga,Gwitare,Ronkore,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,29,1,pulse,0,Nyamwaga,Keisangora,Keisunguruta,no_vacc,NA,1,,1,0,NA,,NA
+female,48,3,pulse,0,Nyamwaga,Gwitare,Ronkore,yes_vacc,3,0,yes_card,3,3,NA,no,3
+male,25,2,pulse,0,Nyamwaga,Gwitare,Ronkore,no_vacc,NA,2,,2,0,NA,,NA
+female,49,1,pulse,0,Nyamwaga,Gwitare,Ronkore,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,45,1,pulse,0,Nyamwaga,Keisangora,Keisunguruta,no_vacc,NA,1,,1,0,NA,,NA
+female,34,1,pulse,0,Nyamwaga,Keisangora,Keisunguruta,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,36,1,pulse,0,Nyamwaga,Gwitare,Ronkore,no_vacc,NA,1,,1,0,NA,,NA
+male,20,3,pulse,0,Nyamwaga,Gwitare,Ronkore,no_vacc,NA,3,,3,0,NA,,NA
+female,45,4,pulse,0,Nyamwaga,Keisangora,Gonyi,yes_vacc,2,2,yes_card,4,2,NA,no,2
+female,29,2,pulse,0,Nyamwaga,Gwitare,Ronkore,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,65,1,pulse,0,Nyamwaga,Keisangora,Gonyi,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,54,1,pulse,0,Nyamwaga,Gwitare,Ronkore,yes_vacc,1,0,yes_card,1,1,NA,no,1
+male,19,1,pulse,0,Nyamwaga,Gwitare,Ronkore,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,32,3,pulse,0,Nyamwaga,Keisangora,Gonyi,yes_vacc,3,0,yes_card,3,3,NA,no,3
+male,50,2,pulse,0,Nyamwaga,Gwitare,Ronkore,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,35,2,pulse,0,Nyamwaga,Keisangora,Gonyi,yes_vacc,2,0,yes_card,2,2,NA,no,2
+male,32,1,pulse,0,Nyamwaga,Keisangora,Gonyi,no_vacc,NA,1,,1,0,NA,,NA
+female,19,2,pulse,0,Nyamwaga,Gwitare,Nyamiobo,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,29,1,pulse,0,Nyamwaga,Keisangora,Gonyi,no_vacc,NA,1,,1,0,NA,,NA
+female,32,1,pulse,0,Nyamwaga,Keisangora,Gonyi,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,18,1,pulse,0,Nyamwaga,Gwitare,Nyamiobo,no_vacc,NA,1,,1,0,NA,,NA
+male,39,1,pulse,0,Nyamwaga,Gwitare,Nyamiobo,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,39,2,pulse,0,Nyamwaga,Keisangora,Gonyi,yes_vacc,1,1,yes_card,2,1,NA,no,1
+male,47,2,pulse,0,Nyamwaga,Gwitare,Nyamiobo,yes_vacc,2,0,yes_card,2,2,NA,no,2
+female,45,1,pulse,0,Nyamwaga,Keisangora,Gonyi,no_vacc,NA,1,,1,0,NA,,NA
+female,36,1,pulse,0,Nyamwaga,Gwitare,Nyamiobo,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,36,2,pulse,0,Nyamwaga,Keisangora,Gonyi,yes_vacc,2,0,yes_card,1,1,NA,no,2
+male,53,4,pulse,0,Nyamwaga,Gwitare,Nyamiobo,yes_vacc,2,2,yes_card,4,2,NA,no,2
+female,21,1,pulse,0,Nyamwaga,Gwitare,Nyamiobo,no_vacc,NA,1,,1,0,NA,,NA
+female,32,1,pulse,0,Nyamwaga,Gwitare,Nyamiobo,no_vacc,NA,1,,1,0,NA,,NA
+female,32,1,pulse,0,Nyamwaga,Gwitare,Nyamiobo,yes_vacc,1,0,yes_card,1,1,NA,no,1
+female,43,1,pulse,0,Nyamwaga,Gwitare,Nyamiobo,no_vacc,NA,1,,1,0,NA,,NA
+male,23,2,pulse,0,Nyamwaga,Komera,Komera Senta,yes_vacc,1,1,no_card,0,0,NA,no,0
+male,26,2,pulse,0,Nyamwaga,Komera,Komera Senta,no_vacc,NA,2,,2,0,NA,,NA
+male,30,1,pulse,0,Nyamwaga,Komera,Komera Senta,no_vacc,NA,1,,0,0,NA,,NA
+male,26,1,pulse,0,Nyamwaga,Komera,Komera Senta,no_vacc,NA,1,,1,0,NA,,NA
+female,31,2,pulse,0,Nyamwaga,Komera,Komera Senta,no_vacc,NA,2,,1,0,NA,,NA
+female,23,1,pulse,0,Nyamwaga,Komera,Komera Senta,no_vacc,NA,1,,1,0,NA,,NA
+,,,,,,,,,,,,555,327,,,

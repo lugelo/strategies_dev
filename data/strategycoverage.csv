@@ -1,0 +1,9 @@
+﻿TIME,Strategy,Strategy1,N,microchip,,,,
+TP1,CPV,Pulse,686,246,TP1,Tcontinuous,2290,1468
+TP1,VLC,Continuous  1,750,488,TP2,Tcontinuous,1915,1162
+TP1,SVLC,Continuous  2,961,586,,,,
+TP1,DC,Continuous  3,579,394,,,,
+TP2,CPV,Pulse,732,235,,,,
+TP2,VLC,Continuous  1,668,386,,,,
+TP2,SVLC,Continuous  2,692,449,,,,
+TP2,DC,Continuous  3,555,327,,,,

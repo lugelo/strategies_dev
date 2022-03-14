@@ -1,0 +1,23 @@
+﻿District,Ward,Strategy,TP1,Follow-up,Total,TP1,Follow up,Campaign ,Strat,dogs_aver
+,,,dogs,dogs,,cats,cats,Main,Pulse,884.67
+Butiama,Masaba,0,524,0,524,50,NA,Main,Cont1,1155.67
+Butiama,Buswahili,1,1517,681,2198,75,117,Main,Cont2,1238.67
+Butiama,Sirorisimba,2,1457,946,2403,261,174,Main,Cont3,1165.67
+Butiama,Nyamimange,3,742,852,1594,162,170,Follow_up,Pulse,0
+Rorya,Komuge,0,1326,0,1326,80,NA,Follow_up,Cont1,547.33
+Rorya,Tai,1,1113,305,1418,151,61,Follow_up,Cont2,485.33
+Rorya,Mkoma,2,850,430,1280, 30,28,Follow_up,Cont3,379.666
+Rorya,Bukura,3,1517,89,1606,512,19,,,
+Tarime,Nyamwaga,0,804,0,804,48,NA,,,
+Tarime,Gorong'a,1,837,656,1493,70,121,,,
+Tarime,Nyanungu,2,1409,80,1489,451,25,,,
+Tarime,Itiryo,3,1238,198,1436,248,74,,,
+Total,,,13334,4237,17571,2138,739,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,follow up,Main campain,Total,%,,,
+,,,Pulse,0,2654,2654,,,,
+,,,TotalStart1,1642,3467,5109,32.14,,,
+,,,TotalStart2,1456,3716,5172,28.15,,,
+,,,TotalStart3,1139,3497,4636,24.57,,,

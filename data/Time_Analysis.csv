@@ -1,0 +1,1389 @@
+household_ID,district,subvillage,village,ward,strategy,campaign_type,dog_total,cp_travel_time_there,cp_duration
+HS0501,Tarime,Nyamwaga Senta,Nyamwaga,Nyamwaga,0,pulse,3,60,30
+HS0959,Rorya,Kandege,Obwere,Mkoma,2,continuous,1,NA,NA
+HS0061,Tarime,Isago,Kangariani,Itiryo,3,continuous,1,NA,NA
+HS0502,Tarime,Nyamwaga Senta,Nyamwaga,Nyamwaga,0,pulse,2,20,40
+HS0503,Tarime,Nyamwaga Senta,Nyamwaga,Nyamwaga,0,pulse,2,10,10
+HS0504,Tarime,Nyamwaga Senta,Nyamwaga,Nyamwaga,0,pulse,5,15,1
+HS0505,Tarime,Nyamwaga Senta,Nyamwaga,Nyamwaga,0,pulse,1,5,5
+HS0506,Tarime,Nyamwaga Senta,Nyamwaga,Nyamwaga,0,pulse,2,7,10
+HS0507,Tarime,Nyamwaga Senta,Nyamwaga,Nyamwaga,0,pulse,1,NA,NA
+HS0508,Tarime,Nyamwaga Senta,Nyamwaga,Nyamwaga,0,pulse,1,10,5
+HS0509,Tarime,Nyamwaga Senta,Nyamwaga,Nyamwaga,0,pulse,1,20,5
+HS0510,Tarime,Nyamwaga Senta,Nyamwaga,Nyamwaga,0,pulse,1,10,30
+HS0511,Tarime,Makerero,Nyamwaga,Nyamwaga,0,pulse,5,NA,NA
+HS0512,Tarime,Makerero,Nyamwaga,Nyamwaga,0,pulse,3,NA,NA
+HS0513,Tarime,Makerero,Nyamwaga,Nyamwaga,0,pulse,3,5,10
+HS0514,Tarime,Makerero,Nyamwaga,Nyamwaga,0,pulse,2,10,2
+HS0515,Tarime,Makerero,Nyamwaga,Nyamwaga,0,pulse,3,NA,NA
+HS0516,Tarime,Makerero,Nyamwaga,Nyamwaga,0,pulse,1,20,10
+HS0517,Tarime,Makerero,Nyamwaga,Nyamwaga,0,pulse,2,NA,NA
+HS0518,Tarime,Makerero,Nyamwaga,Nyamwaga,0,pulse,1,NA,NA
+HS0519,Tarime,Makerero,Nyamwaga,Nyamwaga,0,pulse,3,30,1
+HS0520,Tarime,Makerero,Nyamwaga,Nyamwaga,0,pulse,1,30,5
+HS0521,Tarime,Mesero,Nyamwaga,Nyamwaga,0,pulse,1,30,30
+HS0522,Tarime,Mesero,Nyamwaga,Nyamwaga,0,pulse,2,20,10
+HS0523,Tarime,Mesero,Nyamwaga,Nyamwaga,0,pulse,1,NA,NA
+HS0524,Tarime,Mesero,Nyamwaga,Nyamwaga,0,pulse,2,NA,NA
+HS0525,Tarime,Mesero,Nyamwaga,Nyamwaga,0,pulse,3,20,2
+HS0526,Tarime,Mesero,Nyamwaga,Nyamwaga,0,pulse,2,NA,NA
+HS0527,Tarime,Mesero,Nyamwaga,Nyamwaga,0,pulse,7,NA,NA
+HS0528,Tarime,Mesero,Nyamwaga,Nyamwaga,0,pulse,1,NA,NA
+HS0529,Tarime,Mesero,Nyamwaga,Nyamwaga,0,pulse,3,10,15
+HS0530,Tarime,Mesero,Nyamwaga,Nyamwaga,0,pulse,1,30,7
+HS0531,Tarime,Moharango,Komarera,Nyamwaga,0,pulse,1,NA,NA
+HS0532,Tarime,Moharango,Komarera,Nyamwaga,0,pulse,1,NA,NA
+HS0533,Tarime,Moharango,Komarera,Nyamwaga,0,pulse,1,NA,NA
+HS0004,Tarime,Kwigogo,Itiryo,Itiryo,3,continuous,2,15,40
+HS0534,Tarime,Moharango,Komarera,Nyamwaga,0,pulse,2,NA,NA
+HS0005,Tarime,Kwigogo,Itiryo,Itiryo,3,continuous,3,10,15
+HS0006,Tarime,Kwigogo,Itiryo,Itiryo,3,continuous,2,20,60
+HS0535,Tarime,Moharango,Komarera,Nyamwaga,0,pulse,1,NA,NA
+HS0007,Tarime,Kwigogo,Itiryo,Itiryo,3,continuous,3,NA,NA
+HS0536,Tarime,Moharango,Komarera,Nyamwaga,0,pulse,2,NA,NA
+HS0008,Tarime,Kwigogo,Itiryo,Itiryo,3,continuous,3,30,30
+HS0537,Tarime,Moharango,Komarera,Nyamwaga,0,pulse,1,NA,NA
+HS0009,Tarime,Kwigogo,Itiryo,Itiryo,3,continuous,2,30,60
+HS0010,Tarime,Kwigogo,Itiryo,Itiryo,3,continuous,1,30,10
+HS0011,Tarime,Manyata,Itiryo,Itiryo,3,continuous,1,10,20
+HS0541,Tarime,Moharango,Komarera,Nyamwaga,0,pulse,3,NA,NA
+HS0540,Tarime,Moharango,Komarera,Nyamwaga,0,pulse,1,NA,NA
+HS0012,Tarime,Manyata,Itiryo,Itiryo,3,continuous,3,5,10
+HS0538,Tarime,Moharango,Komarera,Nyamwaga,0,pulse,1,NA,NA
+HS0013,Tarime,Manyata,Itiryo,Itiryo,3,continuous,2,10,20
+HS0014,Tarime,Manyata,Itiryo,Itiryo,3,continuous,4,30,30
+HS0015,Tarime,Manyata,Itiryo,Itiryo,3,continuous,6,NA,NA
+HS0016,Tarime,Manyata,Itiryo,Itiryo,3,continuous,1,NA,NA
+HS0017,Tarime,Manyata,Itiryo,Itiryo,3,continuous,1,10,10
+HS0547,Tarime,Ntarechagini,Komarera,Nyamwaga,0,pulse,2,1,5
+HS0018,Tarime,Manyata,Itiryo,Itiryo,3,continuous,1,10,30
+HS0546,Tarime,Ntarechagini,Komarera,Nyamwaga,0,pulse,2,1,10
+HS0019,Tarime,Manyata,Itiryo,Itiryo,3,continuous,3,10,30
+HS0545,Tarime,Ntarechagini,Komarera,Nyamwaga,0,pulse,2,NA,NA
+HS0020,Tarime,Manyata,Itiryo,Itiryo,3,continuous,1,NA,NA
+HS0021,Tarime,Nyaitebe,Itiryo,Itiryo,3,continuous,1,10,120
+HS0539,Tarime,Ntarechagini,Komarera,Nyamwaga,0,pulse,1,1,7
+HS0022,Tarime,Nyaitebe,Itiryo,Itiryo,3,continuous,2,10,45
+HS0544,Tarime,Ntarechagini,Komarera,Nyamwaga,0,pulse,2,30,10
+HS0023,Tarime,Nyaitebe,Itiryo,Itiryo,3,continuous,2,5,30
+HS0543,Tarime,Ntarechagini,Komarera,Nyamwaga,0,pulse,2,NA,NA
+HS0024,Tarime,Nyaitebe,Itiryo,Itiryo,3,continuous,2,15,30
+HS0025,Tarime,Nyaitebe,Itiryo,Itiryo,3,continuous,1,20,15
+HS0542,Tarime,Ntarechagini,Komarera,Nyamwaga,0,pulse,1,NA,NA
+HS0026,Tarime,Nyaitebe,Itiryo,Itiryo,3,continuous,1,15,45
+HS0027,Tarime,Nyaitebe,Itiryo,Itiryo,3,continuous,2,15,30
+HS0028,Tarime,Nyaitebe,Itiryo,Itiryo,3,continuous,2,20,60
+HS0029,Tarime,Nyaitebe,Itiryo,Itiryo,3,continuous,2,25,10
+HS0030,Tarime,Nyaitebe,Itiryo,Itiryo,3,continuous,1,20,60
+HS0554,Tarime,Ntarechagini,Komarera,Nyamwaga,0,pulse,2,NA,NA
+HS0553,Tarime,Ntarechagini,Komarera,Nyamwaga,0,pulse,2,NA,NA
+HS0552,Tarime,Ntarechagini,Komarera,Nyamwaga,0,pulse,1,60,8
+HS0551,Tarime,Kokemange,Komarera,Nyamwaga,0,pulse,1,NA,NA
+HS0550,Tarime,Kokemange,Komarera,Nyamwaga,0,pulse,1,30,10
+HS0549,Tarime,Kokemange,Komarera,Nyamwaga,0,pulse,1,30,7
+HS0565,Tarime,Kokemange,Komarera,Nyamwaga,0,pulse,1,NA,NA
+HS0564,Tarime,Kokemange,Komarera,Nyamwaga,0,pulse,2,NA,NA
+HS0563,Tarime,Kokemange,Komarera,Nyamwaga,0,pulse,2,NA,NA
+HS0562,Tarime,Kokemange,Komarera,Nyamwaga,0,pulse,1,30,10
+HS0561,Tarime,Kokemange,Komarera,Nyamwaga,0,pulse,1,NA,NA
+HS0560,Tarime,Kokemange,Komarera,Nyamwaga,0,pulse,1,30,10
+HS0559,Tarime,Kokemange,Komarera,Nyamwaga,0,pulse,3,30,10
+HS0031,Tarime,Gitimama,Nyankoni,Itiryo,3,continuous,1,15,30
+HS0032,Tarime,Gitimama,Nyankoni,Itiryo,3,continuous,2,5,10
+HS0033,Tarime,Gitimama,Nyankoni,Itiryo,3,continuous,3,15,20
+HS0034,Tarime,Gitimama,Nyankoni,Itiryo,3,continuous,3,10,20
+HS0035,Tarime,Gitimama,Nyankoni,Itiryo,3,continuous,2,15,10
+HS0036,Tarime,Gitimama,Nyankoni,Itiryo,3,continuous,2,5,15
+HS0037,Tarime,Gitimama,Nyankoni,Itiryo,3,continuous,1,20,10
+HS0038,Tarime,Gitimama,Nyankoni,Itiryo,3,continuous,1,15,5
+HS0039,Tarime,Gitimama,Nyankoni,Itiryo,3,continuous,2,15,20
+HS0040,Tarime,Gitimama,Nyankoni,Itiryo,3,continuous,2,10,10
+HS0558,Rorya,Senta,Kuruya,Komuge,0,pulse,6,30,10
+HS0041,Tarime,Kwihango,Nyankoni,Itiryo,3,continuous,2,10,30
+HS0042,Tarime,Kwihango,Nyankoni,Itiryo,3,continuous,3,15,15
+HS0558,Rorya,Senta,Kuruya,Komuge,0,pulse,4,NA,NA
+HS0558,Rorya,Senta,Kuruya,Komuge,0,pulse,6,30,20
+HS0043,Tarime,Kwihango,Nyankoni,Itiryo,3,continuous,4,15,20
+HS0044,Tarime,Kwihango,Nyankoni,Itiryo,3,continuous,2,5,15
+HS0045,Tarime,Kwihango,Nyankoni,Itiryo,3,continuous,6,15,5
+HS0046,Tarime,Kwihango,Nyankoni,Itiryo,3,continuous,3,15,10
+HS0047,Tarime,Kwihango,Nyankoni,Itiryo,3,continuous,2,10,15
+HS0048,Tarime,Kwihango,Nyankoni,Itiryo,3,continuous,2,20,10
+HS0049,Tarime,Kwihango,Nyankoni,Itiryo,3,continuous,3,20,10
+HS0050,Tarime,Kwihango,Nyankoni,Itiryo,3,continuous,3,10,20
+HS0051,Tarime,Nyankoni,Nyankoni,Itiryo,3,continuous,2,15,5
+HS0052,Tarime,Nyankoni,Nyankoni,Itiryo,3,continuous,3,2,10
+HS0053,Tarime,Nyankoni,Nyankoni,Itiryo,3,continuous,1,10,10
+HS0054,Tarime,Nyankoni,Nyankoni,Itiryo,3,continuous,1,NA,NA
+HS0055,Tarime,Nyankoni,Nyankoni,Itiryo,3,continuous,1,5,15
+HS0056,Tarime,Nyankoni,Nyankoni,Itiryo,3,continuous,2,15,10
+HS0057,Tarime,Nyankoni,Nyankoni,Itiryo,3,continuous,3,30,15
+HS0058,Tarime,Nyankoni,Nyankoni,Itiryo,3,continuous,1,15,10
+HS0059,Tarime,Nyankoni,Nyankoni,Itiryo,3,continuous,1,20,10
+HS0060,Tarime,Nyankoni,Nyankoni,Itiryo,3,continuous,2,30,10
+HS0808,Rorya,Center,Nyahera,Tai,1,continuous,3,10,15
+HS0809,Tarime,Nyamerama,Keisangora,Nyamwaga,0,pulse,1,30,3
+HS0810,Tarime,Nyamerama,Keisangora,Nyamwaga,0,pulse,2,NA,NA
+HS0809,Tarime,Nyamerama,Keisangora,Nyamwaga,0,pulse,2,NA,NA
+HS0812,Tarime,Nyamerama,Keisangora,Nyamwaga,0,pulse,2,NA,NA
+HS0813,Tarime,Nyamerama,Keisangora,Nyamwaga,0,pulse,1,NA,NA
+HS0813,Tarime,Nyamerama,Keisangora,Nyamwaga,0,pulse,1,NA,NA
+HS0814,Tarime,Nyamerama,Keisangora,Nyamwaga,0,pulse,1,NA,NA
+HS0814,Tarime,Nyamerama,Keisangora,Nyamwaga,0,pulse,1,NA,NA
+HS0815,Tarime,Nyamerama,Keisangora,Nyamwaga,0,pulse,1,NA,NA
+HS0816,Tarime,Nyamerama,Keisangora,Nyamwaga,0,pulse,1,NA,NA
+HS0817,Tarime,Nyamerama,Keisangora,Nyamwaga,0,pulse,1,NA,NA
+HS0818,Tarime,Nyamerama,Keisangora,Nyamwaga,0,pulse,1,NA,NA
+HS0819,Tarime,Senta,Keisangora,Nyamwaga,0,pulse,1,NA,NA
+HS0820,Tarime,Senta,Keisangora,Nyamwaga,0,pulse,1,2,3
+HS0821,Tarime,Senta,Keisangora,Nyamwaga,0,pulse,2,3,5
+HS0822,Tarime,Senta,Keisangora,Nyamwaga,0,pulse,1,5,3
+HS0823,Tarime,Senta,Keisangora,Nyamwaga,0,pulse,2,10,20
+HS0824,Tarime,Senta,Keisangora,Nyamwaga,0,pulse,1,NA,NA
+HS0825,Tarime,Senta,Keisangora,Nyamwaga,0,pulse,1,10,5
+HS0826,Tarime,Senta,Keisangora,Nyamwaga,0,pulse,3,5,5
+HS0827,Tarime,Senta,Keisangora,Nyamwaga,0,pulse,1,5,5
+HS0828,Tarime,Senta,Keisangora,Nyamwaga,0,pulse,2,7,10
+HS0829,Tarime,Keruta,Keisangora,Nyamwaga,0,pulse,1,NA,NA
+HS0830,Tarime,Keruta,Keisangora,Nyamwaga,0,pulse,2,30,15
+HS0831,Tarime,Keruta,Keisangora,Nyamwaga,0,pulse,5,NA,NA
+HS0832,Tarime,Keruta,Keisangora,Nyamwaga,0,pulse,3,NA,NA
+HS0833,Tarime,Keruta,Keisangora,Nyamwaga,0,pulse,1,NA,NA
+HS0834,Tarime,Keruta,Keisangora,Nyamwaga,0,pulse,2,NA,NA
+HS0835,Tarime,Keruta,Keisangora,Nyamwaga,0,pulse,1,NA,NA
+HS0836,Tarime,Keruta,Keisangora,Nyamwaga,0,pulse,1,10,30
+HS0837,Tarime,Keruta,Keisangora,Nyamwaga,0,pulse,1,NA,NA
+HS0838,Tarime,Keruta,Keisangora,Nyamwaga,0,pulse,2,15,5
+HS0062,Tarime,Isago,Kangariani,Itiryo,3,continuous,1,NA,NA
+HS0063,Tarime,Isago,Kangariani,Itiryo,3,continuous,2,20,60
+HS0064,Tarime,Isago,Kangariani,Itiryo,3,continuous,4,5,30
+HS0065,Tarime,Isago,Kangariani,Itiryo,3,continuous,1,15,30
+HS0066,Tarime,Isago,Kangariani,Itiryo,3,continuous,2,30,15
+HS0067,Tarime,Isago,Kangariani,Itiryo,3,continuous,2,20,15
+HS0068,Tarime,Isago,Kangariani,Itiryo,3,continuous,1,NA,NA
+HS0069,Tarime,Isago,Kangariani,Itiryo,3,continuous,2,30,15
+HS0070,Tarime,Isago,Kangariani,Itiryo,3,continuous,2,30,30
+HS0071,Tarime,Segese,Kangariani,Itiryo,3,continuous,1,10,30
+HS0072,Tarime,Segese,Kangariani,Itiryo,3,continuous,1,NA,NA
+HS0073,Tarime,Segese,Kangariani,Itiryo,3,continuous,1,30,15
+HS0074,Tarime,Segese,Kangariani,Itiryo,3,continuous,1,NA,NA
+HS0075,Tarime,Segese,Kangariani,Itiryo,3,continuous,2,30,40
+HS0076,Tarime,Segese,Kangariani,Itiryo,3,continuous,1,40,20
+HS0077,Tarime,Segese,Kangariani,Itiryo,3,continuous,2,30,40
+HS0078,Tarime,Segese,Kangariani,Itiryo,3,continuous,2,20,15
+HS0079,Tarime,Segese,Kangariani,Itiryo,3,continuous,2,NA,NA
+HS0080,Tarime,Segese,Kangariani,Itiryo,3,continuous,1,NA,NA
+HS0081,Tarime,Birandi,Kangariani,Itiryo,3,continuous,1,45,20
+HS0082,Tarime,Birandi,Kangariani,Itiryo,3,continuous,1,30,60
+HS0083,Tarime,Birandi,Kangariani,Itiryo,3,continuous,2,30,20
+HS0084,Tarime,Birandi,Kangariani,Itiryo,3,continuous,1,15,20
+HS0085,Tarime,Birandi,Kangariani,Itiryo,3,continuous,2,30,15
+HS0086,Tarime,Birandi,Kangariani,Itiryo,3,continuous,2,30,30
+HS0087,Tarime,Birandi,Kangariani,Itiryo,3,continuous,2,40,25
+HS0088,Tarime,Birandi,Kangariani,Itiryo,3,continuous,2,30,20
+HS0089,Tarime,Birandi,Kangariani,Itiryo,3,continuous,4,15,45
+HS0090,Tarime,Birandi,Kangariani,Itiryo,3,continuous,1,15,15
+HS0091,Tarime,Keberenge,Nyamombara,Nyanungu,2,continuous,5,15,5
+HS0092,Tarime,Keberenge,Nyamombara,Nyanungu,2,continuous,1,NA,NA
+HS0093,Tarime,Keberenge,Nyamombara,Nyanungu,2,continuous,1,15,20
+HS0094,Tarime,Keberenge,Nyamombara,Nyanungu,2,continuous,2,20,30
+HS0095,Tarime,Keberenge,Nyamombara,Nyanungu,2,continuous,2,30,45
+HS0096,Tarime,Keberenge,Nyamombara,Nyanungu,2,continuous,6,15,20
+HS0097,Tarime,Keberenge,Nyamombara,Nyanungu,2,continuous,2,30,30
+HS0099,Tarime,Keberenge,Nyamombara,Nyanungu,2,continuous,2,40,20
+HS0099,Tarime,Keberenge,Nyamombara,Nyanungu,2,continuous,3,15,15
+HS0100,Tarime,Keberenge,Nyamombara,Nyanungu,2,continuous,1,NA,NA
+HS0101,Tarime,Remelela,Nyamombara,Nyanungu,2,continuous,2,20,15
+HS0102,Tarime,Remelela,Nyamombara,Nyanungu,2,continuous,2,20,10
+HS0103,Tarime,Remelela,Nyamombara,Nyanungu,2,continuous,1,30,30
+HS0104,Tarime,Remelela,Nyamombara,Nyanungu,2,continuous,1,30,20
+HS0105,Tarime,Remelela,Nyamombara,Nyanungu,2,continuous,1,NA,NA
+HS0106,Tarime,Remelela,Nyamombara,Nyanungu,2,continuous,1,40,15
+HS0107,Tarime,Remelela,Nyamombara,Nyanungu,2,continuous,1,30,60
+HS0108,Tarime,Remelela,Nyamombara,Nyanungu,2,continuous,3,20,40
+HS0109,Tarime,Remelela,Nyamombara,Nyanungu,2,continuous,1,10,15
+HS0110,Tarime,Remelela,Nyamombara,Nyanungu,2,continuous,4,30,45
+HS0111,Tarime,Getena,Nyamombara,Nyanungu,2,continuous,3,10,15
+HS0112,Tarime,Getena,Nyamombara,Nyanungu,2,continuous,1,15,10
+HS0113,Tarime,Getena,Nyamombara,Nyanungu,2,continuous,1,20,30
+HS0114,Tarime,Getena,Nyamombara,Nyanungu,2,continuous,1,10,30
+HS0115,Tarime,Getena,Nyamombara,Nyanungu,2,continuous,2,NA,NA
+HS0116,Tarime,Getena,Nyamombara,Nyanungu,2,continuous,1,15,30
+HS0117,Tarime,Getena,Nyamombara,Nyanungu,2,continuous,1,30,15
+HS0118,Tarime,Getena,Nyamombara,Nyanungu,2,continuous,1,20,15
+HS0119,Tarime,Getena,Nyamombara,Nyanungu,2,continuous,6,20,20
+HS0120,Tarime,Getena,Nyamombara,Nyanungu,2,continuous,1,10,10
+HS0121,Tarime,Nyamisaru,Mangucha,Nyanungu,2,continuous,2,5,20
+HS0122,Tarime,Nyamisaru,Mangucha,Nyanungu,2,continuous,2,10,30
+HS0123,Tarime,Nyamisaru,Mangucha,Nyanungu,2,continuous,1,NA,NA
+HS0124,Tarime,Nyamisaru,Mangucha,Nyanungu,2,continuous,1,10,20
+HS0125,Tarime,Nyamisaru,Mangucha,Nyanungu,2,continuous,3,10,20
+HS0126,Tarime,Nyamisaru,Mangucha,Nyanungu,2,continuous,2,15,30
+HS0127,Tarime,Nyamisaru,Mangucha,Nyanungu,2,continuous,1,20,10
+HS0128,Tarime,Nyamisaru,Mangucha,Nyanungu,2,continuous,3,5,20
+HS0129,Tarime,Nyamisaru,Mangucha,Nyanungu,2,continuous,1,10,30
+HS0130,Tarime,Nyamisaru,Mangucha,Nyanungu,2,continuous,1,30,15
+HS0137,Tarime,Ikorongo,Mangucha,Nyanungu,2,continuous,1,10,10
+HS0138,Tarime,Ikorongo,Mangucha,Nyanungu,2,continuous,3,20,15
+HS0139,Tarime,Ikorongo,Mangucha,Nyanungu,2,continuous,1,30,15
+HS0140,Tarime,Ikorongo,Mangucha,Nyanungu,2,continuous,1,20,40
+HS0141,Tarime,Manguncha Senta,Mangucha,Nyanungu,2,continuous,1,10,30
+HS0681,Rorya,Kirumi,Kuruya,Komuge,0,pulse,2,120,120
+HS0142,Tarime,Manguncha Senta,Mangucha,Nyanungu,2,continuous,1,15,20
+HS0680,Rorya,Kirumi,Kuruya,Komuge,0,pulse,2,NA,NA
+HS0143,Tarime,Manguncha Senta,Mangucha,Nyanungu,2,continuous,5,5,30
+HS0679,Rorya,Kirumi,Kuruya,Komuge,0,pulse,1,NA,NA
+HS0144,Tarime,Manguncha Senta,Mangucha,Nyanungu,2,continuous,1,10,30
+HS0678,Rorya,Kirumi,Kuruya,Komuge,0,pulse,4,60,90
+HS0145,Tarime,Manguncha Senta,Mangucha,Nyanungu,2,continuous,3,20,10
+HS0146,Tarime,Manguncha Senta,Mangucha,Nyanungu,2,continuous,3,15,30
+HS0147,Tarime,Manguncha Senta,Mangucha,Nyanungu,2,continuous,2,NA,NA
+HS0677,Rorya,Senta,Kuruya,Komuge,0,pulse,3,30,60
+HS0148,Tarime,Manguncha Senta,Mangucha,Nyanungu,2,continuous,2,NA,NA
+HS0676,Rorya,Senta,Kuruya,Komuge,0,pulse,2,30,100
+HS0149,Tarime,Manguncha Senta,Mangucha,Nyanungu,2,continuous,2,10,5
+HS0150,Tarime,Manguncha Senta,Mangucha,Nyanungu,2,continuous,2,5,15
+HS0675,Rorya,Senta,Kuruya,Komuge,0,pulse,1,30,120
+HS0674,Rorya,Senta,Kuruya,Komuge,0,pulse,3,NA,NA
+HS0673,Rorya,Senta,Kuruya,Komuge,0,pulse,2,30,120
+HS0672,Rorya,Senta,Kuruya,Komuge,0,pulse,1,45,100
+HS0671,Rorya,Senta,Kuruya,Komuge,0,pulse,1,60,100
+HS0670,Rorya,Senta,Kuruya,Komuge,0,pulse,1,15,240
+HS0839,Tarime,Bwengeri,Gwitare,Nyamwaga,0,pulse,1,5,1
+HS0669,Rorya,Senta,Kuruya,Komuge,0,pulse,1,10,250
+HS0668,Rorya,Senta,Kuruya,Komuge,0,pulse,2,10,60
+HS0665,Rorya,Shule,Kuruya,Komuge,0,pulse,2,20,60
+HS0664,Rorya,Shule,Kuruya,Komuge,0,pulse,1,15,30
+HS0663,Rorya,Shule,Kuruya,Komuge,0,pulse,1,5,30
+HS0662,Rorya,Shule,Kuruya,Komuge,0,pulse,4,2,60
+HS0151,Tarime,Giyema,Kegonga,Nyanungu,2,continuous,2,5,20
+HS0152,Tarime,Giyema,Kegonga,Nyanungu,2,continuous,3,15,30
+HS0153,Tarime,Giyema,Kegonga,Nyanungu,2,continuous,5,20,30
+HS0154,Tarime,Giyema,Kegonga,Nyanungu,2,continuous,2,20,30
+HS0155,Tarime,Giyema,Kegonga,Nyanungu,2,continuous,1,30,30
+HS0156,Tarime,Giyema,Kegonga,Nyanungu,2,continuous,3,40,20
+HS0157,Tarime,Giyema,Kegonga,Nyanungu,2,continuous,3,40,30
+HS0158,Tarime,Giyema,Kegonga,Nyanungu,2,continuous,4,30,10
+HS0159,Tarime,Giyema,Kegonga,Nyanungu,2,continuous,1,20,15
+HS0160,Tarime,Giyema,Kegonga,Nyanungu,2,continuous,1,30,10
+HS0161,Tarime,Kwibate,Kegonga,Nyanungu,2,continuous,2,1,5
+HS0161,Tarime,Kwibate,Kegonga,Nyanungu,2,continuous,2,1,5
+HS0162,Tarime,Kwibate,Kegonga,Nyanungu,2,continuous,2,30,20
+HS0162,Tarime,Kwibate,Kegonga,Nyanungu,2,continuous,2,30,20
+HS0163,Tarime,Kwibate,Kegonga,Nyanungu,2,continuous,1,30,30
+HS0163,Tarime,Kwibate,Kegonga,Nyanungu,2,continuous,1,30,30
+HS0164,Tarime,Kwibate,Kegonga,Nyanungu,2,continuous,1,NA,NA
+HS0164,Tarime,Kwibate,Kegonga,Nyanungu,2,continuous,1,NA,NA
+HS0165,Tarime,Kwibate,Kegonga,Nyanungu,2,continuous,2,30,10
+HS0165,Tarime,Kwibate,Kegonga,Nyanungu,2,continuous,2,30,10
+HS0166,Tarime,Kwibate,Kegonga,Nyanungu,2,continuous,1,20,30
+HS0166,Tarime,Kwibate,Kegonga,Nyanungu,2,continuous,1,20,30
+HS0167,Tarime,Kwibate,Kegonga,Nyanungu,2,continuous,1,30,10
+HS0167,Tarime,Kwibate,Kegonga,Nyanungu,2,continuous,1,30,10
+HS0168,Tarime,Kwibate,Kegonga,Nyanungu,2,continuous,2,45,20
+HS0168,Tarime,Kwibate,Kegonga,Nyanungu,2,continuous,2,45,20
+HS0169,Tarime,Kwibate,Kegonga,Nyanungu,2,continuous,2,30,30
+HS0169,Tarime,Kwibate,Kegonga,Nyanungu,2,continuous,2,30,30
+HS0170,Tarime,Kwibate,Kegonga,Nyanungu,2,continuous,4,20,10
+HS0170,Tarime,Kwibate,Kegonga,Nyanungu,2,continuous,4,20,10
+HS0171,Tarime,Kegonga Senta,Kegonga,Nyanungu,2,continuous,3,15,10
+HS0171,Tarime,Kegonga Senta,Kegonga,Nyanungu,2,continuous,3,15,10
+HS0171,Tarime,Kegonga Senta,Kegonga,Nyanungu,2,continuous,3,15,10
+HS0171,Tarime,Kegonga Senta,Kegonga,Nyanungu,2,continuous,3,15,10
+HS0172,Tarime,Kegonga Senta,Kegonga,Nyanungu,2,continuous,1,10,30
+HS0172,Tarime,Kegonga Senta,Kegonga,Nyanungu,2,continuous,1,10,30
+HS0173,Tarime,Kegonga Senta,Kegonga,Nyanungu,2,continuous,2,10,20
+HS0173,Tarime,Kegonga Senta,Kegonga,Nyanungu,2,continuous,2,10,20
+HS0174,Tarime,Kegonga Senta,Kegonga,Nyanungu,2,continuous,2,10,60
+HS0174,Tarime,Kegonga Senta,Kegonga,Nyanungu,2,continuous,2,10,60
+HS0175,Tarime,Kegonga Senta,Kegonga,Nyanungu,2,continuous,1,10,10
+HS0175,Tarime,Kegonga Senta,Kegonga,Nyanungu,2,continuous,1,10,10
+HS0176,Tarime,Kegonga Senta,Kegonga,Nyanungu,2,continuous,1,10,30
+HS0176,Tarime,Kegonga Senta,Kegonga,Nyanungu,2,continuous,1,10,30
+HS0177,Tarime,Kegonga Senta,Kegonga,Nyanungu,2,continuous,NA,NA,NA
+HS0177,Tarime,Kegonga Senta,Kegonga,Nyanungu,2,continuous,NA,NA,NA
+HS0178,Tarime,Kegonga Senta,Kegonga,Nyanungu,2,continuous,2,5,5
+HS0178,Tarime,Kegonga Senta,Kegonga,Nyanungu,2,continuous,2,5,5
+HS0179,Tarime,Kegonga Senta,Kegonga,Nyanungu,2,continuous,1,10,20
+HS0179,Tarime,Kegonga Senta,Kegonga,Nyanungu,2,continuous,1,10,20
+HS0180,Tarime,Kegonga Senta,Kegonga,Nyanungu,2,continuous,1,NA,NA
+HS0180,Tarime,Kegonga Senta,Kegonga,Nyanungu,2,continuous,1,NA,NA
+HS0181,Tarime,Keweirumbe,Masurura,Gorong a,1,continuous,1,5,10
+HS0182,Tarime,Keweirumbe,Masurura,Gorong a,1,continuous,2,10,20
+HS0183,Tarime,Keweirumbe,Masurura,Gorong a,1,continuous,2,15,30
+HS0184,Tarime,Keweirumbe,Masurura,Gorong a,1,continuous,2,20,20
+HS0185,Tarime,Keweirumbe,Masurura,Gorong a,1,continuous,2,30,20
+HS0186,Tarime,Keweirumbe,Masurura,Gorong a,1,continuous,2,30,10
+HS0187,Tarime,Keweirumbe,Masurura,Gorong a,1,continuous,2,20,10
+HS0188,Tarime,Keweirumbe,Masurura,Gorong a,1,continuous,2,30,10
+HS0189,Tarime,Keweirumbe,Masurura,Gorong a,1,continuous,1,30,10
+HS0190,Tarime,Keweirumbe,Masurura,Gorong a,1,continuous,2,10,10
+HS0191,Tarime,Kemoseti,Masurura,Gorong a,1,continuous,6,NA,NA
+HS0192,Tarime,Kemoseti,Masurura,Gorong a,1,continuous,2,NA,NA
+HS0193,Tarime,Kemoseti,Masurura,Gorong a,1,continuous,2,NA,NA
+HS0194,Tarime,Kemoseti,Masurura,Gorong a,1,continuous,2,NA,NA
+HS0195,Tarime,Kemoseti,Masurura,Gorong a,1,continuous,2,20,15
+HS0196,Tarime,Kemoseti,Masurura,Gorong a,1,continuous,2,20,20
+HS0197,Tarime,Kemoseti,Masurura,Gorong a,1,continuous,1,NA,NA
+HS0198,Tarime,Kemoseti,Masurura,Gorong a,1,continuous,1,30,30
+HS0199,Tarime,Kemoseti,Masurura,Gorong a,1,continuous,1,30,20
+HS0200,Tarime,Kemoseti,Masurura,Gorong a,1,continuous,1,10,15
+HS0201,Tarime,Masurura Senta,Masurura,Gorong a,1,continuous,2,5,10
+HS0202,Tarime,Masurura Senta,Masurura,Gorong a,1,continuous,1,5,10
+HS0203,Tarime,Masurura Senta,Masurura,Gorong a,1,continuous,3,10,20
+HS0204,Tarime,Masurura Senta,Masurura,Gorong a,1,continuous,1,10,120
+HS0205,Tarime,Masurura Senta,Masurura,Gorong a,1,continuous,2,15,45
+HS0206,Tarime,Masurura Senta,Masurura,Gorong a,1,continuous,8,30,30
+HS0207,Tarime,Masurura Senta,Masurura,Gorong a,1,continuous,1,20,30
+HS0207,Tarime,Masurura Senta,Masurura,Gorong a,1,continuous,1,20,30
+HS0208,Tarime,Masurura Senta,Masurura,Gorong a,1,continuous,1,5,30
+HS0208,Tarime,Masurura Senta,Masurura,Gorong a,1,continuous,1,5,30
+HS0209,Tarime,Masurura Senta,Masurura,Gorong a,1,continuous,1,10,60
+HS0210,Tarime,Masurura Senta,Masurura,Gorong a,1,continuous,3,5,30
+HS0807,Rorya,Center,Nyahera,Tai,1,continuous,1,30,30
+HS0806,Rorya,Center,Nyahera,Tai,1,continuous,2,20,60
+HS0805,Rorya,Center,Nyahera,Tai,1,continuous,1,45,110
+HS0804,Rorya,Center,Nyahera,Tai,1,continuous,1,2,60
+HS0211,Tarime,Gibasisi,Kitawasi,Gorong a,1,continuous,3,15,60
+HS0803,Rorya,Center,Nyahera,Tai,1,continuous,1,2,5
+HS0802,Rorya,Center,Nyahera,Tai,1,continuous,1,45,60
+HS0212,Tarime,Gibasisi,Kitawasi,Gorong a,1,continuous,1,20,30
+HS0213,Tarime,Gibasisi,Kitawasi,Gorong a,1,continuous,1,NA,NA
+HS0801,Rorya,Center,Nyahera,Tai,1,continuous,1,45,60
+HS0214,Tarime,Gibasisi,Kitawasi,Gorong a,1,continuous,6,20,60
+HS0800,Rorya,Center,Nyahera,Tai,1,continuous,3,5,30
+HS0215,Tarime,Gibasisi,Kitawasi,Gorong a,1,continuous,4,15,40
+HS0216,Tarime,Gibasisi,Kitawasi,Gorong a,1,continuous,1,NA,NA
+HS0799,Rorya,Center,Nyahera,Tai,1,continuous,3,10,15
+HS0217,Tarime,Gibasisi,Kitawasi,Gorong a,1,continuous,6,NA,NA
+HS0218,Tarime,Gibasisi,Kitawasi,Gorong a,1,continuous,3,30,60
+HS0219,Tarime,Gibasisi,Kitawasi,Gorong a,1,continuous,1,15,30
+HS0220,Tarime,Gibasisi,Kitawasi,Gorong a,1,continuous,2,10,20
+HS0221,Tarime,Remerera,Kitawasi,Gorong a,1,continuous,1,30,40
+HS0222,Tarime,Remerera,Kitawasi,Gorong a,1,continuous,2,40,20
+HS0223,Tarime,Remerera,Kitawasi,Gorong a,1,continuous,1,NA,NA
+HS0224,Tarime,Remerera,Kitawasi,Gorong a,1,continuous,1,NA,NA
+HS0225,Tarime,Remerera,Kitawasi,Gorong a,1,continuous,1,60,30
+HS0226,Tarime,Remerera,Kitawasi,Gorong a,1,continuous,2,NA,NA
+HS0227,Tarime,Remerera,Kitawasi,Gorong a,1,continuous,1,NA,NA
+HS0228,Tarime,Remerera,Kitawasi,Gorong a,1,continuous,1,NA,NA
+HS0229,Tarime,Remerera,Kitawasi,Gorong a,1,continuous,2,NA,NA
+HS0230,Tarime,Remerera,Kitawasi,Gorong a,1,continuous,3,NA,NA
+HS0231,Tarime,Kitawasi Senta,Kitawasi,Gorong a,1,continuous,1,20,45
+HS0232,Tarime,Kitawasi Senta,Kitawasi,Gorong a,1,continuous,1,30,60
+HS0233,Tarime,Kitawasi Senta,Kitawasi,Gorong a,1,continuous,2,15,60
+HS0234,Tarime,Kitawasi Senta,Kitawasi,Gorong a,1,continuous,1,30,120
+HS0235,Tarime,Kitawasi Senta,Kitawasi,Gorong a,1,continuous,1,20,60
+HS0236,Tarime,Kitawasi Senta,Kitawasi,Gorong a,1,continuous,1,NA,NA
+HS0237,Tarime,Kitawasi Senta,Kitawasi,Gorong a,1,continuous,1,5,15
+HS0238,Tarime,Kitawasi Senta,Kitawasi,Gorong a,1,continuous,2,2,15
+HS0239,Tarime,Kitawasi Senta,Kitawasi,Gorong a,1,continuous,2,5,15
+HS0240,Tarime,Kitawasi Senta,Kitawasi,Gorong a,1,continuous,1,5,15
+HS0241,Tarime,Nyamerama,Masanga,Gorong a,1,continuous,1,10,25
+HS0792,Rorya,Makao,Nyahera,Tai,1,continuous,1,30,15
+HS0791,Rorya,Makao,Nyahera,Tai,1,continuous,3,60,120
+HS0790,Rorya,Makao,Nyahera,Tai,1,continuous,2,90,120
+HS0789,Rorya,Makao,Nyahera,Tai,1,continuous,3,30,20
+HS0242,Tarime,Nyamerama,Masanga,Gorong a,1,continuous,2,10,45
+HS0243,Tarime,Nyamerama,Masanga,Gorong a,1,continuous,1,NA,NA
+HS0244,Tarime,Nyamerama,Masanga,Gorong a,1,continuous,1,20,30
+HS0245,Tarime,Nyamerama,Masanga,Gorong a,1,continuous,3,30,30
+HS0246,Tarime,Nyamerama,Masanga,Gorong a,1,continuous,2,20,30
+HS0247,Tarime,Nyamerama,Masanga,Gorong a,1,continuous,1,NA,NA
+HS0248,Tarime,Nyamerama,Masanga,Gorong a,1,continuous,1,NA,NA
+HS0249,Tarime,Nyamerama,Masanga,Gorong a,1,continuous,1,30,30
+HS0250,Tarime,Nyamerama,Masanga,Gorong a,1,continuous,1,20,30
+HS0251,Tarime,Kemangari,Masanga,Gorong a,1,continuous,1,10,30
+HS0252,Tarime,Kemangari,Masanga,Gorong a,1,continuous,2,15,60
+HS0253,Tarime,Kemangari,Masanga,Gorong a,1,continuous,3,20,60
+HS0254,Tarime,Kemangari,Masanga,Gorong a,1,continuous,1,NA,NA
+HS0255,Tarime,Kemangari,Masanga,Gorong a,1,continuous,2,20,30
+HS0256,Tarime,Kemangari,Masanga,Gorong a,1,continuous,2,30,60
+HS0257,Tarime,Kemangari,Masanga,Gorong a,1,continuous,2,30,60
+HS0258,Tarime,Kemangari,Masanga,Gorong a,1,continuous,2,20,40
+HS0259,Tarime,Kemangari,Masanga,Gorong a,1,continuous,2,30,30
+HS0260,Tarime,Kemangari,Masanga,Gorong a,1,continuous,1,NA,NA
+HS0261,Tarime,Tigite,Masanga,Gorong a,1,continuous,4,15,60
+HS0262,Tarime,Tigite,Masanga,Gorong a,1,continuous,3,10,30
+HS0263,Tarime,Tigite,Masanga,Gorong a,1,continuous,2,10,120
+HS0264,Tarime,Tigite,Masanga,Gorong a,1,continuous,2,20,40
+HS0265,Tarime,Tigite,Masanga,Gorong a,1,continuous,2,15,45
+HS0265,Tarime,Tigite,Masanga,Gorong a,1,continuous,2,15,45
+HS0266,Tarime,Tigite,Masanga,Gorong a,1,continuous,1,30,60
+HS0266,Tarime,Tigite,Masanga,Gorong a,1,continuous,1,30,60
+HS0267,Tarime,Tigite,Masanga,Gorong a,1,continuous,2,30,60
+HS0268,Tarime,Tigite,Masanga,Gorong a,1,continuous,1,40,60
+HS0269,Tarime,Tigite,Masanga,Gorong a,1,continuous,2,15,15
+HS0270,Tarime,Tigite,Masanga,Gorong a,1,continuous,3,10,30
+HS0779,Rorya,Nyakibori B,Nyahera,Tai,1,continuous,3,15,30
+HS0780,Rorya,Nyakibori B,Nyahera,Tai,1,continuous,2,30,30
+HS0271,Tarime,Nyamagongwe,Kenyamosabi,Gorong a,1,continuous,3,20,30
+HS0781,Rorya,Nyakibori B,Nyahera,Tai,1,continuous,3,30,180
+HS0272,Tarime,Nyamagongwe,Kenyamosabi,Gorong a,1,continuous,2,20,30
+HS0273,Tarime,Nyamagongwe,Kenyamosabi,Gorong a,1,continuous,2,NA,NA
+HS0274,Tarime,Nyamagongwe,Kenyamosabi,Gorong a,1,continuous,1,20,30
+HS0782,Rorya,Nyakibori B,Nyahera,Tai,1,continuous,2,30,30
+HS0275,Tarime,Nyamagongwe,Kenyamosabi,Gorong a,1,continuous,1,20,45
+HS0783,Rorya,Nyakibori B,Nyahera,Tai,1,continuous,1,45,30
+HS0276,Tarime,Nyamagongwe,Kenyamosabi,Gorong a,1,continuous,1,30,60
+HS0277,Tarime,Nyamagongwe,Kenyamosabi,Gorong a,1,continuous,4,30,30
+HS0784,Rorya,Nyakibori B,Nyahera,Tai,1,continuous,2,50,60
+HS0785,Rorya,Nyakibori B,Nyahera,Tai,1,continuous,1,50,120
+HS0278,Tarime,Nyamagongwe,Kenyamosabi,Gorong a,1,continuous,2,45,45
+HS0278,Tarime,Nyamagongwe,Kenyamosabi,Gorong a,1,continuous,2,45,45
+HS0279,Tarime,Nyamagongwe,Kenyamosabi,Gorong a,1,continuous,6,45,60
+HS0786,Rorya,Nyakibori B,Nyahera,Tai,1,continuous,1,45,60
+HS0787,Rorya,Nyakibori B,Nyahera,Tai,1,continuous,2,50,60
+HS0280,Tarime,Nyamagongwe,Kenyamosabi,Gorong a,1,continuous,4,10,30
+HS0281,Tarime,Ngonche,Kenyamosabi,Gorong a,1,continuous,1,25,60
+HS0787,Rorya,Nyakibori B,Nyahera,Tai,1,continuous,1,65,60
+HS0282,Tarime,Ngonche,Kenyamosabi,Gorong a,1,continuous,2,60,30
+HS0283,Tarime,Ngonche,Kenyamosabi,Gorong a,1,continuous,4,30,15
+HS0284,Tarime,Ngonche,Kenyamosabi,Gorong a,1,continuous,2,30,30
+HS0770,Rorya,Oboke,Nyamagongo,Tai,1,continuous,3,30,60
+HS0285,Tarime,Ngonche,Kenyamosabi,Gorong a,1,continuous,2,10,30
+HS0286,Tarime,Ngonche,Kenyamosabi,Gorong a,1,continuous,3,20,30
+HS0286,Tarime,Ngonche,Kenyamosabi,Gorong a,1,continuous,3,20,30
+HS0287,Tarime,Ngonche,Kenyamosabi,Gorong a,1,continuous,1,NA,NA
+HS0287,Tarime,Ngonche,Kenyamosabi,Gorong a,1,continuous,1,NA,NA
+HS0288,Tarime,Ngonche,Kenyamosabi,Gorong a,1,continuous,1,30,60
+HS0289,Tarime,Ngonche,Kenyamosabi,Gorong a,1,continuous,1,20,120
+HS0290,Tarime,Ngonche,Kenyamosabi,Gorong a,1,continuous,1,20,60
+HS0769,Rorya,Oboke,Nyamagongo,Tai,1,continuous,1,45,60
+HS0291,Tarime,Kenyamosabi Senta,Kenyamosabi,Gorong a,1,continuous,1,20,120
+HS0772,Rorya,Oboke,Nyamagongo,Tai,1,continuous,1,47,65
+HS0773,Rorya,Oboke,Nyamagongo,Tai,1,continuous,4,50,42
+HS0292,Tarime,Kenyamosabi Senta,Kenyamosabi,Gorong a,1,continuous,1,NA,NA
+HS0774,Rorya,Oboke,Nyamagongo,Tai,1,continuous,4,60,55
+HS0293,Tarime,Kenyamosabi Senta,Kenyamosabi,Gorong a,1,continuous,2,10,60
+HS0775,Rorya,Oboke,Nyamagongo,Tai,1,continuous,1,65,50
+HS0294,Tarime,Kenyamosabi Senta,Kenyamosabi,Gorong a,1,continuous,1,10,15
+HS0294,Tarime,Kenyamosabi Senta,Kenyamosabi,Gorong a,1,continuous,1,10,15
+HS0295,Tarime,Kenyamosabi Senta,Kenyamosabi,Gorong a,1,continuous,2,20,60
+HS0776,Rorya,Oboke,Nyamagongo,Tai,1,continuous,1,70,48
+HS0296,Tarime,Kenyamosabi Senta,Kenyamosabi,Gorong a,1,continuous,2,20,60
+HS0777,Rorya,Oboke,Nyamagongo,Tai,1,continuous,1,55,45
+HS0778,Rorya,Oboke,Nyamagongo,Tai,1,continuous,2,50,60
+HS0297,Tarime,Kenyamosabi Senta,Kenyamosabi,Gorong a,1,continuous,2,15,30
+HS0298,Tarime,Kenyamosabi Senta,Kenyamosabi,Gorong a,1,continuous,2,10,45
+HS0771,Rorya,Oboke,Nyamagongo,Tai,1,continuous,1,45,60
+HS0299,Tarime,Kenyamosabi Senta,Kenyamosabi,Gorong a,1,continuous,1,NA,NA
+HS0751,Rorya,Nyamsarwa,Nyamagongo,Tai,1,continuous,3,NA,NA
+HS0300,Tarime,Kenyamosabi Senta,Kenyamosabi,Gorong a,1,continuous,1,NA,NA
+HS0752,Rorya,Nyamsarwa,Nyamagongo,Tai,1,continuous,2,30,240
+HS0753,Rorya,Nyamsarwa,Nyamagongo,Tai,1,continuous,1,NA,NA
+HS0754,Rorya,Nyamsarwa,Nyamagongo,Tai,1,continuous,1,30,300
+HS0755,Rorya,Nyamsarwa,Nyamagongo,Tai,1,continuous,2,NA,NA
+HS0756,Rorya,Nyamsarwa,Nyamagongo,Tai,1,continuous,3,40,60
+HS0757,Rorya,Nyamsarwa,Nyamagongo,Tai,1,continuous,1,45,45
+HS0758,Rorya,Nyamsarwa,Nyamagongo,Tai,1,continuous,1,NA,NA
+HS0750,Rorya,Nyamsarwa,Nyamagongo,Tai,1,continuous,2,60,120
+HS0749,Rorya,Nyamsarwa,Nyamagongo,Tai,1,continuous,1,NA,NA
+HS0762,Rorya,Makao,Nyamagongo,Tai,1,continuous,1,NA,NA
+HS0759,Rorya,Makao,Nyamagongo,Tai,1,continuous,2,NA,NA
+HS0767,Rorya,Makao,Nyamagongo,Tai,1,continuous,2,15,60
+HS0763,Rorya,Makao,Nyamagongo,Tai,1,continuous,1,30,40
+HS0765,Rorya,Makao,Nyamagongo,Tai,1,continuous,1,NA,NA
+HS0761,Rorya,Makao,Nyamagongo,Tai,1,continuous,2,15,90
+HS0760,Rorya,Makao,Nyamagongo,Tai,1,continuous,1,10,10
+HS0766,Rorya,Makao,Nyamagongo,Tai,1,continuous,4,5,15
+HS0764,Rorya,Makao,Nyamagongo,Tai,1,continuous,3,NA,NA
+HS0768,Rorya,Makao,Nyamagongo,Tai,1,continuous,1,NA,NA
+HS0301,Butiama,Serengeti,Kyankoma,Nyamimange,3,continuous,1,NA,NA
+HS0302,Butiama,Serengeti,Kyankoma,Nyamimange,3,continuous,1,NA,NA
+HS0303,Butiama,Serengeti,Kyankoma,Nyamimange,3,continuous,1,30,60
+HS0304,Butiama,Serengeti,Kyankoma,Nyamimange,3,continuous,2,30,60
+HS0305,Butiama,Serengeti,Kyankoma,Nyamimange,3,continuous,2,NA,NA
+HS0306,Butiama,Serengeti,Kyankoma,Nyamimange,3,continuous,6,NA,NA
+HS0307,Butiama,Serengeti,Kyankoma,Nyamimange,3,continuous,3,NA,NA
+HS0308,Butiama,Serengeti,Kyankoma,Nyamimange,3,continuous,1,NA,NA
+HS0309,Butiama,Serengeti,Kyankoma,Nyamimange,3,continuous,1,20,60
+HS0310,Butiama,Serengeti,Kyankoma,Nyamimange,3,continuous,1,30,15
+HS0311,Butiama,Kabwasi,Kyankoma,Nyamimange,3,continuous,2,20,30
+HS0312,Butiama,Kabwasi,Kyankoma,Nyamimange,3,continuous,2,15,30
+HS0313,Butiama,Kabwasi,Kyankoma,Nyamimange,3,continuous,2,10,45
+HS0314,Butiama,Kabwasi,Kyankoma,Nyamimange,3,continuous,6,15,30
+HS0655,Rorya,Kati,Kyamwame,Komuge,0,pulse,1,NA,NA
+HS0315,Butiama,Kabwasi,Kyankoma,Nyamimange,3,continuous,2,NA,NA
+HS0316,Butiama,Kabwasi,Kyankoma,Nyamimange,3,continuous,1,15,30
+HS0654,Rorya,Kati,Kyamwame,Komuge,0,pulse,1,NA,NA
+HS0317,Butiama,Kabwasi,Kyankoma,Nyamimange,3,continuous,4,15,30
+HS0653,Rorya,Kati,Kyamwame,Komuge,0,pulse,1,NA,NA
+HS0318,Butiama,Kabwasi,Kyankoma,Nyamimange,3,continuous,1,NA,NA
+HS0652,Rorya,Kati,Kyamwame,Komuge,0,pulse,1,20,10
+HS0319,Butiama,Kabwasi,Kyankoma,Nyamimange,3,continuous,3,NA,NA
+HS0320,Butiama,Kabwasi,Kyankoma,Nyamimange,3,continuous,3,10,30
+HS0321,Butiama,Sania,Kyankoma,Nyamimange,3,continuous,2,45,60
+HS0651,Rorya,Kati,Kyamwame,Komuge,0,pulse,1,15,5
+HS0650,Rorya,Kati,Kyamwame,Komuge,0,pulse,5,NA,NA
+HS0649,Rorya,Kati,Kyamwame,Komuge,0,pulse,1,15,5
+HS0322,Butiama,Sania,Kyankoma,Nyamimange,3,continuous,2,45,120
+HS0323,Butiama,Sania,Kyankoma,Nyamimange,3,continuous,2,60,60
+HS0648,Rorya,Kati,Kyamwame,Komuge,0,pulse,1,15,5
+HS0324,Butiama,Sania,Kyankoma,Nyamimange,3,continuous,4,NA,NA
+HS0325,Butiama,Sania,Kyankoma,Nyamimange,3,continuous,3,NA,NA
+HS0647,Rorya,Kati,Kyamwame,Komuge,0,pulse,1,NA,NA
+HS0646,Rorya,Kati,Kyamwame,Komuge,0,pulse,1,NA,NA
+HS0326,Butiama,Sania,Kyankoma,Nyamimange,3,continuous,2,NA,NA
+HS0327,Butiama,Sania,Kyankoma,Nyamimange,3,continuous,3,NA,NA
+HS0328,Butiama,Sania,Kyankoma,Nyamimange,3,continuous,3,NA,NA
+HS0645,Rorya,Kati,Kyamwame,Komuge,0,pulse,1,NA,NA
+HS0644,Rorya,Kati,Kyamwame,Komuge,0,pulse,1,NA,NA
+HS0329,Butiama,Sania,Kyankoma,Nyamimange,3,continuous,1,NA,NA
+HS0330,Butiama,Sania,Kyankoma,Nyamimange,3,continuous,1,NA,NA
+HS0643,Rorya,Kati,Kyamwame,Komuge,0,pulse,1,60,5
+HS0642,Rorya,Kati,Kyamwame,Komuge,0,pulse,1,NA,NA
+HS0641,Rorya,Kyabuganga,Kyamwame,Komuge,0,pulse,1,5,15
+HS0640,Rorya,Kyabuganga,Kyamwame,Komuge,0,pulse,2,5,3
+HS0639,Rorya,Kyabuganga,Kyamwame,Komuge,0,pulse,1,10,15
+HS0638,Rorya,Kyabuganga,Kyamwame,Komuge,0,pulse,1,NA,NA
+HS0637,Rorya,Kyabuganga,Kyamwame,Komuge,0,pulse,2,NA,NA
+HS0636,Rorya,Kyabuganga,Kyamwame,Komuge,0,pulse,1,NA,NA
+HS0635,Rorya,Kyabuganga,Kyamwame,Komuge,0,pulse,2,NA,NA
+HS0634,Rorya,Kyabuganga,Kyamwame,Komuge,0,pulse,2,NA,NA
+HS0633,Rorya,Kyabuganga,Kyamwame,Komuge,0,pulse,2,60,15
+HS0632,Rorya,Kyabuganga,Kyamwame,Komuge,0,pulse,2,NA,NA
+HS0729,Rorya,Masonga,Masonga,Tai,1,continuous,5,NA,NA
+HS0730,Rorya,Masonga,Masonga,Tai,1,continuous,2,NA,NA
+HS0731,Rorya,Masonga,Masonga,Tai,1,continuous,2,10,120
+HS0732,Rorya,Masonga,Masonga,Tai,1,continuous,5,NA,NA
+HS0733,Rorya,Masonga,Masonga,Tai,1,continuous,2,10,120
+HS0734,Rorya,Masonga,Masonga,Tai,1,continuous,1,NA,NA
+HS0735,Rorya,Masonga,Masonga,Tai,1,continuous,1,NA,NA
+HS0736,Rorya,Masonga,Masonga,Tai,1,continuous,5,NA,NA
+HS0737,Rorya,Masonga,Masonga,Tai,1,continuous,4,NA,NA
+HS0738,Rorya,Masonga,Masonga,Tai,1,continuous,2,NA,NA
+HS0739,Rorya,Tai,Masonga,Tai,1,continuous,2,10,60
+HS0740,Rorya,Tai,Masonga,Tai,1,continuous,2,12,75
+HS0741,Rorya,Tai,Masonga,Tai,1,continuous,2,10,60
+HS0742,Rorya,Tai,Masonga,Tai,1,continuous,1,10,20
+HS0743,Rorya,Tai,Masonga,Tai,1,continuous,1,NA,NA
+HS0744,Rorya,Tai,Masonga,Tai,1,continuous,1,NA,NA
+HS0745,Rorya,Tai,Masonga,Tai,1,continuous,2,15,10
+HS0746,Rorya,Tai,Masonga,Tai,1,continuous,1,NA,NA
+HS0747,Rorya,Tai,Masonga,Tai,1,continuous,2,20,60
+HS0748,Rorya,Tai,Masonga,Tai,1,continuous,3,NA,NA
+HS0720,Rorya,Kyambogo,Masonga,Tai,1,continuous,1,5,10
+HS0721,Rorya,Kyambogo,Masonga,Tai,1,continuous,1,10,15
+HS0722,Rorya,Kyambogo,Masonga,Tai,1,continuous,1,15,10
+HS0723,Rorya,Kyambogo,Masonga,Tai,1,continuous,3,30,45
+HS0724,Rorya,Kyambogo,Masonga,Tai,1,continuous,1,12,15
+HS0725,Rorya,Kyambogo,Masonga,Tai,1,continuous,1,15,60
+HS0726,Rorya,Kyambogo,Masonga,Tai,1,continuous,1,NA,NA
+HS0727,Rorya,Kyambogo,Masonga,Tai,1,continuous,2,15,40
+HS0728,Rorya,Kyambogo,Masonga,Tai,1,continuous,3,NA,NA
+HS0719,Rorya,Kyambogo,Masonga,Tai,1,continuous,1,1,2
+HS0331,Butiama,Ikongo la Kisyeri,Kwisaro,Nyamimange,3,continuous,4,NA,NA
+HS0332,Butiama,Ikongo la Kisyeri,Kwisaro,Nyamimange,3,continuous,4,20,120
+HS0333,Butiama,Ikongo la Kisyeri,Kwisaro,Nyamimange,3,continuous,4,30,60
+HS0334,Butiama,Ikongo la Kisyeri,Kwisaro,Nyamimange,3,continuous,3,20,60
+HS0335,Butiama,Ikongo la Kisyeri,Kwisaro,Nyamimange,3,continuous,3,30,60
+HS0336,Butiama,Ikongo la Kisyeri,Kwisaro,Nyamimange,3,continuous,9,30,60
+HS0337,Butiama,Ikongo la Kisyeri,Kwisaro,Nyamimange,3,continuous,4,30,30
+HS0338,Butiama,Ikongo la Kisyeri,Kwisaro,Nyamimange,3,continuous,6,30,120
+HS0339,Butiama,Ikongo la Kisyeri,Kwisaro,Nyamimange,3,continuous,3,15,60
+HS0340,Butiama,Ikongo la Kisyeri,Kwisaro,Nyamimange,3,continuous,1,NA,NA
+HS0341,Butiama,Kwisaro,Kwisaro,Nyamimange,3,continuous,4,30,60
+HS0342,Butiama,Kwisaro,Kwisaro,Nyamimange,3,continuous,2,NA,NA
+HS0343,Butiama,Kwisaro,Kwisaro,Nyamimange,3,continuous,6,20,40
+HS0344,Butiama,Kwisaro,Kwisaro,Nyamimange,3,continuous,4,NA,NA
+HS0345,Butiama,Kwisaro,Kwisaro,Nyamimange,3,continuous,1,NA,NA
+HS0346,Butiama,Kwisaro,Kwisaro,Nyamimange,3,continuous,2,15,30
+HS0347,Butiama,Kwisaro,Kwisaro,Nyamimange,3,continuous,4,NA,NA
+HS0348,Butiama,Kwisaro,Kwisaro,Nyamimange,3,continuous,3,NA,NA
+HS0349,Butiama,Kwisaro,Kwisaro,Nyamimange,3,continuous,2,10,40
+HS0350,Butiama,Kwisaro,Kwisaro,Nyamimange,3,continuous,2,NA,NA
+HS0351,Butiama,Kiagata Ndogo,Kwisaro,Nyamimange,3,continuous,3,15,30
+HS0352,Butiama,Kiagata Ndogo,Kwisaro,Nyamimange,3,continuous,1,NA,NA
+HS0353,Butiama,Kiagata Ndogo,Kwisaro,Nyamimange,3,continuous,1,15,30
+HS0354,Butiama,Kiagata Ndogo,Kwisaro,Nyamimange,3,continuous,2,NA,NA
+HS0355,Butiama,Kiagata Ndogo,Kwisaro,Nyamimange,3,continuous,1,NA,NA
+HS0356,Butiama,Kiagata Ndogo,Kwisaro,Nyamimange,3,continuous,1,NA,NA
+HS0357,Butiama,Kiagata Ndogo,Kwisaro,Nyamimange,3,continuous,4,NA,NA
+HS0358,Butiama,Kiagata Ndogo,Kwisaro,Nyamimange,3,continuous,1,NA,NA
+HS0359,Butiama,Kiagata Ndogo,Kwisaro,Nyamimange,3,continuous,2,NA,NA
+HS0360,Butiama,Kiagata Ndogo,Kwisaro,Nyamimange,3,continuous,1,NA,NA
+HS0631,Rorya,Shule,Kuruya,Komuge,0,pulse,1,20,30
+HS0630,Rorya,Shule,Kuruya,Komuge,0,pulse,1,NA,NA
+HS0629,Rorya,Shule,Kuruya,Komuge,0,pulse,1,NA,NA
+HS0628,Rorya,Shule,Kuruya,Komuge,0,pulse,1,15,120
+HS0718,Rorya,Kirengo,Shirati_Sota,Tai,1,continuous,2,60,75
+HS0717,Rorya,Kirengo,Shirati_Sota,Tai,1,continuous,1,NA,NA
+HS0716,Rorya,Kirengo,Shirati_Sota,Tai,1,continuous,2,60,120
+HS0715,Rorya,Kirengo,Shirati_Sota,Tai,1,continuous,2,35,60
+HS0714,Rorya,Kirengo,Shirati_Sota,Tai,1,continuous,3,NA,NA
+HS0713,Rorya,Kirengo,Shirati_Sota,Tai,1,continuous,1,NA,NA
+HS0712,Rorya,Kirengo,Shirati_Sota,Tai,1,continuous,2,NA,NA
+HS0711,Rorya,Kirengo,Shirati_Sota,Tai,1,continuous,1,NA,NA
+HS0710,Rorya,Kirengo,Shirati_Sota,Tai,1,continuous,2,NA,NA
+HS0840,Tarime,Bwengeri,Gwitare,Nyamwaga,0,pulse,2,NA,NA
+HS0709,Rorya,Kirengo,Shirati_Sota,Tai,1,continuous,2,60,240
+HS0841,Tarime,Bwengeri,Gwitare,Nyamwaga,0,pulse,1,NA,NA
+HS0708,Rorya,Gingo,Shirati_Sota,Tai,1,continuous,2,NA,NA
+HS0707,Rorya,Gingo,Shirati_Sota,Tai,1,continuous,4,10,30
+HS0842,Tarime,Bwengeri,Gwitare,Nyamwaga,0,pulse,1,NA,NA
+HS0706,Rorya,Gingo,Shirati_Sota,Tai,1,continuous,1,NA,NA
+HS0705,Rorya,Gingo,Shirati_Sota,Tai,1,continuous,2,NA,NA
+HS0843,Tarime,Bwengeri,Gwitare,Nyamwaga,0,pulse,3,NA,NA
+HS0704,Rorya,Gingo,Shirati_Sota,Tai,1,continuous,2,15,30
+HS0703,Rorya,Gingo,Shirati_Sota,Tai,1,continuous,2,NA,NA
+HS0844,Tarime,Bwengeri,Gwitare,Nyamwaga,0,pulse,1,NA,NA
+HS0702,Rorya,Gingo,Shirati_Sota,Tai,1,continuous,2,45,60
+HS0845,Tarime,Bwengeri,Gwitare,Nyamwaga,0,pulse,1,NA,NA
+HS0701,Rorya,Gingo,Shirati_Sota,Tai,1,continuous,3,45,60
+HS0846,Tarime,Bwengeri,Gwitare,Nyamwaga,0,pulse,2,NA,NA
+HS0700,Rorya,Gingo,Shirati_Sota,Tai,1,continuous,3,60,60
+HS0847,Tarime,Bwengeri,Gwitare,Nyamwaga,0,pulse,1,NA,NA
+HS0699,Rorya,Gingo,Shirati_Sota,Tai,1,continuous,3,NA,NA
+HS0848,Tarime,Bwengeri,Gwitare,Nyamwaga,0,pulse,2,5,60
+HS0849,Tarime,Nyamiobo,Gwitare,Nyamwaga,0,pulse,1,NA,NA
+HS0850,Tarime,Nyamiobo,Gwitare,Nyamwaga,0,pulse,2,NA,NA
+HS0688,Rorya,Sidika,Shirati_Sota,Tai,1,continuous,1,45,60
+HS0689,Rorya,Sidika,Shirati_Sota,Tai,1,continuous,1,45,60
+HS0851,Tarime,Nyamiobo,Gwitare,Nyamwaga,0,pulse,1,NA,NA
+HS0852,Tarime,Nyamiobo,Gwitare,Nyamwaga,0,pulse,1,NA,NA
+HS0690,Rorya,Sidika,Shirati_Sota,Tai,1,continuous,1,NA,NA
+HS0691,Rorya,Sidika,Shirati_Sota,Tai,1,continuous,1,NA,NA
+HS0853,Tarime,Nyamiobo,Gwitare,Nyamwaga,0,pulse,2,NA,NA
+HS0692,Rorya,Sidika,Shirati_Sota,Tai,1,continuous,2,NA,NA
+HS0854,Tarime,Nyamiobo,Gwitare,Nyamwaga,0,pulse,1,NA,NA
+HS0693,Rorya,Sidika,Shirati_Sota,Tai,1,continuous,2,NA,NA
+HS0855,Tarime,Nyamiobo,Gwitare,Nyamwaga,0,pulse,3,NA,NA
+HS0694,Rorya,Sidika,Shirati_Sota,Tai,1,continuous,1,60,80
+HS0856,Tarime,Nyamiobo,Gwitare,Nyamwaga,0,pulse,1,NA,NA
+HS0857,Tarime,Nyamiobo,Gwitare,Nyamwaga,0,pulse,1,NA,NA
+HS0695,Rorya,Sidika,Shirati_Sota,Tai,1,continuous,1,30,15
+HS0858,Tarime,Nyamiobo,Gwitare,Nyamwaga,0,pulse,1,NA,NA
+HS0696,Rorya,Sidika,Shirati_Sota,Tai,1,continuous,1,NA,NA
+HS0697,Rorya,Sidika,Shirati_Sota,Tai,1,continuous,2,60,30
+HS0859,Tarime,Gwitare Senta,Gwitare,Nyamwaga,0,pulse,1,NA,NA
+HS0860,Tarime,Gwitare Senta,Gwitare,Nyamwaga,0,pulse,4,NA,NA
+HS0861,Tarime,Gwitare Senta,Gwitare,Nyamwaga,0,pulse,1,NA,NA
+HS0862,Tarime,Gwitare Senta,Gwitare,Nyamwaga,0,pulse,1,NA,NA
+HS0863,Tarime,Gwitare Senta,Gwitare,Nyamwaga,0,pulse,1,NA,NA
+HS0864,Tarime,Gwitare Senta,Gwitare,Nyamwaga,0,pulse,1,10,30
+HS0865,Tarime,Gwitare Senta,Gwitare,Nyamwaga,0,pulse,2,NA,NA
+HS0866,Tarime,Gwitare Senta,Gwitare,Nyamwaga,0,pulse,2,NA,NA
+HS0867,Tarime,Gwitare Senta,Gwitare,Nyamwaga,0,pulse,1,30,5
+HS0868,Tarime,Gwitare Senta,Gwitare,Nyamwaga,0,pulse,2,NA,NA
+HS0869,Tarime,Melale,Kimusi,Nyamwaga,0,pulse,1,NA,NA
+HS0870,Tarime,Melale,Kimusi,Nyamwaga,0,pulse,3,NA,NA
+SH0871,Tarime,Melale,Kimusi,Nyamwaga,0,pulse,2,30,180
+SH0872,Tarime,Melale,Kimusi,Nyamwaga,0,pulse,1,NA,NA
+HS0873,Tarime,Melale,Kimusi,Nyamwaga,0,pulse,4,NA,NA
+SH0874,Tarime,Melale,Kimusi,Nyamwaga,0,pulse,1,NA,NA
+HS0875,Tarime,Melale,Kimusi,Nyamwaga,0,pulse,1,NA,NA
+SH0876,Tarime,Melale,Kimusi,Nyamwaga,0,pulse,3,NA,NA
+HS0621,Rorya,Isamo,Komuge,Komuge,0,pulse,1,20,240
+HS0620,Rorya,Isamo,Komuge,Komuge,0,pulse,3,NA,NA
+SH0777,Tarime,Melale,Kimusi,Nyamwaga,0,pulse,2,NA,NA
+HS0619,Rorya,Isamo,Komuge,Komuge,0,pulse,2,20,20
+SH0778,Tarime,Melale,Kimusi,Nyamwaga,0,pulse,1,NA,NA
+HS0618,Rorya,Isamo,Komuge,Komuge,0,pulse,1,NA,NA
+HS0617,Rorya,Ngereri,Komuge,Komuge,0,pulse,1,30,60
+HS0616,Rorya,Ngereri,Komuge,Komuge,0,pulse,1,NA,NA
+HS0615,Rorya,Ngereri,Komuge,Komuge,0,pulse,1,NA,NA
+HS0879,Tarime,Nyamahiriri,Kimusi,Nyamwaga,0,pulse,1,20,120
+HS0880,Tarime,Nyamahiriri,Kimusi,Nyamwaga,0,pulse,3,NA,NA
+HS0614,Rorya,Ngereri,Komuge,Komuge,0,pulse,1,15,120
+HS0613,Rorya,Ngereri,Komuge,Komuge,0,pulse,2,20,240
+HS0881,Tarime,Nyamahiriri,Kimusi,Nyamwaga,0,pulse,1,NA,NA
+HS0611,Rorya,Ngereri,Komuge,Komuge,0,pulse,2,NA,NA
+HS0882,Tarime,Nyamahiriri,Kimusi,Nyamwaga,0,pulse,1,NA,NA
+HS0610,Rorya,Ngereri,Komuge,Komuge,0,pulse,3,NA,NA
+HS0883,Tarime,Nyamahiriri,Kimusi,Nyamwaga,0,pulse,1,NA,NA
+HS0609,Rorya,Ngereri,Komuge,Komuge,0,pulse,1,15,240
+HS0608,Rorya,Ngereri,Komuge,Komuge,0,pulse,2,15,240
+HS0884,Tarime,Nyamahiriri,Kimusi,Nyamwaga,0,pulse,2,NA,NA
+HS0607,Rorya,Ngereri,Komuge,Komuge,0,pulse,2,15,5
+HS0885,Tarime,Nyamahiriri,Kimusi,Nyamwaga,0,pulse,2,NA,NA
+HS0886,Tarime,Nyamahiriri,Kimusi,Nyamwaga,0,pulse,1,NA,NA
+HS0887,Tarime,Nyamahiriri,Kimusi,Nyamwaga,0,pulse,1,NA,NA
+HS0888,Tarime,Nyamahiriri,Kimusi,Nyamwaga,0,pulse,1,NA,NA
+HS0889,Tarime,Senta,Kimusi,Nyamwaga,0,pulse,2,NA,NA
+HS0604,Rorya,Mwisense,Komuge,Komuge,0,pulse,1,NA,NA
+HS0890,Tarime,Senta,Kimusi,Nyamwaga,0,pulse,2,NA,NA
+HS0603,Rorya,Mwisense,Komuge,Komuge,0,pulse,1,NA,NA
+HS0891,Tarime,Senta,Kimusi,Nyamwaga,0,pulse,2,NA,NA
+HS0892,Tarime,Senta,Kimusi,Nyamwaga,0,pulse,1,NA,NA
+HS0602,Rorya,Mwisense,Komuge,Komuge,0,pulse,1,NA,NA
+HS0601,Rorya,Mwisense,Komuge,Komuge,0,pulse,2,NA,NA
+HS0893,Tarime,Senta,Kimusi,Nyamwaga,0,pulse,1,NA,NA
+HS0600,Rorya,Mwisense,Komuge,Komuge,0,pulse,2,15,20
+HS0894,Tarime,Senta,Kimusi,Nyamwaga,0,pulse,1,NA,NA
+HS0599,Rorya,Mwisense,Komuge,Komuge,0,pulse,2,NA,NA
+HS0895,Tarime,Senta,Kimusi,Nyamwaga,0,pulse,1,NA,NA
+HS0896,Tarime,Senta,Kimusi,Nyamwaga,0,pulse,2,NA,NA
+HS0598,Rorya,Mwisense,Komuge,Komuge,0,pulse,1,10,45
+HS0897,Tarime,Senta,Kimusi,Nyamwaga,0,pulse,1,NA,NA
+HS0597,Rorya,Mwisense,Komuge,Komuge,0,pulse,1,10,240
+HS0898,Tarime,Senta,Kimusi,Nyamwaga,0,pulse,1,NA,NA
+HS0901,Rorya,Malangwe B,Michire,Mkoma,2,continuous,1,NA,NA
+HS0900,Rorya,Malangwe B,Michire,Mkoma,2,continuous,1,NA,NA
+HS0902,Rorya,Malangwe B,Michire,Mkoma,2,continuous,1,NA,NA
+HS0596,Rorya,Ititwe,Irienyi,Komuge,0,pulse,3,5,30
+HS0903,Rorya,Malangwe B,Michire,Mkoma,2,continuous,2,NA,NA
+HS0595,Rorya,Ititwe,Irienyi,Komuge,0,pulse,1,NA,NA
+HS0594,Rorya,Ititwe,Irienyi,Komuge,0,pulse,1,10,30
+HS0904,Rorya,Malangwe B,Michire,Mkoma,2,continuous,2,NA,NA
+HS0899,Rorya,Malangwe B,Michire,Mkoma,2,continuous,1,NA,NA
+HS0905,Rorya,Malangwe B,Michire,Mkoma,2,continuous,1,NA,NA
+HS0593,Rorya,Ititwe,Irienyi,Komuge,0,pulse,4,10,60
+HS0906,Rorya,Malangwe B,Michire,Mkoma,2,continuous,2,5,10
+HS0592,Rorya,Ititwe,Irienyi,Komuge,0,pulse,7,15,10
+HS0907,Rorya,Malangwe B,Michire,Mkoma,2,continuous,2,NA,NA
+HS0591,Rorya,Ititwe,Irienyi,Komuge,0,pulse,1,15,30
+HS0590,Rorya,Ititwe,Irienyi,Komuge,0,pulse,1,NA,NA
+HS0908,Rorya,Malangwe B,Michire,Mkoma,2,continuous,3,NA,NA
+HS0589,Rorya,Ititwe,Irienyi,Komuge,0,pulse,3,20,5
+HS0909,Rorya,Matangwe A,Michire,Mkoma,2,continuous,1,2,5
+HS0588,Rorya,Ititwe,Irienyi,Komuge,0,pulse,2,15,5
+HS0910,Rorya,Matangwe A,Michire,Mkoma,2,continuous,3,NA,NA
+HS0587,Rorya,Ititwe,Irienyi,Komuge,0,pulse,2,NA,NA
+HS0911,Rorya,Matangwe A,Michire,Mkoma,2,continuous,2,3,2
+HS0586,Rorya,Ititwe,Irienyi,Komuge,0,pulse,3,15,60
+HS0912,Rorya,Matangwe A,Michire,Mkoma,2,continuous,2,1,4
+HS0585,Rorya,Ititwe,Irienyi,Komuge,0,pulse,2,NA,NA
+HS0913,Rorya,Matangwe A,Michire,Mkoma,2,continuous,1,5,30
+HS0584,Rorya,Ititwe,Irienyi,Komuge,0,pulse,2,NA,NA
+HS0914,Rorya,Matangwe A,Michire,Mkoma,2,continuous,1,30,60
+HS0583,Rorya,Ititwe,Irienyi,Komuge,0,pulse,2,NA,NA
+HS0916,Rorya,Matangwe A,Michire,Mkoma,2,continuous,1,6,3
+HS0582,Rorya,Ititwe,Irienyi,Komuge,0,pulse,2,30,240
+HS0915,Rorya,Matangwe A,Michire,Mkoma,2,continuous,3,6,3
+HS0581,Rorya,Ititwe,Irienyi,Komuge,0,pulse,2,NA,NA
+HS0917,Rorya,Matangwe A,Michire,Mkoma,2,continuous,2,8,3
+HS0580,Rorya,Ititwe,Irienyi,Komuge,0,pulse,1,30,60
+HS0918,Rorya,Matangwe A,Michire,Mkoma,2,continuous,2,NA,NA
+HS0579,Rorya,Ititwe,Irienyi,Komuge,0,pulse,1,NA,NA
+HS0919,Rorya,Kasanguna,Michire,Mkoma,2,continuous,1,15,15
+HS0578,Rorya,Ititwe,Irienyi,Komuge,0,pulse,1,NA,NA
+HS0577,Rorya,Ititwe,Irienyi,Komuge,0,pulse,1,NA,NA
+HS0576,Rorya,Malegeri,Irienyi,Komuge,0,pulse,3,NA,NA
+HS0920,Rorya,Kasanguna,Michire,Mkoma,2,continuous,1,NA,NA
+HS0921,Rorya,Kasanguna,Michire,Mkoma,2,continuous,1,NA,NA
+HS0922,Rorya,Kasanguna,Michire,Mkoma,2,continuous,2,NA,NA
+HS0923,Rorya,Kasanguna,Michire,Mkoma,2,continuous,3,NA,NA
+HS0924,Rorya,Kasanguna,Michire,Mkoma,2,continuous,1,NA,NA
+HS0575,Rorya,Malegeri,Irienyi,Komuge,0,pulse,1,30,60
+HS0574,Rorya,Malegeri,Irienyi,Komuge,0,pulse,3,30,240
+HS0925,Rorya,Kasanguna,Michire,Mkoma,2,continuous,1,NA,NA
+HS0573,Rorya,Malegeri,Irienyi,Komuge,0,pulse,1,30,180
+HS0572,Rorya,Malegeri,Irienyi,Komuge,0,pulse,3,NA,NA
+HS0926,Rorya,Kasanguna,Michire,Mkoma,2,continuous,2,NA,NA
+HS0927,Rorya,Kasanguna,Michire,Mkoma,2,continuous,9,NA,NA
+HS0571,Rorya,Malegeri,Irienyi,Komuge,0,pulse,5,NA,NA
+HS0928,Rorya,Kasanguna,Michire,Mkoma,2,continuous,11,NA,NA
+HS0570,Rorya,Malegeri,Irienyi,Komuge,0,pulse,1,NA,NA
+HS0569,Rorya,Malegeri,Irienyi,Komuge,0,pulse,2,NA,NA
+HS0568,Rorya,Malegeri,Irienyi,Komuge,0,pulse,4,NA,NA
+HS0567,Rorya,Malegeri,Irienyi,Komuge,0,pulse,3,NA,NA
+HS0930,Rorya,Lamboni,Oboke,Mkoma,2,continuous,2,5,10
+HS0931,Rorya,Lamboni,Oboke,Mkoma,2,continuous,4,NA,NA
+HS0932,Rorya,Lamboni,Oboke,Mkoma,2,continuous,1,3,5
+HS0933,Rorya,Lamboni,Oboke,Mkoma,2,continuous,1,NA,NA
+HS0934,Rorya,Lamboni,Oboke,Mkoma,2,continuous,7,NA,NA
+HS0929,Rorya,Lamboni,Oboke,Mkoma,2,continuous,4,NA,NA
+HS0935,Rorya,Lamboni,Oboke,Mkoma,2,continuous,1,1,5
+HS0936,Rorya,Lamboni,Oboke,Mkoma,2,continuous,1,NA,NA
+HS0937,Rorya,Lamboni,Oboke,Mkoma,2,continuous,3,8,30
+HS0938,Rorya,Lamboni,Oboke,Mkoma,2,continuous,12,3,10
+HS0939,Rorya,Oboke Juu,Oboke,Mkoma,2,continuous,2,1,30
+HS0940,Rorya,Oboke Juu,Oboke,Mkoma,2,continuous,3,2,2
+HS0941,Rorya,Oboke Juu,Oboke,Mkoma,2,continuous,1,5,2
+HS0942,Rorya,Oboke Juu,Oboke,Mkoma,2,continuous,1,2,5
+HS0943,Rorya,Oboke Juu,Oboke,Mkoma,2,continuous,1,NA,NA
+HS0944,Rorya,Oboke Juu,Oboke,Mkoma,2,continuous,4,NA,NA
+HS0945,Rorya,Oboke Juu,Oboke,Mkoma,2,continuous,13,15,5
+HS0946,Rorya,Oboke Juu,Oboke,Mkoma,2,continuous,1,NA,NA
+HS0947,Rorya,Oboke Juu,Oboke,Mkoma,2,continuous,2,NA,NA
+HS0948,Rorya,Oboke Juu,Oboke,Mkoma,2,continuous,1,NA,NA
+HS0949,Rorya,Obama Street,Oboke,Mkoma,2,continuous,2,5,30
+HS0950,Rorya,Obama Street,Oboke,Mkoma,2,continuous,2,NA,NA
+HS0951,Rorya,Obama Street,Oboke,Mkoma,2,continuous,2,15,30
+HS0952,Rorya,Obama Street,Oboke,Mkoma,2,continuous,1,5,15
+HS0953,Rorya,Obama Street,Oboke,Mkoma,2,continuous,3,5,30
+HS0954,Rorya,Obama Street,Oboke,Mkoma,2,continuous,1,NA,NA
+HS0954,Rorya,Obama Street,Oboke,Mkoma,2,continuous,1,NA,NA
+HS0956,Rorya,Obama Street,Oboke,Mkoma,2,continuous,1,NA,NA
+HS0957,Rorya,Obama Street,Oboke,Mkoma,2,continuous,1,NA,NA
+HS0958,Rorya,Obama Street,Oboke,Mkoma,2,continuous,1,NA,NA
+HS0960,Rorya,Kandege,Obwere,Mkoma,2,continuous,2,NA,NA
+HS0961,Rorya,Kandege,Obwere,Mkoma,2,continuous,3,NA,NA
+HS0962,Rorya,Kandege,Obwere,Mkoma,2,continuous,8,30,5
+HS0963,Rorya,Kandege,Obwere,Mkoma,2,continuous,1,NA,NA
+HS0964,Rorya,Kandege,Obwere,Mkoma,2,continuous,3,NA,NA
+HS0361,Butiama,Nyandewa,Nyambili,Sirorisimba,2,continuous,12,40,30
+HS0362,Butiama,Nyandewa,Nyambili,Sirorisimba,2,continuous,1,NA,NA
+HS0965,Rorya,Kandege,Obwere,Mkoma,2,continuous,2,NA,NA
+HS0363,Butiama,Nyandewa,Nyambili,Sirorisimba,2,continuous,2,45,30
+HS0364,Butiama,Nyandewa,Nyambili,Sirorisimba,2,continuous,5,20,30
+HS0966,Rorya,Kandege,Obwere,Mkoma,2,continuous,8,2,30
+HS0365,Butiama,Nyandewa,Nyambili,Sirorisimba,2,continuous,4,NA,NA
+HS0967,Rorya,Kandege,Obwere,Mkoma,2,continuous,5,NA,NA
+HS0366,Butiama,Nyandewa,Nyambili,Sirorisimba,2,continuous,6,NA,NA
+HS0968,Rorya,Kandege,Obwere,Mkoma,2,continuous,4,NA,NA
+HS0367,Butiama,Nyandewa,Nyambili,Sirorisimba,2,continuous,2,NA,NA
+HS0368,Butiama,Nyandewa,Nyambili,Sirorisimba,2,continuous,1,25,45
+HS0369,Butiama,Nyandewa,Nyambili,Sirorisimba,2,continuous,1,NA,NA
+HS0370,Butiama,Nyandewa,Nyambili,Sirorisimba,2,continuous,3,45,60
+HS0969,Rorya,Sokoni,Obwere,Mkoma,2,continuous,3,NA,NA
+HS0371,Butiama,Majengo,Nyambili,Sirorisimba,2,continuous,3,NA,NA
+HS0372,Butiama,Majengo,Nyambili,Sirorisimba,2,continuous,1,NA,NA
+HS0970,Rorya,Sokoni,Obwere,Mkoma,2,continuous,1,NA,NA
+HS0373,Butiama,Majengo,Nyambili,Sirorisimba,2,continuous,3,NA,NA
+HS0374,Butiama,Majengo,Nyambili,Sirorisimba,2,continuous,6,30,15
+HS0971,Rorya,Sokoni,Obwere,Mkoma,2,continuous,1,5,30
+HS0375,Butiama,Majengo,Nyambili,Sirorisimba,2,continuous,3,NA,NA
+HS0972,Rorya,Sokoni,Obwere,Mkoma,2,continuous,2,20,30
+HS0376,Butiama,Majengo,Nyambili,Sirorisimba,2,continuous,3,10,20
+HS0973,Rorya,Sokoni,Obwere,Mkoma,2,continuous,1,NA,NA
+HS0377,Butiama,Majengo,Nyambili,Sirorisimba,2,continuous,3,NA,NA
+HS0974,Rorya,Sokoni,Obwere,Mkoma,2,continuous,1,NA,NA
+HS0975,Rorya,Sokoni,Obwere,Mkoma,2,continuous,1,40,5
+HS0976,Rorya,Sokoni,Obwere,Mkoma,2,continuous,1,NA,NA
+HS0378,Butiama,Majengo,Nyambili,Sirorisimba,2,continuous,8,NA,NA
+HS0977,Rorya,Sokoni,Obwere,Mkoma,2,continuous,3,20,10
+HS0379,Butiama,Majengo,Nyambili,Sirorisimba,2,continuous,5,15,45
+HS0380,Butiama,Majengo,Nyambili,Sirorisimba,2,continuous,2,NA,NA
+HS0381,Butiama,Komachare,Nyambili,Sirorisimba,2,continuous,3,NA,NA
+HS0978,Rorya,Sokoni,Obwere,Mkoma,2,continuous,4,NA,NA
+HS0382,Butiama,Komachare,Nyambili,Sirorisimba,2,continuous,13,NA,NA
+HS0979,Rorya,Bondeni,Obwere,Mkoma,2,continuous,NA,NA,NA
+HS0383,Butiama,Komachare,Nyambili,Sirorisimba,2,continuous,2,25,30
+HS0384,Butiama,Komachare,Nyambili,Sirorisimba,2,continuous,2,5,30
+HS0980,Rorya,Bondeni,Obwere,Mkoma,2,continuous,2,NA,NA
+HS0982,Rorya,Bondeni,Obwere,Mkoma,2,continuous,2,NA,NA
+HS0385,Butiama,Komachare,Nyambili,Sirorisimba,2,continuous,3,2,5
+HS0386,Butiama,Komachare,Nyambili,Sirorisimba,2,continuous,4,15,30
+HS0981,Rorya,Bondeni,Obwere,Mkoma,2,continuous,3,NA,NA
+HS0983,Rorya,Bondeni,Obwere,Mkoma,2,continuous,1,NA,NA
+HS0387,Butiama,Komachare,Nyambili,Sirorisimba,2,continuous,5,NA,NA
+HS0984,Rorya,Bondeni,Obwere,Mkoma,2,continuous,1,NA,NA
+HS0388,Butiama,Komachare,Nyambili,Sirorisimba,2,continuous,3,30,60
+HS0389,Butiama,Komachare,Nyambili,Sirorisimba,2,continuous,2,15,15
+HS0985,Rorya,Bondeni,Obwere,Mkoma,2,continuous,7,10,60
+HS0390,Butiama,Komachare,Nyambili,Sirorisimba,2,continuous,3,15,45
+HS0986,Rorya,Bondeni,Obwere,Mkoma,2,continuous,1,NA,NA
+HS0987,Rorya,Bondeni,Obwere,Mkoma,2,continuous,3,20,30
+HS0988,Rorya,Bondeni,Obwere,Mkoma,2,continuous,7,NA,NA
+HS0989,Rorya,Lamboni,Ngasaro,Mkoma,2,continuous,3,5,15
+HS0990,Rorya,Lamboni,Ngasaro,Mkoma,2,continuous,2,5,20
+HS0991,Rorya,Lamboni,Ngasaro,Mkoma,2,continuous,1,30,15
+HS0391,Butiama,Komaraha,Rwasereta,Sirorisimba,2,continuous,1,5,20
+HS0992,Rorya,Lamboni,Ngasaro,Mkoma,2,continuous,1,30,30
+HS0392,Butiama,Komaraha,Rwasereta,Sirorisimba,2,continuous,1,NA,NA
+HS0993,Rorya,Lamboni,Ngasaro,Mkoma,2,continuous,4,NA,NA
+HS0994,Rorya,Lamboni,Ngasaro,Mkoma,2,continuous,1,15,30
+HS0393,Butiama,Komaraha,Rwasereta,Sirorisimba,2,continuous,3,10,10
+HS0995,Rorya,Lamboni,Ngasaro,Mkoma,2,continuous,1,NA,NA
+HS0394,Butiama,Komaraha,Rwasereta,Sirorisimba,2,continuous,1,20,15
+HS0996,Rorya,Lamboni,Ngasaro,Mkoma,2,continuous,1,NA,NA
+HS0395,Butiama,Komaraha,Rwasereta,Sirorisimba,2,continuous,4,NA,NA
+HS0997,Rorya,Lamboni,Ngasaro,Mkoma,2,continuous,1,7,10
+HS0396,Butiama,Komaraha,Rwasereta,Sirorisimba,2,continuous,2,15,15
+HS0998,Rorya,Lamboni,Ngasaro,Mkoma,2,continuous,1,NA,NA
+HS0397,Butiama,Komaraha,Rwasereta,Sirorisimba,2,continuous,1,NA,NA
+HS0398,Butiama,Komaraha,Rwasereta,Sirorisimba,2,continuous,1,NA,NA
+HS0399,Butiama,Komaraha,Rwasereta,Sirorisimba,2,continuous,3,30,15
+HS0999,Rorya,Mariba,Ngasaro,Mkoma,2,continuous,1,NA,NA
+HS0400,Butiama,Komaraha,Rwasereta,Sirorisimba,2,continuous,2,NA,NA
+HS1000,Rorya,Mariba,Ngasaro,Mkoma,2,continuous,1,NA,NA
+HS0401,Butiama,Rwasereta,Rwasereta,Sirorisimba,2,continuous,1,NA,NA
+SH1001,Rorya,Mariba,Ngasaro,Mkoma,2,continuous,2,15,20
+HS0402,Butiama,Rwasereta,Rwasereta,Sirorisimba,2,continuous,5,5,15
+SH1002,Rorya,Mariba,Ngasaro,Mkoma,2,continuous,1,60,120
+SH1004,Rorya,Mariba,Ngasaro,Mkoma,2,continuous,1,10,5
+HS0403,Butiama,Rwasereta,Rwasereta,Sirorisimba,2,continuous,1,5,20
+SH1005,Rorya,Mariba,Ngasaro,Mkoma,2,continuous,2,2,30
+SH1006,Rorya,Mariba,Ngasaro,Mkoma,2,continuous,1,20,30
+HS0404,Butiama,Rwasereta,Rwasereta,Sirorisimba,2,continuous,2,NA,NA
+SH1007,Rorya,Mariba,Ngasaro,Mkoma,2,continuous,3,2,10
+HS0405,Butiama,Rwasereta,Rwasereta,Sirorisimba,2,continuous,2,NA,NA
+HS0406,Butiama,Rwasereta,Rwasereta,Sirorisimba,2,continuous,2,NA,NA
+HS0407,Butiama,Rwasereta,Rwasereta,Sirorisimba,2,continuous,4,NA,NA
+HS0408,Butiama,Rwasereta,Rwasereta,Sirorisimba,2,continuous,2,20,30
+HS0409,Butiama,Rwasereta,Rwasereta,Sirorisimba,2,continuous,1,30,10
+HS0410,Butiama,Rwasereta,Rwasereta,Sirorisimba,2,continuous,1,NA,NA
+SH1008,Rorya,Mariba,Ngasaro,Mkoma,2,continuous,6,NA,NA
+HS0411,Butiama,Kitaramanka,Rwasereta,Sirorisimba,2,continuous,1,5,20
+SH1009,Rorya,Mariba,Ngasaro,Mkoma,2,continuous,1,NA,NA
+SH1010,Rorya,Parokia,Ngasaro,Mkoma,2,continuous,6,NA,NA
+HS0412,Butiama,Kitaramanka,Rwasereta,Sirorisimba,2,continuous,4,10,30
+HS0413,Butiama,Kitaramanka,Rwasereta,Sirorisimba,2,continuous,2,NA,NA
+SH1011,Rorya,Parokia,Ngasaro,Mkoma,2,continuous,2,NA,NA
+HS0414,Butiama,Kitaramanka,Rwasereta,Sirorisimba,2,continuous,2,15,30
+SH1012,Rorya,Parokia,Ngasaro,Mkoma,2,continuous,1,40,2
+HS0415,Butiama,Kitaramanka,Rwasereta,Sirorisimba,2,continuous,1,NA,NA
+SH1013,Rorya,Parokia,Ngasaro,Mkoma,2,continuous,2,NA,NA
+HS0416,Butiama,Kitaramanka,Rwasereta,Sirorisimba,2,continuous,1,25,15
+SH1014,Rorya,Parokia,Ngasaro,Mkoma,2,continuous,6,NA,NA
+HS0417,Butiama,Kitaramanka,Rwasereta,Sirorisimba,2,continuous,6,NA,NA
+SH1015,Rorya,Parokia,Ngasaro,Mkoma,2,continuous,2,NA,NA
+HS0418,Butiama,Kitaramanka,Rwasereta,Sirorisimba,2,continuous,1,NA,NA
+SH1016,Rorya,Parokia,Ngasaro,Mkoma,2,continuous,2,NA,NA
+HS0419,Butiama,Kitaramanka,Rwasereta,Sirorisimba,2,continuous,1,15,20
+SH1017,Rorya,Parokia,Ngasaro,Mkoma,2,continuous,1,NA,NA
+HS0420,Butiama,Kitaramanka,Rwasereta,Sirorisimba,2,continuous,1,NA,NA
+SH1018,Rorya,Parokia,Ngasaro,Mkoma,2,continuous,7,NA,NA
+SH1018,Rorya,Parokia,Ngasaro,Mkoma,2,continuous,2,NA,NA
+SH1019,Rorya,Nyakato,Kabwana,Mkoma,2,continuous,4,NA,NA
+SH1020,Rorya,Nyakato,Kabwana,Mkoma,2,continuous,2,15,5
+SH1021,Rorya,Nyakato,Kabwana,Mkoma,2,continuous,1,10,5
+SH1022,Rorya,Nyakato,Kabwana,Mkoma,2,continuous,3,5,30
+SH1023,Rorya,Nyakato,Kabwana,Mkoma,2,continuous,1,5,5
+SH1024,Rorya,Nyakato,Kabwana,Mkoma,2,continuous,8,NA,NA
+SH1025,Rorya,Nyakato,Kabwana,Mkoma,2,continuous,1,NA,NA
+SH1026,Rorya,Nyakato,Kabwana,Mkoma,2,continuous,1,NA,NA
+SH1027,Rorya,Nyakato,Kabwana,Mkoma,2,continuous,1,NA,NA
+SH1028,Rorya,Nyakato,Kabwana,Mkoma,2,continuous,1,2,15
+SH1029,Rorya,Kabwana,Kabwana,Mkoma,2,continuous,2,NA,NA
+SH1029,Rorya,Kabwana,Kabwana,Mkoma,2,continuous,1,NA,NA
+SH1030,Rorya,Kabwana,Kabwana,Mkoma,2,continuous,2,20,30
+SH1031,Rorya,Kabwana,Kabwana,Mkoma,2,continuous,1,10,5
+SH1032,Rorya,Kabwana,Kabwana,Mkoma,2,continuous,1,NA,NA
+SH1033,Rorya,Kabwana,Kabwana,Mkoma,2,continuous,1,10,60
+SH1034,Rorya,Kabwana,Kabwana,Mkoma,2,continuous,2,NA,NA
+SH1035,Rorya,Kabwana,Kabwana,Mkoma,2,continuous,2,5,30
+SH1036,Rorya,Kabwana,Kabwana,Mkoma,2,continuous,1,NA,NA
+SH1037,Rorya,Kabwana,Kabwana,Mkoma,2,continuous,1,NA,NA
+SH1038,Rorya,Nyakina,Kabwana,Mkoma,2,continuous,1,NA,NA
+SH1039,Rorya,Nyakina,Kabwana,Mkoma,2,continuous,3,10,180
+HS1040,Rorya,Nyakina,Kabwana,Mkoma,2,continuous,1,10,10
+SH1041,Rorya,Nyakina,Kabwana,Mkoma,2,continuous,1,NA,NA
+HS1042,Rorya,Nyakina,Kabwana,Mkoma,2,continuous,2,20,5
+HS1043,Rorya,Nyakina,Kabwana,Mkoma,2,continuous,1,NA,NA
+HS1044,Rorya,Nyakina,Kabwana,Mkoma,2,continuous,1,NA,NA
+HS1045,Rorya,Nyakina,Kabwana,Mkoma,2,continuous,3,15,15
+HS1041,Rorya,Nyakina,Kabwana,Mkoma,2,continuous,2,NA,NA
+HS104,Rorya,Nyakina,Kabwana,Mkoma,2,continuous,4,30,25
+HS1751,Rorya,Nyabero,Bubombi,Bukura,3,continuous,1,NA,NA
+HS1752,Rorya,Nyabero,Bubombi,Bukura,3,continuous,2,NA,NA
+HS1753,Rorya,Nyabero,Bubombi,Bukura,3,continuous,3,NA,NA
+HS1754,Rorya,Nyabero,Bubombi,Bukura,3,continuous,2,5,5
+HS1755,Rorya,Nyabero,Bubombi,Bukura,3,continuous,2,NA,NA
+HS1756,Rorya,Nyabero,Bubombi,Bukura,3,continuous,4,10,30
+HS1757,Rorya,Nyabero,Bubombi,Bukura,3,continuous,2,NA,NA
+HS1758,Rorya,Nyabero,Bubombi,Bukura,3,continuous,3,NA,NA
+HS1759,Rorya,Nyabero,Bubombi,Bukura,3,continuous,3,NA,NA
+HS1760,Rorya,Nyabero,Bubombi,Bukura,3,continuous,1,NA,NA
+HS1761,Rorya,Kakoto,Bubombi,Bukura,3,continuous,3,10,20
+HS1762,Rorya,Kakoto,Bubombi,Bukura,3,continuous,4,2,15
+HS1763,Rorya,Kakoto,Bubombi,Bukura,3,continuous,1,3,120
+HS1764,Rorya,Kakoto,Bubombi,Bukura,3,continuous,2,NA,NA
+HS1765,Rorya,Kakoto,Bubombi,Bukura,3,continuous,2,20,30
+HS1766,Rorya,Kakoto,Bubombi,Bukura,3,continuous,1,20,10
+HS1767,Rorya,Kakoto,Bubombi,Bukura,3,continuous,2,NA,NA
+HS1768,Rorya,Kakoto,Bubombi,Bukura,3,continuous,2,NA,NA
+HS1769,Rorya,Kakoto,Bubombi,Bukura,3,continuous,1,NA,NA
+HS1770,Rorya,Kakoto,Bubombi,Bukura,3,continuous,2,NA,NA
+HS1771,Rorya,Anyuongi,Bubombi,Bukura,3,continuous,2,20,60
+HS1772,Rorya,Anyuongi,Bubombi,Bukura,3,continuous,2,NA,NA
+HS1773,Rorya,Anyuongi,Bubombi,Bukura,3,continuous,1,NA,NA
+HS1774,Rorya,Anyuongi,Bubombi,Bukura,3,continuous,2,NA,NA
+HS1775,Rorya,Anyuongi,Bubombi,Bukura,3,continuous,2,NA,NA
+HS1776,Rorya,Anyuongi,Bubombi,Bukura,3,continuous,1,7,30
+HS1777,Rorya,Anyuongi,Bubombi,Bukura,3,continuous,1,NA,NA
+HS1778,Rorya,Anyuongi,Bubombi,Bukura,3,continuous,1,NA,NA
+HS1779,Rorya,Anyuongi,Bubombi,Bukura,3,continuous,1,NA,NA
+HS1780,Rorya,Anyuongi,Bubombi,Bukura,3,continuous,1,NA,NA
+HS0421,Butiama,Nyakagena,Bisarye,Masaba,0,pulse,1,NA,NA
+HS0422,Butiama,Nyakagena,Bisarye,Masaba,0,pulse,2,20,60
+HS0423,Butiama,Nyakagena,Bisarye,Masaba,0,pulse,1,NA,NA
+HS0424,Butiama,Nyakagena,Bisarye,Masaba,0,pulse,3,NA,NA
+HS0425,Butiama,Nyakagena,Bisarye,Masaba,0,pulse,2,NA,NA
+HS0426,Butiama,Nyakagena,Bisarye,Masaba,0,pulse,1,NA,NA
+HS0427,Butiama,Nyakagena,Bisarye,Masaba,0,pulse,1,NA,NA
+HS0428,Butiama,Nyakagena,Bisarye,Masaba,0,pulse,1,NA,NA
+HS0429,Butiama,Nyakagena,Bisarye,Masaba,0,pulse,1,NA,NA
+HS0430,Butiama,Nyakagena,Bisarye,Masaba,0,pulse,1,15,120
+HS0431,Butiama,Nyabitaramanka,Bisarye,Masaba,0,pulse,3,NA,NA
+HS0432,Butiama,Nyabitaramanka,Bisarye,Masaba,0,pulse,1,NA,NA
+HS0433,Butiama,Nyabitaramanka,Bisarye,Masaba,0,pulse,2,NA,NA
+HS0434,Butiama,Nyabitaramanka,Bisarye,Masaba,0,pulse,1,NA,NA
+HS0435,Butiama,Nyabitaramanka,Bisarye,Masaba,0,pulse,2,NA,NA
+HS0436,Butiama,Nyabitaramanka,Bisarye,Masaba,0,pulse,2,NA,NA
+HS0437,Butiama,Nyabitaramanka,Bisarye,Masaba,0,pulse,2,NA,NA
+HS0438,Butiama,Nyabitaramanka,Bisarye,Masaba,0,pulse,3,NA,NA
+HS0439,Butiama,Nyabitaramanka,Bisarye,Masaba,0,pulse,2,NA,NA
+HS0440,Butiama,Nyabitaramanka,Bisarye,Masaba,0,pulse,2,NA,NA
+HS0441,Butiama,Nyarwamono,Bisarye,Masaba,0,pulse,2,NA,NA
+HS0442,Butiama,Nyarwamono,Bisarye,Masaba,0,pulse,2,10,90
+HS0443,Butiama,Nyarwamono,Bisarye,Masaba,0,pulse,1,NA,NA
+HS0444,Butiama,Nyarwamono,Bisarye,Masaba,0,pulse,3,15,120
+HS0445,Butiama,Nyarwamono,Bisarye,Masaba,0,pulse,1,NA,NA
+HS0446,Butiama,Nyarwamono,Bisarye,Masaba,0,pulse,1,NA,NA
+HS0447,Butiama,Nyarwamono,Bisarye,Masaba,0,pulse,7,20,60
+HS0448,Butiama,Nyarwamono,Bisarye,Masaba,0,pulse,1,20,30
+HS0449,Butiama,Nyarwamono,Bisarye,Masaba,0,pulse,1,NA,NA
+HS0450,Butiama,Nyarwamono,Bisarye,Masaba,0,pulse,1,5,30
+HS1782,Rorya,Under-Bay,Kirongwe,Bukura,3,continuous,9,10,5
+HS0451,Butiama,Nyamaharaga,Kwigutu,Masaba,0,pulse,4,NA,NA
+HS1781,Rorya,Under-Bay,Kirongwe,Bukura,3,continuous,2,NA,NA
+HS0452,Butiama,Nyamaharaga,Kwigutu,Masaba,0,pulse,1,NA,NA
+HS0453,Butiama,Nyamaharaga,Kwigutu,Masaba,0,pulse,3,NA,NA
+HS0454,Butiama,Nyamaharaga,Kwigutu,Masaba,0,pulse,4,NA,NA
+HS1810,Rorya,Under-Bay,Kirongwe,Bukura,3,continuous,1,NA,NA
+HS0455,Butiama,Nyamaharaga,Kwigutu,Masaba,0,pulse,1,NA,NA
+HS1809,Rorya,Under-Bay,Kirongwe,Bukura,3,continuous,2,NA,NA
+HS0456,Butiama,Nyamaharaga,Kwigutu,Masaba,0,pulse,1,NA,NA
+HS1783,Rorya,Under-Bay,Kirongwe,Bukura,3,continuous,1,NA,NA
+HS0457,Butiama,Nyamaharaga,Kwigutu,Masaba,0,pulse,1,NA,NA
+HS1784,Rorya,Under-Bay,Kirongwe,Bukura,3,continuous,1,NA,NA
+HS0458,Butiama,Nyamaharaga,Kwigutu,Masaba,0,pulse,1,NA,NA
+HS1786,Rorya,Under-Bay,Kirongwe,Bukura,3,continuous,1,10,30
+HS0459,Butiama,Nyamaharaga,Kwigutu,Masaba,0,pulse,1,NA,NA
+HS1785,Rorya,Under-Bay,Kirongwe,Bukura,3,continuous,2,NA,NA
+HS0460,Butiama,Nyamaharaga,Kwigutu,Masaba,0,pulse,1,NA,NA
+HS1787,Rorya,Under-Bay,Kirongwe,Bukura,3,continuous,1,20,10
+HS1788,Rorya,Under-Bay,Kirongwe,Bukura,3,continuous,1,NA,NA
+HS0461,Butiama,Binete,Kwigutu,Masaba,0,pulse,1,NA,NA
+HS1789,Rorya,Lwala,Kirongwe,Bukura,3,continuous,1,NA,NA
+HS0462,Butiama,Binete,Kwigutu,Masaba,0,pulse,5,NA,NA
+HS1808,Rorya,Lwala,Kirongwe,Bukura,3,continuous,1,15,4
+HS0463,Butiama,Binete,Kwigutu,Masaba,0,pulse,1,NA,NA
+HS1807,Rorya,Lwala,Kirongwe,Bukura,3,continuous,1,NA,NA
+HS0464,Butiama,Binete,Kwigutu,Masaba,0,pulse,2,NA,NA
+HS1806,Rorya,Lwala,Kirongwe,Bukura,3,continuous,1,NA,NA
+HS0465,Butiama,Binete,Kwigutu,Masaba,0,pulse,3,NA,NA
+HS0466,Butiama,Binete,Kwigutu,Masaba,0,pulse,1,NA,NA
+HS1805,Rorya,Lwala,Kirongwe,Bukura,3,continuous,2,10,8
+HS0467,Butiama,Binete,Kwigutu,Masaba,0,pulse,2,NA,NA
+HS0468,Butiama,Binete,Kwigutu,Masaba,0,pulse,1,15,180
+HS1804,Rorya,Lwala,Kirongwe,Bukura,3,continuous,1,10,10
+HS1803,Rorya,Lwala,Kirongwe,Bukura,3,continuous,1,15,4
+HS0469,Butiama,Binete,Kwigutu,Masaba,0,pulse,1,10,60
+HS1802,Rorya,Lwala,Kirongwe,Bukura,3,continuous,1,NA,NA
+HS1801,Rorya,Lwala,Kirongwe,Bukura,3,continuous,1,30,30
+HS1800,Rorya,Lwala,Kirongwe,Bukura,3,continuous,1,5,4
+HS0470,Butiama,Binete,Kwigutu,Masaba,0,pulse,1,NA,NA
+HS0471,Butiama,Kukigumu,Kwigutu,Masaba,0,pulse,3,NA,NA
+HS1791,Rorya,Kituo,Kirongwe,Bukura,3,continuous,1,NA,NA
+HS1790,Rorya,Kituo,Kirongwe,Bukura,3,continuous,2,NA,NA
+HS1792,Rorya,Kituo,Kirongwe,Bukura,3,continuous,3,5,4
+HS0472,Butiama,Kukigumu,Kwigutu,Masaba,0,pulse,3,NA,NA
+HS1793,Rorya,Kituo,Kirongwe,Bukura,3,continuous,1,10,4
+HS0473,Butiama,Kukigumu,Kwigutu,Masaba,0,pulse,1,NA,NA
+HS1794,Rorya,Kituo,Kirongwe,Bukura,3,continuous,2,20,2
+HS0474,Butiama,Kukigumu,Kwigutu,Masaba,0,pulse,1,NA,NA
+HS0475,Butiama,Kukigumu,Kwigutu,Masaba,0,pulse,3,30,60
+HS0476,Butiama,Kukigumu,Kwigutu,Masaba,0,pulse,6,NA,NA
+HS1795,Rorya,Kituo,Kirongwe,Bukura,3,continuous,2,NA,NA
+HS0477,Butiama,Kukigumu,Kwigutu,Masaba,0,pulse,4,15,180
+HS1796,Rorya,Kituo,Kirongwe,Bukura,3,continuous,3,NA,NA
+HS0478,Butiama,Kukigumu,Kwigutu,Masaba,0,pulse,2,NA,NA
+HS1797,Rorya,Kituo,Kirongwe,Bukura,3,continuous,1,NA,NA
+HS0479,Butiama,Kukigumu,Kwigutu,Masaba,0,pulse,3,NA,NA
+HS1798,Rorya,Kituo,Kirongwe,Bukura,3,continuous,1,NA,NA
+HS0480,Butiama,Kukigumu,Kwigutu,Masaba,0,pulse,2,NA,NA
+HS1799,Rorya,Kituo,Kirongwe,Bukura,3,continuous,1,NA,NA
+HS0481,Butiama,Nyabubumari,Nyansirori,Masaba,0,pulse,5,NA,NA
+HS0482,Butiama,Nyabubumari,Nyansirori,Masaba,0,pulse,3,NA,NA
+HS0483,Butiama,Nyabubumari,Nyansirori,Masaba,0,pulse,4,NA,NA
+HS0484,Butiama,Nyabubumari,Nyansirori,Masaba,0,pulse,3,NA,NA
+HS0485,Butiama,Nyabubumari,Nyansirori,Masaba,0,pulse,3,NA,NA
+HS0486,Butiama,Nyabubumari,Nyansirori,Masaba,0,pulse,4,NA,NA
+HS0487,Butiama,Nyabubumari,Nyansirori,Masaba,0,pulse,7,60,120
+HS0488,Butiama,Nyabubumari,Nyansirori,Masaba,0,pulse,2,NA,NA
+HS1812,Rorya,Korino,Thabache,Bukura,3,continuous,1,NA,NA
+HS0489,Butiama,Nyabubumari,Nyansirori,Masaba,0,pulse,1,NA,NA
+HS1811,Rorya,Korino,Thabache,Bukura,3,continuous,1,NA,NA
+HS0490,Butiama,Nyabubumari,Nyansirori,Masaba,0,pulse,13,60,180
+HS1813,Rorya,Korino,Thabache,Bukura,3,continuous,1,NA,NA
+HS0491,Butiama,Nyansirori,Nyansirori,Masaba,0,pulse,3,NA,NA
+HS1820,Rorya,Korino,Thabache,Bukura,3,continuous,2,NA,NA
+HS1819,Rorya,Korino,Thabache,Bukura,3,continuous,1,5,8
+HS1818,Rorya,Korino,Thabache,Bukura,3,continuous,1,NA,NA
+HS0492,Butiama,Nyansirori,Nyansirori,Masaba,0,pulse,2,NA,NA
+HS1817,Rorya,Korino,Thabache,Bukura,3,continuous,2,NA,NA
+HS1816,Rorya,Korino,Thabache,Bukura,3,continuous,1,NA,NA
+HS0493,Butiama,Nyansirori,Nyansirori,Masaba,0,pulse,1,NA,NA
+HS0494,Butiama,Nyansirori,Nyansirori,Masaba,0,pulse,2,15,120
+HS1815,Rorya,Korino,Thabache,Bukura,3,continuous,2,6,10
+HS0495,Butiama,Nyansirori,Nyansirori,Masaba,0,pulse,1,NA,NA
+HS1814,Rorya,Korino,Thabache,Bukura,3,continuous,3,NA,NA
+HS0496,Butiama,Nyansirori,Nyansirori,Masaba,0,pulse,1,10,90
+HS0497,Butiama,Nyansirori,Nyansirori,Masaba,0,pulse,1,NA,NA
+HS0498,Butiama,Nyansirori,Nyansirori,Masaba,0,pulse,2,NA,NA
+HS0499,Butiama,Nyansirori,Nyansirori,Masaba,0,pulse,3,10,60
+HS1826,Rorya,Koyie,Thabache,Bukura,3,continuous,3,60,10
+HS0500,Butiama,Nyansirori,Nyansirori,Masaba,0,pulse,2,NA,NA
+HS1827,Rorya,Koyie,Thabache,Bukura,3,continuous,1,NA,NA
+HS1750,Butiama,Mhurukole,Nyansirori,Masaba,0,pulse,4,15,30
+HS1828,Rorya,Koyie,Thabache,Bukura,3,continuous,2,NA,NA
+HS1749,Butiama,Mhurukole,Nyansirori,Masaba,0,pulse,1,NA,NA
+HS1748,Butiama,Mhurukole,Nyansirori,Masaba,0,pulse,2,NA,NA
+HS1829,Rorya,Koyie,Thabache,Bukura,3,continuous,3,NA,NA
+HS1747,Butiama,Mhurukole,Nyansirori,Masaba,0,pulse,6,NA,NA
+HS1746,Butiama,Mhurukole,Nyansirori,Masaba,0,pulse,1,NA,NA
+HS1745,Butiama,Mhurukole,Nyansirori,Masaba,0,pulse,1,NA,NA
+HS1830,Rorya,Koyie,Thabache,Bukura,3,continuous,1,NA,NA
+HS1821,Rorya,Koyie,Thabache,Bukura,3,continuous,1,NA,NA
+HS1744,Butiama,Mhurukole,Nyansirori,Masaba,0,pulse,2,NA,NA
+HS1822,Rorya,Koyie,Thabache,Bukura,3,continuous,1,30,2
+HS1823,Rorya,Koyie,Thabache,Bukura,3,continuous,1,NA,NA
+HS1824,Rorya,Koyie,Thabache,Bukura,3,continuous,1,NA,NA
+HS1743,Butiama,Mhurukole,Nyansirori,Masaba,0,pulse,2,NA,NA
+HS1825,Rorya,Koyie,Thabache,Bukura,3,continuous,2,NA,NA
+HS1742,Butiama,Mhurukole,Nyansirori,Masaba,0,pulse,4,NA,NA
+HS1741,Butiama,Mhurukole,Nyansirori,Masaba,0,pulse,2,NA,NA
+HS1845,Rorya,Obembe,Thabache,Bukura,3,continuous,1,30,20
+HS1842,Rorya,Obembe,Thabache,Bukura,3,continuous,2,25,15
+HS1843,Rorya,Obembe,Thabache,Bukura,3,continuous,1,NA,NA
+HS1844,Rorya,Obembe,Thabache,Bukura,3,continuous,1,4,3
+HS1840,Rorya,Obembe,Thabache,Bukura,3,continuous,2,NA,NA
+HS1841,Rorya,Obembe,Thabache,Bukura,3,continuous,1,2,2
+HS1839,Rorya,Obembe,Thabache,Bukura,3,continuous,1,1,2
+HS1838,Rorya,Obembe,Thabache,Bukura,3,continuous,1,NA,NA
+HS1837,Rorya,Obembe,Thabache,Bukura,3,continuous,1,NA,NA
+HS1836,Rorya,Obembe,Thabache,Bukura,3,continuous,1,NA,NA
+HS1711,Butiama,Kwisangura A,Baranga,Buswahili,1,continuous,2,NA,NA
+HS1712,Butiama,Kwisangura A,Baranga,Buswahili,1,continuous,4,NA,NA
+HS1713,Butiama,Kwisangura A,Baranga,Buswahili,1,continuous,4,NA,NA
+HS1832,Rorya,Zahanati,Nyambori,Bukura,3,continuous,1,30,20
+HS1714,Butiama,Kwisangura A,Baranga,Buswahili,1,continuous,2,NA,NA
+HS1715,Butiama,Kwisangura A,Baranga,Buswahili,1,continuous,2,NA,NA
+HS1833,Rorya,Zahanati,Nyambori,Bukura,3,continuous,1,NA,NA
+HS1716,Butiama,Kwisangura A,Baranga,Buswahili,1,continuous,2,20,60
+HS1835,Rorya,Zahanati,Nyambori,Bukura,3,continuous,1,NA,NA
+HS1717,Butiama,Kwisangura A,Baranga,Buswahili,1,continuous,4,NA,NA
+HS1718,Butiama,Kwisangura A,Baranga,Buswahili,1,continuous,1,NA,NA
+HS1853,Rorya,Zahanati,Nyambori,Bukura,3,continuous,1,7,3
+HS1834,Rorya,Zahanati,Nyambori,Bukura,3,continuous,2,NA,NA
+HS1719,Butiama,Kwisangura A,Baranga,Buswahili,1,continuous,3,NA,NA
+HS1852,Rorya,Zahanati,Nyambori,Bukura,3,continuous,3,NA,NA
+HS1720,Butiama,Kwisangura A,Baranga,Buswahili,1,continuous,1,NA,NA
+HS1851,Rorya,Zahanati,Nyambori,Bukura,3,continuous,1,NA,NA
+HS1721,Butiama,Ghantende,Baranga,Buswahili,1,continuous,2,10,45
+HS1850,Rorya,Zahanati,Nyambori,Bukura,3,continuous,2,20,30
+HS1722,Butiama,Ghantende,Baranga,Buswahili,1,continuous,1,10,20
+HS1848,Rorya,Zahanati,Nyambori,Bukura,3,continuous,1,NA,NA
+HS1723,Butiama,Ghantende,Baranga,Buswahili,1,continuous,1,NA,NA
+HS1724,Butiama,Ghantende,Baranga,Buswahili,1,continuous,2,15,25
+HS1863,Rorya,Senta,Nyambori,Bukura,3,continuous,3,NA,NA
+HS1725,Butiama,Ghantende,Baranga,Buswahili,1,continuous,1,15,20
+HS1862,Rorya,Senta,Nyambori,Bukura,3,continuous,1,NA,NA
+HS1726,Butiama,Ghantende,Baranga,Buswahili,1,continuous,1,NA,NA
+HS1727,Butiama,Ghantende,Baranga,Buswahili,1,continuous,7,NA,NA
+HS1861,Rorya,Senta,Nyambori,Bukura,3,continuous,2,NA,NA
+HS1728,Butiama,Ghantende,Baranga,Buswahili,1,continuous,5,NA,NA
+HS1860,Rorya,Senta,Nyambori,Bukura,3,continuous,1,NA,NA
+HS1859,Rorya,Senta,Nyambori,Bukura,3,continuous,2,NA,NA
+HS1729,Butiama,Ghantende,Baranga,Buswahili,1,continuous,2,10,60
+HS1730,Butiama,Ghantende,Baranga,Buswahili,1,continuous,1,NA,NA
+HS1858,Rorya,Senta,Nyambori,Bukura,3,continuous,2,4,20
+HS1857,Rorya,Senta,Nyambori,Bukura,3,continuous,1,NA,NA
+HS1732,Butiama,Burundi,Baranga,Buswahili,1,continuous,2,60,180
+HS1733,Butiama,Burundi,Baranga,Buswahili,1,continuous,4,30,120
+HS1856,Rorya,Senta,Nyambori,Bukura,3,continuous,2,5,30
+HS1734,Butiama,Burundi,Baranga,Buswahili,1,continuous,4,NA,NA
+HS1855,Rorya,Senta,Nyambori,Bukura,3,continuous,5,10,10
+HS1735,Butiama,Burundi,Baranga,Buswahili,1,continuous,3,NA,NA
+HS1854,Rorya,Senta,Nyambori,Bukura,3,continuous,2,NA,NA
+HS1736,Butiama,Burundi,Baranga,Buswahili,1,continuous,4,NA,NA
+HS1737,Butiama,Burundi,Baranga,Buswahili,1,continuous,4,NA,NA
+HS1872,Rorya,Vunja Amri,Nyambori,Bukura,3,continuous,3,NA,NA
+HS1738,Butiama,Burundi,Baranga,Buswahili,1,continuous,2,NA,NA
+HS1739,Butiama,Burundi,Baranga,Buswahili,1,continuous,2,20,120
+HS1871,Rorya,Vunja Amri,Nyambori,Bukura,3,continuous,3,30,20
+HS1740,Butiama,Burundi,Baranga,Buswahili,1,continuous,2,NA,NA
+HS1870,Rorya,Vunja Amri,Nyambori,Bukura,3,continuous,1,NA,NA
+HS1869,Rorya,Vunja Amri,Nyambori,Bukura,3,continuous,2,NA,NA
+HS1868,Rorya,Vunja Amri,Nyambori,Bukura,3,continuous,2,30,5
+HS1867,Rorya,Vunja Amri,Nyambori,Bukura,3,continuous,2,NA,NA
+HS1866,Rorya,Vunja Amri,Nyambori,Bukura,3,continuous,1,NA,NA
+HS1864,Rorya,Vunja Amri,Nyambori,Bukura,3,continuous,1,NA,NA
+HS1864,Rorya,Vunja Amri,Nyambori,Bukura,3,continuous,1,NA,NA
+HS1849,Rorya,Vunja Amri,Nyambori,Bukura,3,continuous,5,NA,NA
+HS1701,Butiama,Mlimani,Kongoto,Buswahili,1,continuous,4,NA,NA
+HS1702,Butiama,Mlimani,Kongoto,Buswahili,1,continuous,3,NA,NA
+HS1847,Rorya,Nyangoko,Bwiri,Bukura,3,continuous,1,5,5
+HS1703,Butiama,Mlimani,Kongoto,Buswahili,1,continuous,1,NA,NA
+HS1846,Rorya,Nyangoko,Bwiri,Bukura,3,continuous,2,NA,NA
+HS1704,Butiama,Mlimani,Kongoto,Buswahili,1,continuous,4,NA,NA
+HS1902,Rorya,Nyangoko,Bwiri,Bukura,3,continuous,1,NA,NA
+HS1705,Butiama,Mlimani,Kongoto,Buswahili,1,continuous,1,NA,NA
+HS1901,Rorya,Nyangoko,Bwiri,Bukura,3,continuous,2,5,2
+HS1706,Butiama,Mlimani,Kongoto,Buswahili,1,continuous,1,NA,NA
+HS1900,Rorya,Nyangoko,Bwiri,Bukura,3,continuous,4,1,3
+HS1899,Rorya,Nyangoko,Bwiri,Bukura,3,continuous,1,3,5
+HS1707,Butiama,Mlimani,Kongoto,Buswahili,1,continuous,4,30,60
+HS1708,Butiama,Mlimani,Kongoto,Buswahili,1,continuous,1,NA,NA
+HS1898,Rorya,Nyangoko,Bwiri,Bukura,3,continuous,1,8,2
+HS1709,Butiama,Mlimani,Kongoto,Buswahili,1,continuous,2,NA,NA
+HS1710,Butiama,Mlimani,Kongoto,Buswahili,1,continuous,4,NA,NA
+HS1691,Butiama,Shule,Kongoto,Buswahili,1,continuous,2,10,10
+HS1897,Rorya,Nyangoko,Bwiri,Bukura,3,continuous,1,NA,NA
+HS1896,Rorya,Nyangoko,Bwiri,Bukura,3,continuous,1,NA,NA
+HS1895,Rorya,Nyangoko,Bwiri,Bukura,3,continuous,6,NA,NA
+HS1894,Rorya,Ogwedhi,Bwiri,Bukura,3,continuous,1,NA,NA
+HS1893,Rorya,Ogwedhi,Bwiri,Bukura,3,continuous,1,NA,NA
+HS1692,Butiama,Shule,Kongoto,Buswahili,1,continuous,2,10,60
+HS1892,Rorya,Ogwedhi,Bwiri,Bukura,3,continuous,1,NA,NA
+HS1693,Butiama,Shule,Kongoto,Buswahili,1,continuous,3,10,60
+HS1891,Rorya,Ogwedhi,Bwiri,Bukura,3,continuous,2,NA,NA
+HS1694,Butiama,Shule,Kongoto,Buswahili,1,continuous,1,NA,NA
+HS1890,Rorya,Ogwedhi,Bwiri,Bukura,3,continuous,1,NA,NA
+HS1695,Butiama,Shule,Kongoto,Buswahili,1,continuous,2,NA,NA
+HS1889,Rorya,Ogwedhi,Bwiri,Bukura,3,continuous,1,NA,NA
+HS1696,Butiama,Shule,Kongoto,Buswahili,1,continuous,2,NA,NA
+HS1697,Butiama,Shule,Kongoto,Buswahili,1,continuous,2,NA,NA
+HS1888,Rorya,Ogwedhi,Bwiri,Bukura,3,continuous,1,NA,NA
+HS1698,Butiama,Shule,Kongoto,Buswahili,1,continuous,1,NA,NA
+HS1887,Rorya,Ogwedhi,Bwiri,Bukura,3,continuous,1,NA,NA
+HS1886,Rorya,Ogwedhi,Bwiri,Bukura,3,continuous,1,30,5
+HS1699,Butiama,Shule,Kongoto,Buswahili,1,continuous,3,NA,NA
+HS1885,Rorya,Ogwedhi,Bwiri,Bukura,3,continuous,1,NA,NA
+HS1700,Butiama,Shule,Kongoto,Buswahili,1,continuous,6,15,45
+HS1681,Butiama,Kiabakari A,Kongoto,Buswahili,1,continuous,2,NA,NA
+HS1884,Rorya,Bwiri B,Bwiri,Bukura,3,continuous,2,3,20
+HS1883,Rorya,Bwiri B,Bwiri,Bukura,3,continuous,1,NA,NA
+HS1882,Rorya,Bwiri B,Bwiri,Bukura,3,continuous,2,NA,NA
+HS1683,Butiama,Kiabakari A,Kongoto,Buswahili,1,continuous,1,NA,NA
+HS1881,Rorya,Bwiri B,Bwiri,Bukura,3,continuous,1,NA,NA
+HS1880,Rorya,Bwiri B,Bwiri,Bukura,3,continuous,1,NA,NA
+HS1684,Butiama,Kiabakari A,Kongoto,Buswahili,1,continuous,2,NA,NA
+HS1879,Rorya,Bwiri B,Bwiri,Bukura,3,continuous,3,NA,NA
+HS1685,Butiama,Kiabakari A,Kongoto,Buswahili,1,continuous,5,15,60
+HS1878,Rorya,Bwiri B,Bwiri,Bukura,3,continuous,2,NA,NA
+HS1877,Rorya,Bwiri B,Bwiri,Bukura,3,continuous,1,NA,NA
+HS1686,Butiama,Kiabakari A,Kongoto,Buswahili,1,continuous,2,NA,NA
+HS1876,Rorya,Bwiri B,Bwiri,Bukura,3,continuous,2,NA,NA
+HS1687,Butiama,Kiabakari A,Kongoto,Buswahili,1,continuous,2,NA,NA
+HS1688,Butiama,Kiabakari A,Kongoto,Buswahili,1,continuous,3,NA,NA
+HS1875,Rorya,Bwiri B,Bwiri,Bukura,3,continuous,2,NA,NA
+HS1689,Butiama,Kiabakari A,Kongoto,Buswahili,1,continuous,2,NA,NA
+HS1690,Butiama,Kiabakari A,Kongoto,Buswahili,1,continuous,3,10,60
+HS1681,Butiama,Kiabakari A,Kongoto,Buswahili,1,continuous,3,10,60
+HS1651,Butiama,Kitotare B,Wegero,Buswahili,1,continuous,1,NA,NA
+HS1652,Butiama,Kitotare B,Wegero,Buswahili,1,continuous,3,NA,NA
+HS1653,Butiama,Kitotare B,Wegero,Buswahili,1,continuous,1,NA,NA
+HS1654,Butiama,Kitotare B,Wegero,Buswahili,1,continuous,1,NA,NA
+HS1655,Butiama,Kitotare B,Wegero,Buswahili,1,continuous,1,NA,NA
+HS1656,Butiama,Kitotare B,Wegero,Buswahili,1,continuous,2,NA,NA
+HS1657,Butiama,Kitotare B,Wegero,Buswahili,1,continuous,2,30,60
+HS1659,Butiama,Kitotare B,Wegero,Buswahili,1,continuous,3,NA,NA
+HS1658,Butiama,Kitotare B,Wegero,Buswahili,1,continuous,1,NA,NA
+HS1660,Butiama,Kitotare B,Wegero,Buswahili,1,continuous,2,30,30
+HS1661,Butiama,Nyirobi B,Wegero,Buswahili,1,continuous,2,NA,NA
+HS1662,Butiama,Nyirobi B,Wegero,Buswahili,1,continuous,2,20,60
+HS1663,Butiama,Nyirobi B,Wegero,Buswahili,1,continuous,1,NA,NA
+HS1664,Butiama,Nyirobi B,Wegero,Buswahili,1,continuous,4,20,120
+HS1665,Butiama,Nyirobi B,Wegero,Buswahili,1,continuous,2,NA,NA
+HS1666,Butiama,Nyirobi B,Wegero,Buswahili,1,continuous,3,20,45
+HS1667,Butiama,Nyirobi B,Wegero,Buswahili,1,continuous,3,NA,NA
+HS1668,Butiama,Nyirobi B,Wegero,Buswahili,1,continuous,2,NA,NA
+HS1669,Butiama,Nyirobi B,Wegero,Buswahili,1,continuous,2,30,120
+HS1670,Butiama,Nyirobi B,Wegero,Buswahili,1,continuous,1,NA,NA
+HS1671,Butiama,Bumangi B,Wegero,Buswahili,1,continuous,1,NA,NA
+HS1671,Butiama,Bumangi B,Wegero,Buswahili,1,continuous,1,NA,NA
+HS1672,Butiama,Bumangi B,Wegero,Buswahili,1,continuous,2,NA,NA
+HS1674,Butiama,Bumangi B,Wegero,Buswahili,1,continuous,2,20,30
+HS1675,Butiama,Bumangi B,Wegero,Buswahili,1,continuous,1,NA,NA
+HS1676,Butiama,Bumangi B,Wegero,Buswahili,1,continuous,8,30,120
+HS1677,Butiama,Bumangi B,Wegero,Buswahili,1,continuous,3,NA,NA
+HS1678,Butiama,Bumangi B,Wegero,Buswahili,1,continuous,2,NA,NA
+HS1679,Butiama,Bumangi B,Wegero,Buswahili,1,continuous,2,NA,NA
+HS1680,Butiama,Bumangi B,Wegero,Buswahili,1,continuous,1,NA,NA
+HS1641,Butiama,Kigumi,Buswahili,Buswahili,1,continuous,2,NA,NA
+HS1642,Butiama,Kigumi,Buswahili,Buswahili,1,continuous,1,15,45
+HS1643,Butiama,Kigumi,Buswahili,Buswahili,1,continuous,2,NA,NA
+HS1644,Butiama,Kigumi,Buswahili,Buswahili,1,continuous,11,15,60
+HS1645,Butiama,Kigumi,Buswahili,Buswahili,1,continuous,6,NA,NA
+HS1646,Butiama,Kigumi,Buswahili,Buswahili,1,continuous,2,NA,NA
+HS1647,Butiama,Kigumi,Buswahili,Buswahili,1,continuous,2,15,120
+HS1648,Butiama,Kigumi,Buswahili,Buswahili,1,continuous,3,NA,NA
+HS1649,Butiama,Kigumi,Buswahili,Buswahili,1,continuous,6,NA,NA
+HS1650,Butiama,Kigumi,Buswahili,Buswahili,1,continuous,2,NA,NA
+HS1631,Butiama,Biafra,Buswahili,Buswahili,1,continuous,5,15,60
+HS1632,Butiama,Biafra,Buswahili,Buswahili,1,continuous,3,15,30
+HS1633,Butiama,Biafra,Buswahili,Buswahili,1,continuous,3,NA,NA
+HS1634,Butiama,Biafra,Buswahili,Buswahili,1,continuous,3,NA,NA
+HS1635,Butiama,Biafra,Buswahili,Buswahili,1,continuous,3,NA,NA
+HS1636,Butiama,Biafra,Buswahili,Buswahili,1,continuous,1,60,180
+HS1637,Butiama,Biafra,Buswahili,Buswahili,1,continuous,2,NA,NA
+HS1638,Butiama,Biafra,Buswahili,Buswahili,1,continuous,2,NA,NA
+HS1639,Butiama,Biafra,Buswahili,Buswahili,1,continuous,2,NA,NA
+HS1640,Butiama,Biafra,Buswahili,Buswahili,1,continuous,3,NA,NA
+HS1621,Butiama,Nyandewa,Buswahili,Buswahili,1,continuous,2,NA,NA
+HS1622,Butiama,Nyandewa,Buswahili,Buswahili,1,continuous,2,15,120
+HS1623,Butiama,Nyandewa,Buswahili,Buswahili,1,continuous,1,NA,NA
+HS1624,Butiama,Nyandewa,Buswahili,Buswahili,1,continuous,1,NA,NA
+HS1625,Butiama,Nyandewa,Buswahili,Buswahili,1,continuous,2,NA,NA
+HS1626,Butiama,Nyandewa,Buswahili,Buswahili,1,continuous,1,NA,NA
+HS1627,Butiama,Nyandewa,Buswahili,Buswahili,1,continuous,1,NA,NA
+HS1628,Butiama,Nyandewa,Buswahili,Buswahili,1,continuous,1,NA,NA
+HS1629,Butiama,Nyandewa,Buswahili,Buswahili,1,continuous,5,20,30
+HS1630,Butiama,Nyandewa,Buswahili,Buswahili,1,continuous,3,15,120
+HS1591,Butiama,Nyamimange,Kitaramanka,Sirorisimba,2,continuous,1,NA,NA
+HS1592,Butiama,Nyamimange,Kitaramanka,Sirorisimba,2,continuous,2,NA,NA
+HS1593,Butiama,Nyamimange,Kitaramanka,Sirorisimba,2,continuous,1,NA,NA
+HS1594,Butiama,Nyamimange,Kitaramanka,Sirorisimba,2,continuous,6,20,40
+HS1595,Butiama,Nyamimange,Kitaramanka,Sirorisimba,2,continuous,6,NA,NA
+HS1596,Butiama,Nyamimange,Kitaramanka,Sirorisimba,2,continuous,2,NA,NA
+HS1597,Butiama,Nyamimange,Kitaramanka,Sirorisimba,2,continuous,3,15,60
+HS1598,Butiama,Nyamimange,Kitaramanka,Sirorisimba,2,continuous,2,NA,NA
+HS1599,Butiama,Nyamimange,Kitaramanka,Sirorisimba,2,continuous,2,20,30
+HS1600,Butiama,Nyamimange,Kitaramanka,Sirorisimba,2,continuous,1,NA,NA
+HS1601,Butiama,Kyamaiha,Kitaramanka,Sirorisimba,2,continuous,1,NA,NA
+HS1602,Butiama,Kyamaiha,Kitaramanka,Sirorisimba,2,continuous,1,NA,NA
+HS1603,Butiama,Kyamaiha,Kitaramanka,Sirorisimba,2,continuous,2,20,30
+HS1604,Butiama,Kyamaiha,Kitaramanka,Sirorisimba,2,continuous,1,NA,NA
+HS1605,Butiama,Kyamaiha,Kitaramanka,Sirorisimba,2,continuous,2,5,30
+HS1606,Butiama,Kyamaiha,Kitaramanka,Sirorisimba,2,continuous,5,15,30
+HS1607,Butiama,Kyamaiha,Kitaramanka,Sirorisimba,2,continuous,1,NA,NA
+HS1608,Butiama,Kyamaiha,Kitaramanka,Sirorisimba,2,continuous,2,30,120
+HS1609,Butiama,Kyamaiha,Kitaramanka,Sirorisimba,2,continuous,4,NA,NA
+HS1610,Butiama,Kyamaiha,Kitaramanka,Sirorisimba,2,continuous,3,NA,NA
+HS1611,Butiama,Butukansaro,Kitaramanka,Sirorisimba,2,continuous,2,20,60
+HS1612,Butiama,Butukansaro,Kitaramanka,Sirorisimba,2,continuous,2,10,30
+HS1613,Butiama,Butukansaro,Kitaramanka,Sirorisimba,2,continuous,2,NA,NA
+HS1614,Butiama,Butukansaro,Kitaramanka,Sirorisimba,2,continuous,1,NA,NA
+HS1615,Butiama,Butukansaro,Kitaramanka,Sirorisimba,2,continuous,7,10,20
+HS1616,Butiama,Butukansaro,Kitaramanka,Sirorisimba,2,continuous,1,10,30
+HS1617,Butiama,Butukansaro,Kitaramanka,Sirorisimba,2,continuous,2,15,30
+HS1618,Butiama,Butukansaro,Kitaramanka,Sirorisimba,2,continuous,2,15,15
+HS1619,Butiama,Butukansaro,Kitaramanka,Sirorisimba,2,continuous,3,NA,NA
+HS1620,Butiama,Butukansaro,Kitaramanka,Sirorisimba,2,continuous,2,15,120
+HS1561,Butiama,Mtukula,Sirorisimba,Sirorisimba,2,continuous,8,30,60
+HS1562,Butiama,Mtukula,Sirorisimba,Sirorisimba,2,continuous,4,NA,NA
+HS1563,Butiama,Mtukula,Sirorisimba,Sirorisimba,2,continuous,3,NA,NA
+HS1564,Butiama,Mtukula,Sirorisimba,Sirorisimba,2,continuous,4,NA,NA
+HS1565,Butiama,Mtukula,Sirorisimba,Sirorisimba,2,continuous,4,NA,NA
+HS1566,Butiama,Mtukula,Sirorisimba,Sirorisimba,2,continuous,4,NA,NA
+HS1567,Butiama,Mtukula,Sirorisimba,Sirorisimba,2,continuous,2,NA,NA
+HS1568,Butiama,Mtukula,Sirorisimba,Sirorisimba,2,continuous,6,15,60
+HS1569,Butiama,Mtukula,Sirorisimba,Sirorisimba,2,continuous,2,NA,NA
+HS1570,Butiama,Mtukula,Sirorisimba,Sirorisimba,2,continuous,4,NA,NA
+HS1571,Butiama,Senta A,Sirorisimba,Sirorisimba,2,continuous,1,NA,NA
+HS1572,Butiama,Senta A,Sirorisimba,Sirorisimba,2,continuous,4,NA,NA
+HS1573,Butiama,Senta A,Sirorisimba,Sirorisimba,2,continuous,2,15,60
+HS1574,Butiama,Senta A,Sirorisimba,Sirorisimba,2,continuous,2,NA,NA
+HS1575,Butiama,Senta A,Sirorisimba,Sirorisimba,2,continuous,6,NA,NA
+HS1576,Butiama,Senta A,Sirorisimba,Sirorisimba,2,continuous,4,NA,NA
+HS1577,Butiama,Senta A,Sirorisimba,Sirorisimba,2,continuous,1,NA,NA
+HS1578,Butiama,Senta A,Sirorisimba,Sirorisimba,2,continuous,2,10,30
+HS1579,Butiama,Senta A,Sirorisimba,Sirorisimba,2,continuous,3,NA,NA
+HS1580,Butiama,Senta A,Sirorisimba,Sirorisimba,2,continuous,2,15,20
+HS1581,Butiama,Senta B,Sirorisimba,Sirorisimba,2,continuous,3,NA,NA
+HS1581,Butiama,Senta B,Sirorisimba,Sirorisimba,2,continuous,3,NA,NA
+HS1582,Butiama,Senta B,Sirorisimba,Sirorisimba,2,continuous,3,NA,NA
+HS1582,Butiama,Senta B,Sirorisimba,Sirorisimba,2,continuous,3,NA,NA
+HS1583,Butiama,Senta B,Sirorisimba,Sirorisimba,2,continuous,1,NA,NA
+HS1583,Butiama,Senta B,Sirorisimba,Sirorisimba,2,continuous,1,NA,NA
+HS1584,Butiama,Senta B,Sirorisimba,Sirorisimba,2,continuous,3,NA,NA
+HS1584,Butiama,Senta B,Sirorisimba,Sirorisimba,2,continuous,3,NA,NA
+HS1585,Butiama,Senta B,Sirorisimba,Sirorisimba,2,continuous,2,10,10
+HS1585,Butiama,Senta B,Sirorisimba,Sirorisimba,2,continuous,2,10,10
+HS1586,Butiama,Senta B,Sirorisimba,Sirorisimba,2,continuous,1,NA,NA
+HS1586,Butiama,Senta B,Sirorisimba,Sirorisimba,2,continuous,1,NA,NA
+HS1586,Butiama,Senta B,Sirorisimba,Sirorisimba,2,continuous,1,NA,NA
+HS1586,Butiama,Senta B,Sirorisimba,Sirorisimba,2,continuous,1,NA,NA
+HS1587,Butiama,Senta B,Sirorisimba,Sirorisimba,2,continuous,6,NA,NA
+HS1587,Butiama,Senta B,Sirorisimba,Sirorisimba,2,continuous,6,NA,NA
+HS1588,Butiama,Senta B,Sirorisimba,Sirorisimba,2,continuous,2,NA,NA
+HS1588,Butiama,Senta B,Sirorisimba,Sirorisimba,2,continuous,2,NA,NA
+HS1589,Butiama,Senta B,Sirorisimba,Sirorisimba,2,continuous,3,10,30
+HS1589,Butiama,Senta B,Sirorisimba,Sirorisimba,2,continuous,3,10,30
+HS1590,Butiama,Senta B,Sirorisimba,Sirorisimba,2,continuous,6,10,5
+HS1590,Butiama,Senta B,Sirorisimba,Sirorisimba,2,continuous,6,10,5

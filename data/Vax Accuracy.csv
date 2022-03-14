@@ -1,0 +1,599 @@
+household_ID,district,campaign,Strategy,Ward,Village,Sub-village,dog_total,dog_vacc_status (owner),number_dogs_seen,microchip_scanned_dogs_yes(microchip),dogs_vacc_cert (Cert)
+RCT1019,Rorya,Village,1,Tai,Nyahera,Rabour,1,0,1,0,0
+RCT1009,Rorya,Village,1,Tai,Nyahera,Nyahera,1,1,1,1,1
+RCT1006,Rorya,Village,1,Tai,Nyahera,Nyahera,1,0,1,0,0
+HS1906,Rorya,Village,1,Tai,Nyahera,Center,1,1,1,1,1
+HS1908,Rorya,Village,1,Tai,Nyahera,Center,1,1,1,1,1
+HS1934,Rorya,Village,1,Tai,Nyamagongo,Makao,1,1,1,1,1
+HS1935,Rorya,Village,1,Tai,Nyamagongo,Makao,1,0,1,0,0
+HS1926,Rorya,Village,1,Tai,Nyamagongo,Oboke,1,1,1,1,1
+HS1927,Rorya,Village,1,Tai,Nyamagongo,Oboke,1,0,1,0,0
+HS1942,Rorya,Village,1,Tai,Masonga,Masonga,1,1,0,0,1
+HS1963,Rorya,Village,1,Tai,Masonga,NyamogoBugoge,1,1,1,1,1
+HS1961,Rorya,Village,1,Tai,Masonga,NyamogoBugoge,1,1,1,1,1
+HS1964,Rorya,Village,1,Tai,Masonga,NyamogoBugoge,1,1,1,1,1
+HS1966,Rorya,Village,1,Tai,Masonga,NyamogoBugoge,1,1,1,0,1
+HS1953,Rorya,Village,1,Tai,Masonga,NyamogoBugoge,1,1,1,1,1
+HS1954,Rorya,Village,1,Tai,Masonga,NyamogoBugoge,1,1,1,0,1
+HS1956,Rorya,Village,1,Tai,Masonga,NyamogoBugoge,1,0,1,0,0
+HS1957,Rorya,Village,1,Tai,Masonga,NyamogoBugoge,1,1,1,1,1
+HS1974,Rorya,Village,1,Tai,Shirati_Sota,Magamaga,1,0,1,0,0
+HS1973,Rorya,Village,1,Tai,Shirati_Sota,Magamaga,1,1,1,0,1
+HS1972,Rorya,Village,1,Tai,Shirati_Sota,Magamaga,1,0,1,0,0
+HS1968,Rorya,Village,1,Tai,Shirati_Sota,Magamaga,1,1,1,1,1
+HS1992,Rorya,Village,1,Tai,Shirati_Sota,Sota,1,0,1,0,0
+HS1993,Rorya,Village,1,Tai,Shirati_Sota,Sota,1,1,1,0,1
+HS1995,Rorya,Village,1,Tai,Shirati_Sota,Sota,1,1,1,1,1
+HS1977,Rorya,Village,1,Tai,Shirati_Sota,Gingo,1,1,0,0,1
+HS1981,Rorya,Village,1,Tai,Shirati_Sota,Gingo,1,0,1,0,0
+RCT1033,Rorya,Discretion,3,Bukura,Kirongwe,Lwana-agago,1,1,1,1,1
+RCT1045,Rorya,Discretion,3,Bukura,Kirongwe,Nyarero,1,1,1,1,1
+RCT1043,Rorya,Discretion,3,Bukura,Kirongwe,Nyarero,1,0,1,0,0
+RCT1042,Rorya,Discretion,3,Bukura,Kirongwe,Nyarero,1,0,1,0,0
+RCT1037,Rorya,Discretion,3,Bukura,Kirongwe,Nyarero,1,0,1,0,0
+RCT1055,Rorya,Discretion,3,Bukura,Kirongwe,Lwala,1,1,1,1,1
+RCT1054,Rorya,Discretion,3,Bukura,Kirongwe,Lwala,1,1,1,1,1
+RCT1053,Rorya,Discretion,3,Bukura,Kirongwe,Lwala,1,1,1,1,1
+RCT1050,Rorya,Discretion,3,Bukura,Kirongwe,Lwala,1,1,1,1,1
+RCT1047,Rorya,Discretion,3,Bukura,Kirongwe,Lwala,1,1,1,1,1
+RCT0519,Rorya,Discretion,3,Bukura,Nyambori,Senta,1,0,1,0,0
+RCT0518,Rorya,Discretion,3,Bukura,Nyambori,Senta,1,0,1,0,0
+RCT0517,Rorya,Discretion,3,Bukura,Nyambori,Senta,1,1,1,1,1
+RCT0516,Rorya,Discretion,3,Bukura,Nyambori,Senta,1,1,1,1,1
+RCT0515,Rorya,Discretion,3,Bukura,Nyambori,Senta,1,1,1,1,1
+RCT0513,Rorya,Discretion,3,Bukura,Nyambori,Senta,1,0,1,0,0
+RCT0512,Rorya,Discretion,3,Bukura,Nyambori,Senta,1,1,1,1,1
+RCT0510,Rorya,Discretion,3,Bukura,Nyambori,Vunja Amri,1,1,1,1,1
+RCT1084,Rorya,Discretion,3,Bukura,Bubombi,Anyuongi,1,1,1,1,1
+RCT1079,Rorya,Discretion,3,Bukura,Bubombi,Anyuongi,1,0,1,0,0
+RCT1078,Rorya,Discretion,3,Bukura,Bubombi,Anyuongi,1,1,1,0,0
+RCT1077,Rorya,Discretion,3,Bukura,Bubombi,Anyuongi,1,1,1,1,0
+RCT1075,Rorya,Discretion,3,Bukura,Bubombi,Shuleni,1,1,1,1,1
+RCT1073,Rorya,Discretion,3,Bukura,Bubombi,Shuleni,1,1,1,1,1
+RCT1071,Rorya,Discretion,3,Bukura,Bubombi,Shuleni,1,1,1,1,1
+RCT1070,Rorya,Discretion,3,Bukura,Bubombi,Shuleni,1,1,1,1,0
+RCT1065,Rorya,Discretion,3,Bukura,Bubombi,Mtakuja,1,1,1,1,1
+RCT1060,Rorya,Discretion,3,Bukura,Bubombi,Mtakuja,1,1,1,1,1
+RCT1058,Rorya,Discretion,3,Bukura,Bubombi,Mtakuja,1,0,1,0,0
+RCT1057,Rorya,Discretion,3,Bukura,Bubombi,Mtakuja,1,1,1,1,1
+RCT1095,Rorya,Sub-village,2,Mkoma,Ngasaro,Parokia,1,1,1,1,1
+RCT1092,Rorya,Sub-village,2,Mkoma,Ngasaro,Parokia,1,1,1,1,1
+RCT1091,Rorya,Sub-village,2,Mkoma,Ngasaro,Parokia,1,1,1,1,1
+RCT1089,Rorya,Sub-village,2,Mkoma,Ngasaro,Parokia,1,0,1,0,0
+RCT1088,Rorya,Sub-village,2,Mkoma,Ngasaro,Parokia,1,1,1,1,1
+RCT1086,Rorya,Sub-village,2,Mkoma,Ngasaro,Parokia,1,1,1,1,1
+RCT1104,Rorya,Sub-village,2,Mkoma,Ngasaro,Lamboni,1,0,1,0,0
+RCT1103,Rorya,Sub-village,2,Mkoma,Ngasaro,Lamboni,1,1,1,1,1
+RCT1101,Rorya,Sub-village,2,Mkoma,Ngasaro,Lamboni,1,0,1,0,0
+RCT1100,Rorya,Sub-village,2,Mkoma,Ngasaro,Lamboni,1,1,1,1,1
+RCT1097,Rorya,Sub-village,2,Mkoma,Ngasaro,Lamboni,1,1,1,1,1
+9,Rorya,Discretion,3,Bukura,Bwiri,Bwiri A,1,1,0,0,1
+8,Rorya,Discretion,3,Bukura,Bwiri,Bwiri A,1,0,1,0,0
+7,Rorya,Discretion,3,Bukura,Bwiri,Bwiri A,1,0,1,0,0
+5,Rorya,Discretion,3,Bukura,Bwiri,Bwiri A,1,0,1,0,0
+1,Rorya,Discretion,3,Bukura,Bwiri,Bwiri A,1,0,1,0,0
+RCT1113,Rorya,Sub-village,2,Mkoma,Ngasaro,Rodi,1,1,1,1,1
+RCT1112,Rorya,Sub-village,2,Mkoma,Ngasaro,Rodi,1,1,1,1,1
+28,Rorya,Discretion,3,Bukura,Bwiri,Nyangwe,1,0,1,0,0
+26,Rorya,Discretion,3,Bukura,Bwiri,Nyangwe,1,1,1,0,1
+23,Rorya,Discretion,3,Bukura,Bwiri,Nyangwe,1,0,1,0,0
+RCT1125,Rorya,Sub-village,2,Mkoma,Oboke,Oboke Juu,1,1,1,1,1
+RCT1123,Rorya,Sub-village,2,Mkoma,Oboke,Oboke Juu,1,1,1,1,1
+RCT1122,Rorya,Sub-village,2,Mkoma,Oboke,Oboke Juu,1,1,1,1,1
+RCT1121,Rorya,Sub-village,2,Mkoma,Oboke,Oboke Juu,1,0,1,1,0
+RCT1120,Rorya,Sub-village,2,Mkoma,Oboke,Oboke Juu,1,1,1,1,1
+RCT1119,Rorya,Sub-village,2,Mkoma,Oboke,Oboke Juu,1,1,1,1,1
+RCT1118,Rorya,Sub-village,2,Mkoma,Oboke,Oboke Juu,1,1,1,1,1
+RCT1117,Rorya,Sub-village,2,Mkoma,Oboke,Oboke Juu,1,1,1,0,0
+RCT1134,Rorya,Sub-village,2,Mkoma,Oboke,Obama Street,1,1,1,1,0
+RCT1130,Rorya,Sub-village,2,Mkoma,Oboke,Obama Street,1,1,1,1,1
+RCT1129,Rorya,Sub-village,2,Mkoma,Oboke,Obama Street,1,1,1,1,1
+RCT1126,Rorya,Sub-village,2,Mkoma,Oboke,Obama Street,1,0,0,0,0
+RCT1145,Rorya,Sub-village,2,Mkoma,Oboke,Nyatike,1,1,1,1,1
+RCT1143,Rorya,Sub-village,2,Mkoma,Oboke,Nyatike,1,1,1,1,1
+RCT1140,Rorya,Sub-village,2,Mkoma,Oboke,Nyatike,1,1,1,1,1
+RCT1137,Rorya,Sub-village,2,Mkoma,Oboke,Nyatike,1,0,1,0,0
+RCT1136,Rorya,Sub-village,2,Mkoma,Oboke,Nyatike,1,1,1,1,1
+20,Rorya,Discretion,3,Bukura,"Bwiri,Bwiri",Bwiri B,1,0,1,0,0
+19,Rorya,Discretion,3,Bukura,"Bwiri,Bwiri",Bwiri B,1,0,1,0,0
+18,Rorya,Discretion,3,Bukura,"Bwiri,Bwiri",Bwiri B,1,1,1,1,1
+15,Rorya,Discretion,3,Bukura,"Bwiri,Bwiri",Bwiri B,1,1,1,1,1
+14,Rorya,Discretion,3,Bukura,"Bwiri,Bwiri",Bwiri B,1,1,1,1,1
+RCT1149,Rorya,Sub-village,2,Mkoma,Obwere,Bondeni,1,1,0,0,1
+1.14E+14,Rorya,Sub-village,2,Mkoma,Obwere,Bondeni,1,1,1,1,1
+RCT0056,Tarime,pulse,0,Nyamwaga,Nyamwaga,Nyamwaga Senta,1,0,1,0,0
+RCT0054,Tarime,pulse,0,Nyamwaga,Nyamwaga,Nyamwaga Senta,1,1,1,1,1
+RCT0051,Tarime,pulse,0,Nyamwaga,Nyamwaga,Nyamwaga Senta,1,1,1,1,1
+RCT0050,Tarime,pulse,0,Nyamwaga,Nyamwaga,Makerero,1,1,1,1,1
+RCT0048,Tarime,pulse,0,Nyamwaga,Nyamwaga,Makerero,1,0,1,0,0
+RCT0046,Tarime,pulse,0,Nyamwaga,Nyamwaga,Makerero,1,1,1,1,1
+RCT0043,Tarime,pulse,0,Nyamwaga,Nyamwaga,Makerero,1,1,1,1,1
+RCT0042,Tarime,pulse,0,Nyamwaga,Nyamwaga,Makerero,1,0,1,0,0
+RCT0038,Tarime,pulse,0,Nyamwaga,Nyamwaga,Mesero,1,0,0,0,0
+RCT0034,Tarime,pulse,0,Nyamwaga,Nyamwaga,Mesero,1,1,0,0,0
+RCT0033,Tarime,pulse,0,Nyamwaga,Nyamwaga,Mesero,1,1,1,1,1
+RCT0032,Tarime,pulse,0,Nyamwaga,Nyamwaga,Mesero,1,1,0,0,1
+RCT1157,Rorya,Sub-village,2,Mkoma,Obwere,Nyamatheng'eng'e,1,1,1,1,1
+RCT1156,Rorya,Sub-village,2,Mkoma,Obwere,Nyamatheng'eng'e,1,1,0,0,0
+RCT1155,Rorya,Sub-village,2,Mkoma,Obwere,Nyamatheng'eng'e,1,0,1,0,0
+RCT1152,Rorya,Sub-village,2,Mkoma,Obwere,Nyamatheng'eng'e,1,0,1,0,0
+RCT1151,Rorya,Sub-village,2,Mkoma,Obwere,Nyamatheng'eng'e,1,1,1,1,1
+RCT1162,Rorya,Sub-village,2,Mkoma,Obwere,Kandege,1,0,1,0,0
+RCT1160,Rorya,Sub-village,2,Mkoma,Obwere,Kandege,1,0,1,0,0
+RCT1179,Rorya,Sub-village,2,Mkoma,Michire,Okebe,1,1,1,1,1
+RCT1178,Rorya,Sub-village,2,Mkoma,Michire,Okebe,1,1,1,1,1
+RCT1177,Rorya,Sub-village,2,Mkoma,Michire,Okebe,1,1,0,0,1
+RCT1176,Rorya,Sub-village,2,Mkoma,Michire,Okebe,1,1,1,1,1
+RCT1175,Rorya,Sub-village,2,Mkoma,Michire,Okebe,1,0,1,0,0
+RCT1174,Rorya,Sub-village,2,Mkoma,Michire,Okebe,1,1,0,0,1
+RCT1173,Rorya,Sub-village,2,Mkoma,Michire,Okebe,1,0,1,0,0
+RCT1171,Rorya,Sub-village,2,Mkoma,Michire,Okebe,1,1,1,0,1
+RCT0617,Butiama,Village,1,Buswahili,Wegero,Nyirobi B,1,0,1,0,0
+RCT0615,Butiama,Village,1,Buswahili,Wegero,Nyirobi B,1,1,1,1,1
+RCT0610,Butiama,Village,1,Buswahili,Wegero,Kitorare A,1,1,1,1,1
+RCT0608,Butiama,Village,1,Buswahili,Wegero,Kitorare A,1,1,1,1,1
+RCT0606,Butiama,Village,1,Buswahili,Wegero,Kitorare A,1,1,1,1,1
+RCT0603,Butiama,Village,1,Buswahili,Wegero,Kitorare A,1,1,1,1,1
+RCT0601,Butiama,Village,1,Buswahili,Wegero,Kitorare A,1,0,1,0,0
+RCT0598,Butiama,Village,1,Buswahili,Wegero,Nyirema,1,0,1,0,0
+RCT0590,Butiama,Village,1,Buswahili,Kongoto,Senta,1,1,1,1,1
+RCT0587,Butiama,Village,1,Buswahili,Kongoto,Senta,1,0,1,0,0
+RCT0584,Butiama,Village,1,Buswahili,Kongoto,Senta,1,0,1,0,0
+RCT0583,Butiama,Village,1,Buswahili,Kongoto,Senta,1,0,1,0,0
+RCT0581,Butiama,Village,1,Buswahili,Kongoto,Senta,1,1,1,1,0
+RCT0572,Butiama,Village,1,Buswahili,Kongoto,Kiabakari B,1,0,1,0,0
+RCT0571,Butiama,Village,1,Buswahili,Kongoto,Kiabakari B,1,1,1,1,1
+RCT1197,Rorya,Sub-village,2,Mkoma,Michire,Matangwe A,1,1,1,1,1
+RCT1197,Rorya,Sub-village,2,Mkoma,Michire,Matangwe A,1,1,1,1,1
+RCT1197,Rorya,Sub-village,2,Mkoma,Michire,Matangwe A,1,1,1,1,1
+RCT1197,Rorya,Sub-village,2,Mkoma,Michire,Matangwe A,1,1,1,1,1
+RCT1198,Rorya,Sub-village,2,Mkoma,Michire,Matangwe A,1,1,1,1,1
+RCT1198,Rorya,Sub-village,2,Mkoma,Michire,Matangwe A,1,1,1,1,1
+RCT1198,Rorya,Sub-village,2,Mkoma,Michire,Matangwe A,1,1,1,1,1
+RCT1198,Rorya,Sub-village,2,Mkoma,Michire,Matangwe A,1,1,1,1,1
+RCT1200,Rorya,Sub-village,2,Mkoma,Michire,Matangwe A,1,1,1,1,1
+RCT1200,Rorya,Sub-village,2,Mkoma,Michire,Matangwe A,1,1,1,1,1
+RCT1193,Rorya,Sub-village,2,Mkoma,Michire,Matangwe A,1,1,1,1,1
+RCT1193,Rorya,Sub-village,2,Mkoma,Michire,Matangwe A,1,1,1,1,1
+RCT1191,Rorya,Sub-village,2,Mkoma,Michire,Matangwe A,1,1,1,1,1
+RCT1191,Rorya,Sub-village,2,Mkoma,Michire,Matangwe A,1,1,1,1,1
+RCT1190,Rorya,Sub-village,2,Mkoma,Michire,Matangwe A,1,1,1,1,1
+RCT1190,Rorya,Sub-village,2,Mkoma,Michire,Matangwe A,1,1,1,1,1
+RCT1189,Rorya,Sub-village,2,Mkoma,Michire,Ziwani,1,0,1,0,0
+RCT1188,Rorya,Sub-village,2,Mkoma,Michire,Ziwani,1,0,1,0,0
+RCT1187,Rorya,Sub-village,2,Mkoma,Michire,Ziwani,1,1,1,1,0
+RCT1186,Rorya,Sub-village,2,Mkoma,Michire,Ziwani,1,1,0,0,1
+RCT1185,Rorya,Sub-village,2,Mkoma,Michire,Ziwani,1,1,1,1,1
+RCT1184,Rorya,Sub-village,2,Mkoma,Michire,Ziwani,1,1,1,1,1
+RCT1210,Rorya,Sub-village,2,Mkoma,Kabwana,Nyakina,1,0,1,0,0
+RCT1208,Rorya,Sub-village,2,Mkoma,Kabwana,Nyakina,1,0,1,0,0
+RCT1204,Rorya,Sub-village,2,Mkoma,Kabwana,Nyakina,1,1,1,1,1
+RCT1202,Rorya,Sub-village,2,Mkoma,Kabwana,Nyakina,1,1,1,1,1
+RCT0501,Rorya,Discretion,3,Bukura,Nyambori,Vunja Amri,1,1,1,1,1
+RCT0528,Rorya,Discretion,3,Bukura,Nyambori,Zahanati,1,1,1,1,1
+RCT0526,Rorya,Discretion,3,Bukura,Nyambori,Zahanati,1,1,1,1,0
+RCT0523,Rorya,Discretion,3,Bukura,Nyambori,Zahanati,1,1,1,1,1
+RCT0522,Rorya,Discretion,3,Bukura,Nyambori,Zahanati,1,1,1,1,1
+RCT0521,Rorya,Discretion,3,Bukura,Nyambori,Zahanati,1,1,1,1,0
+RCT0538,Rorya,Discretion,3,Bukura,Thabache,Obembe,1,1,1,1,0
+RCT0537,Rorya,Discretion,3,Bukura,Thabache,Obembe,1,0,1,0,0
+RCT0535,Rorya,Discretion,3,Bukura,Thabache,Obembe,1,1,1,1,1
+RCT0534,Rorya,Discretion,3,Bukura,Thabache,Obembe,1,0,1,0,0
+RCT0532,Rorya,Discretion,3,Bukura,Thabache,Obembe,1,1,1,1,1
+RCT0531,Rorya,Discretion,3,Bukura,Thabache,Obembe,1,1,1,1,1
+RCT0542,Rorya,Discretion,3,Bukura,Thabache,Shauri_yako,1,0,1,0,0
+RCT0560,Rorya,Discretion,3,Bukura,Thabache,Korino,1,0,1,0,0
+RCT0559,Rorya,Discretion,3,Bukura,Thabache,Korino,1,0,1,0,0
+RCT0557,Rorya,Discretion,3,Bukura,Thabache,Korino,1,0,1,0,0
+RCT0556,Rorya,Discretion,3,Bukura,Thabache,Korino,1,1,1,1,1
+RCT0555,Rorya,Discretion,3,Bukura,Thabache,Korino,1,1,1,1,1
+RCT0554,Rorya,Discretion,3,Bukura,Thabache,Korino,1,1,1,1,1
+RCT0553,Rorya,Discretion,3,Bukura,Thabache,Korino,1,0,1,0,0
+RCT0551,Rorya,Discretion,3,Bukura,Thabache,Korino,1,0,1,0,0
+RCT0569,Butiama,Village,1,Buswahili,Kongoto,Kiabakari A,1,1,1,1,1
+RCT0568,Butiama,Village,1,Buswahili,Kongoto,Kiabakari A,1,1,1,1,1
+RCT0567,Butiama,Village,1,Buswahili,Kongoto,Kiabakari A,1,1,1,1,1
+RCT0566,Butiama,Village,1,Buswahili,Kongoto,Kiabakari A,1,0,1,0,0
+RCT0563,Butiama,Village,1,Buswahili,Kongoto,Kiabakari A,1,1,1,1,1
+RCT0630,Butiama,Village,1,Buswahili,Buswahili,Mtukula,1,1,1,1,1
+RCT0629,Butiama,Village,1,Buswahili,Buswahili,Mtukula,1,1,1,1,1
+RCT0624,Butiama,Village,1,Buswahili,Buswahili,Mtukula,1,1,1,1,1
+RCT0639,Butiama,Village,1,Buswahili,Buswahili,Biafra,1,1,1,0,1
+RCT0637,Butiama,Village,1,Buswahili,Buswahili,Biafra,1,0,1,0,0
+RCT0633,Butiama,Village,1,Buswahili,Buswahili,Biafra,1,1,1,1,1
+RCT0632,Butiama,Village,1,Buswahili,Buswahili,Biafra,1,0,1,0,0
+RCT0644,Butiama,Village,1,Buswahili,Buswahili,Kigumi,1,0,1,0,0
+RCT1221,Rorya,Sub-village,2,Mkoma,Kabwana,Kabwana,1,1,1,1,1
+RCT1220,Rorya,Sub-village,2,Mkoma,Kabwana,Kabwana,1,1,1,1,1
+RCT1219,Rorya,Sub-village,2,Mkoma,Kabwana,Kabwana,1,1,1,1,1
+RCT1218,Rorya,Sub-village,2,Mkoma,Kabwana,Kabwana,1,1,1,1,1
+RCT1217,Rorya,Sub-village,2,Mkoma,Kabwana,Kabwana,1,1,1,1,1
+RCT1214,Rorya,Sub-village,2,Mkoma,Kabwana,Kabwana,1,0,1,0,0
+RCT1211,Rorya,Sub-village,2,Mkoma,Kabwana,Kabwana,1,1,1,1,1
+RCT1229,Rorya,Sub-village,2,Mkoma,Kabwana,Ryangubo,1,0,1,0,0
+RCT1228,Rorya,Sub-village,2,Mkoma,Kabwana,Ryangubo,1,1,2,1,1
+RCT1227,Rorya,Sub-village,2,Mkoma,Kabwana,Ryangubo,1,1,1,1,1
+RCT1225,Rorya,Sub-village,2,Mkoma,Kabwana,Ryangubo,1,1,1,1,1
+RCT1224,Rorya,Sub-village,2,Mkoma,Kabwana,Ryangubo,1,1,1,1,1
+RCT0668,Butiama,Village,1,Buswahili,Baranga,Kwisangura A,1,0,1,0,0
+RCT0667,Butiama,Village,1,Buswahili,Baranga,Kwisangura A,1,1,1,1,1
+RCT0664,Butiama,Village,1,Buswahili,Baranga,Kwisangura A,1,1,1,1,1
+RCT0070,Tarime,Sub-village,2,Nyanungu,Nyamombara,Mumwamu,1,0,1,0,0
+RCT0068,Tarime,Sub-village,2,Nyanungu,Nyamombara,Mumwamu,1,1,1,1,1
+RCT0067,Tarime,Sub-village,2,Nyanungu,Nyamombara,Mumwamu,1,0,0,0,0
+RCT0087,Tarime,Sub-village,2,Nyanungu,Nyamombara,Mumwamu,1,1,1,1,1
+RCT0064,Tarime,Sub-village,2,Nyanungu,Nyamombara,Mumwamu,1,1,1,0,1
+RCT0086,Tarime,Sub-village,2,Nyanungu,Nyamombara,Nyanungu,1,1,1,1,1
+RCT0084,Tarime,Sub-village,2,Nyanungu,Nyamombara,Nyanungu,1,1,1,1,1
+RCT0083,Tarime,Sub-village,2,Nyanungu,Nyamombara,Nyanungu,1,1,1,1,1
+RCT0061,Tarime,Sub-village,2,Nyanungu,Nyamombara,Nyanungu,1,1,0,0,1
+RCT0080,Tarime,Sub-village,2,Nyanungu,Nyamombara,Getena,1,1,1,1,1
+RCT0081,Tarime,Sub-village,2,Nyanungu,Nyamombara,Nyanungu,1,1,1,1,1
+RCT0072,Tarime,Sub-village,2,Nyanungu,Nyamombara,Getena,1,1,1,0,1
+RCT0690,Butiama,Sub-village,2,Sirorisimba,Sirorisimba,Mtukula,1,0,1,0,0
+RCT0689,Butiama,Sub-village,2,Sirorisimba,Sirorisimba,Mtukula,1,0,1,0,0
+RCT0688,Butiama,Sub-village,2,Sirorisimba,Sirorisimba,Mtukula,1,1,1,1,1
+RCT0686,Butiama,Sub-village,2,Sirorisimba,Sirorisimba,Mtukula,1,1,1,1,1
+RCT0698,Butiama,Sub-village,2,Sirorisimba,Sirorisimba,Bitotoni,1,1,1,1,1
+RCT0696,Butiama,Sub-village,2,Sirorisimba,Sirorisimba,Bitotoni,1,0,1,0,0
+RCT0693,Butiama,Sub-village,2,Sirorisimba,Sirorisimba,Bitotoni,1,1,1,1,1
+RCT0709,Butiama,Sub-village,2,Sirorisimba,Sirorisimba,Senta B,1,1,1,1,1
+RCT0703,Butiama,Sub-village,2,Sirorisimba,Sirorisimba,Senta B,1,0,1,0,0
+RCT0702,Butiama,Sub-village,2,Sirorisimba,Sirorisimba,Senta B,1,1,1,1,1
+RCT0728,Butiama,Sub-village,2,Sirorisimba,Nyambili,Majengo,1,0,1,0,0
+RCT0727,Butiama,Sub-village,2,Sirorisimba,Nyambili,Majengo,1,0,1,0,0
+RCT0720,Butiama,Sub-village,2,Sirorisimba,Nyambili,Nyandewa,1,1,1,1,1
+RCT0719,Butiama,Sub-village,2,Sirorisimba,Nyambili,Nyandewa,1,1,1,1,1
+RCT0715,Butiama,Sub-village,2,Sirorisimba,Nyambili,Nyandewa,1,1,1,1,1
+RCT0149,Tarime,Sub-village,2,Nyanungu,Kegonga,Kwibate,1,1,0,0,1
+RCT0147,Tarime,Sub-village,2,Nyanungu,Kegonga,Kwibate,1,1,1,1,1
+RCT0146,Tarime,Sub-village,2,Nyanungu,Kegonga,Kwibate,1,1,1,1,1
+RCT0144,Tarime,Sub-village,2,Nyanungu,Kegonga,Kwibate,1,1,1,1,1
+RCT0143,Tarime,Sub-village,2,Nyanungu,Kegonga,Kwibate,1,1,1,1,1
+RCT0136,Tarime,Sub-village,2,Nyanungu,Kegonga,Isorya,1,1,1,1,1
+RCT0132,Tarime,Sub-village,2,Nyanungu,Kegonga,Isorya,1,1,1,1,1
+RCT0131,Tarime,Sub-village,2,Nyanungu,Kegonga,Isorya,1,0,1,0,0
+RCT0128,Tarime,Sub-village,2,Nyanungu,Kegonga,Borasa,1,1,1,1,1
+RCT0127,Tarime,Sub-village,2,Nyanungu,Kegonga,Borasa,1,1,1,1,1
+RCT0126,Tarime,Sub-village,2,Nyanungu,Kegonga,Borasa,1,1,1,1,1
+RCT0124,Tarime,Sub-village,2,Nyanungu,Kegonga,Borasa,1,1,1,1,1
+RCT0123,Tarime,Sub-village,2,Nyanungu,Kegonga,Borasa,1,1,1,0,1
+RCT0122,Tarime,Sub-village,2,Nyanungu,Kegonga,Borasa,1,1,1,0,1
+RCT0121,Tarime,Sub-village,2,Nyanungu,Kegonga,Borasa,1,1,1,1,1
+RCT0120,Tarime,Sub-village,2,Nyanungu,Mangucha,Kebose,1,1,1,1,1
+RCT0119,Tarime,Sub-village,2,Nyanungu,Mangucha,Kebose,1,1,1,1,1
+RCT0118,Tarime,Sub-village,2,Nyanungu,Mangucha,Kebose,1,1,1,1,1
+RCT0117,Tarime,Sub-village,2,Nyanungu,Mangucha,Kebose,1,1,1,1,1
+RCT0115,Tarime,Sub-village,2,Nyanungu,Mangucha,Kebose,1,0,1,0,0
+RCT0114,Tarime,Sub-village,2,Nyanungu,Mangucha,Kebose,1,1,1,1,1
+RCT0112,Tarime,Sub-village,2,Nyanungu,Mangucha,Kebose,1,1,1,1,1
+RCT0110,Tarime,Sub-village,2,Nyanungu,Mangucha,Ikorongo,1,1,1,1,1
+RCT0108,Tarime,Sub-village,2,Nyanungu,Mangucha,Ikorongo,1,1,1,1,1
+RCT0107,Tarime,Sub-village,2,Nyanungu,Mangucha,Ikorongo,1,1,1,1,1
+RCT0106,Tarime,Sub-village,2,Nyanungu,Mangucha,Ikorongo,1,1,1,1,1
+RCT0104,Tarime,Sub-village,2,Nyanungu,Mangucha,Ikorongo,1,1,1,1,1
+RCT0103,Tarime,Sub-village,2,Nyanungu,Mangucha,Ikorongo,1,1,1,1,1
+RCT0100,Tarime,Sub-village,2,Nyanungu,Mangucha,Manguncha Senta,1,0,1,0,0
+RCT0096,Tarime,Sub-village,2,Nyanungu,Mangucha,Manguncha Senta,1,1,1,0,1
+RCT0093,Tarime,Sub-village,2,Nyanungu,Mangucha,Manguncha Senta,1,0,1,0,0
+RCT0739,Butiama,Sub-village,2,Sirorisimba,Nyambili,Komachare,1,0,1,0,0
+RCT0734,Butiama,Sub-village,2,Sirorisimba,Nyambili,Komachare,1,0,1,0,0
+RCT0733,Butiama,Sub-village,2,Sirorisimba,Nyambili,Komachare,1,0,1,0,0
+RCT0760,Butiama,Sub-village,2,Sirorisimba,Rwasereta,Rwasereta,1,1,1,1,1
+RCT0759,Butiama,Sub-village,2,Sirorisimba,Rwasereta,Rwasereta,1,1,1,1,1
+RCT0745,Butiama,Sub-village,2,Sirorisimba,Rwasereta,Komaraha,1,0,1,0,0
+RCT0744,Butiama,Sub-village,2,Sirorisimba,Rwasereta,Komaraha,1,0,1,0,0
+RCT0179,Tarime,Discretion,3,Itiryo,Nyankoni,Tisya,1,1,1,1,1
+RCT0178,Tarime,Discretion,3,Itiryo,Nyankoni,Tisya,1,1,1,1,1
+RCT0177,Tarime,Discretion,3,Itiryo,Nyankoni,Tisya,1,1,1,1,1
+RCT0174,Tarime,Discretion,3,Itiryo,Nyankoni,Tisya,1,1,1,1,1
+RCT0172,Tarime,Discretion,3,Itiryo,Nyankoni,Tisya,1,1,1,1,1
+RCT0171,Tarime,Discretion,3,Itiryo,Nyankoni,Tisya,1,1,1,1,1
+RCT0167,Tarime,Discretion,3,Itiryo,Nyankoni,Nyankoni,1,1,1,1,1
+RCT0166,Tarime,Discretion,3,Itiryo,Nyankoni,Nyankoni,1,1,1,1,1
+RCT0165,Tarime,Discretion,3,Itiryo,Nyankoni,Nyankoni,1,0,1,0,0
+RCT0164,Tarime,Discretion,3,Itiryo,Nyankoni,Nyankoni,1,1,1,1,1
+RCT0163,Tarime,Discretion,3,Itiryo,Nyankoni,Nyankoni,1,1,1,1,1
+RCT0158,Tarime,Discretion,3,Itiryo,Nyankoni,Gitimama,1,1,1,1,1
+RCT0156,Tarime,Discretion,3,Itiryo,Nyankoni,Gitimama,1,1,1,1,1
+RCT0154,Tarime,Discretion,3,Itiryo,Nyankoni,Gitimama,1,1,1,1,1
+RCT0770,Butiama,Sub-village,2,Sirorisimba,Rwasereta,Kitaramanka,1,1,1,1,1
+RCT0768,Butiama,Sub-village,2,Sirorisimba,Rwasereta,Kitaramanka,1,1,1,1,1
+RCT0765,Butiama,Sub-village,2,Sirorisimba,Rwasereta,Kitaramanka,1,0,1,0,0
+RCT0762,Butiama,Sub-village,2,Sirorisimba,Rwasereta,Kitaramanka,1,1,1,1,1
+RCT0780,Butiama,Sub-village,2,Sirorisimba,Kitaramanka,Mwiringo,1,1,1,1,1
+RCT0774,Butiama,Sub-village,2,Sirorisimba,Kitaramanka,Mwiringo,1,1,1,1,1
+RCT0773,Butiama,Sub-village,2,Sirorisimba,Kitaramanka,Mwiringo,1,1,1,1,1
+RCT0787,Butiama,Sub-village,2,Sirorisimba,Kitaramanka,Kyamaiha,1,0,1,0,0
+RCT0785,Butiama,Sub-village,2,Sirorisimba,Kitaramanka,Kyamaiha,1,1,1,1,1
+RCT0781,Butiama,Sub-village,2,Sirorisimba,Kitaramanka,Kyamaiha,1,0,1,0,0
+RCT0797,Butiama,Sub-village,2,Sirorisimba,Kitaramanka,Nyamimange,1,1,1,1,1
+RCT0795,Butiama,Sub-village,2,Sirorisimba,Kitaramanka,Nyamimange,1,0,1,0,0
+RCT0794,Butiama,Sub-village,2,Sirorisimba,Kitaramanka,Nyamimange,1,0,1,0,0
+RCT0793,Butiama,Sub-village,2,Sirorisimba,Kitaramanka,Nyamimange,1,1,1,1,1
+RCT0792,Butiama,Sub-village,2,Sirorisimba,Kitaramanka,Nyamimange,1,1,1,1,1
+RCT0810,Butiama,Discretion,3,Nyamimange,Kyankoma,Kabwasi,1,0,1,0,0
+RCT0809,Butiama,Discretion,3,Nyamimange,Kyankoma,Kabwasi,1,1,1,1,1
+RCT0803,Butiama,Discretion,3,Nyamimange,Kyankoma,Kabwasi,1,0,1,0,0
+RCT0814,Butiama,Discretion,3,Nyamimange,Kyankoma,Sania,1,1,1,1,1
+RCT0813,Butiama,Discretion,3,Nyamimange,Kyankoma,Sania,1,0,1,0,0
+RCT0839,Butiama,Discretion,3,Nyamimange,Kwisaro,Nyamsense,1,1,1,1,1
+RCT0836,Butiama,Discretion,3,Nyamimange,Kwisaro,Nyamsense,1,0,1,0,0
+RCT0834,Butiama,Discretion,3,Nyamimange,Kwisaro,Nyamsense,1,1,1,1,1
+RCT0832,Butiama,Discretion,3,Nyamimange,Kwisaro,Nyamsense,1,0,1,0,0
+RCT0829,Butiama,Discretion,3,Nyamimange,Kyankoma,Mtakuja,1,1,1,1,1
+RCT0826,Butiama,Discretion,3,Nyamimange,Kyankoma,Mtakuja,1,0,1,0,0
+RCT0825,Butiama,Discretion,3,Nyamimange,Kyankoma,Mtakuja,1,0,1,0,0
+RCT0844,Butiama,Discretion,3,Nyamimange,Kwisaro,Ikongo la Kisyeri,1,0,1,0,0
+RCT0841,Butiama,Discretion,3,Nyamimange,Kwisaro,Ikongo la Kisyeri,1,1,1,1,1
+RCT0190,Tarime,Discretion,3,Itiryo,Kangariani,"Isago,Isago",1,1,1,1,1
+RCT0188,Tarime,Discretion,3,Itiryo,Kangariani,"Isago,Isago",1,1,1,1,1
+RCT0187,Tarime,Discretion,3,Itiryo,Kangariani,"Isago,Isago",1,1,1,0,1
+RCT0184,Tarime,Discretion,3,Itiryo,Kangariani,"Isago,Isago",1,0,1,0,0
+RCT0183,Tarime,Discretion,3,Itiryo,Kangariani,"Isago,Isago",1,0,1,0,0
+RCT0182,Tarime,Discretion,3,Itiryo,Kangariani,"Isago,Isago",1,1,1,1,1
+RCT0198,Tarime,Discretion,3,Itiryo,Kangariani,Kangariani senta,1,1,1,1,1
+RCT0206,Tarime,Discretion,3,Itiryo,Kangariani,Birira,1,1,0,0,0
+RCT0197,Tarime,Discretion,3,Itiryo,Kangariani,Kangariani senta,1,0,1,0,0
+RCT0196,Tarime,Discretion,3,Itiryo,Kangariani,Kangariani senta,1,1,1,1,0
+RCT0203,Tarime,Discretion,3,Itiryo,Kangariani,Birira,1,1,0,0,1
+RCT0202,Tarime,Discretion,3,Itiryo,Kangariani,Birira,1,1,1,1,0
+RCT0192,Tarime,Discretion,3,Itiryo,Kangariani,Kangariani senta,1,1,0,0,1
+RCT0191,Tarime,Discretion,3,Itiryo,Kangariani,Kangariani senta,1,1,1,1,1
+RCT1262,Rorya,pulse,0,Komuge,Kuruya,Senta,1,1,1,1,1
+RCT1260,Rorya,pulse,0,Komuge,Kuruya,Senta,1,0,1,1,0
+RCT1257,Rorya,pulse,0,Komuge,Kuruya,Senta,1,1,1,1,1
+RCT1256,Rorya,pulse,0,Komuge,Kuruya,Senta,1,0,1,1,0
+RCT1254,Rorya,pulse,0,Komuge,Kuruya,Senta,1,1,1,0,1
+RCT1232,Rorya,pulse,0,Komuge,Kuruya,Senta,1,0,1,0,0
+RCT1242,Rorya,pulse,0,Komuge,Kuruya,Songambele,1,1,1,1,0
+RCT1252,Rorya,pulse,0,Komuge,Kuruya,Shule,1,1,1,1,1
+RCT1250,Rorya,pulse,0,Komuge,Kuruya,Shule,1,1,1,1,1
+RCT1249,Rorya,pulse,0,Komuge,Kuruya,Shule,1,0,1,0,0
+RCT1248,Rorya,pulse,0,Komuge,Kuruya,Shule,1,0,1,0,0
+RCT1246,Rorya,pulse,0,Komuge,Kuruya,Shule,1,1,1,1,1
+RCT1245,Rorya,pulse,0,Komuge,Kuruya,Shule,1,0,1,0,0
+RCT0855,Butiama,Discretion,3,Nyamimange,Kwisaro,Kiagata Ndogo,1,1,1,1,1
+RCT0854,Butiama,Discretion,3,Nyamimange,Kwisaro,Kiagata Ndogo,1,1,1,1,1
+RCT0852,Butiama,Discretion,3,Nyamimange,Kwisaro,Kiagata Ndogo,1,0,1,0,0
+RCT0868,Butiama,pulse,0,Masaba,Bisarye,Nyabitaramanka,1,0,1,0,0
+RCT0866,Butiama,pulse,0,Masaba,Bisarye,Nyabitaramanka,1,0,1,0,0
+RCT0864,Butiama,pulse,0,Masaba,Bisarye,Nyabitaramanka,1,0,1,0,0
+RCT0879,Butiama,pulse,0,Masaba,Bisarye,Nyang'ombe,1,0,1,0,0
+RCT0878,Butiama,pulse,0,Masaba,Bisarye,Nyang'ombe,1,1,1,1,1
+RCT0873,Butiama,pulse,0,Masaba,Bisarye,Nyang'ombe,1,0,1,0,0
+RCT0871,Butiama,pulse,0,Masaba,Bisarye,Nyang'ombe,1,0,1,0,0
+RCT0238,Tarime,Discretion,3,Itiryo,Itiryo,Senta,1,1,0,0,1
+RCT0236,Tarime,Discretion,3,Itiryo,Itiryo,Senta,1,1,0,0,1
+RCT0235,Tarime,Discretion,3,Itiryo,Itiryo,Senta,1,1,1,1,0
+RCT0234,Tarime,Discretion,3,Itiryo,Itiryo,Senta,1,0,1,0,0
+RCT0233,Tarime,Discretion,3,Itiryo,Itiryo,Senta,1,1,1,1,1
+RCT0232,Tarime,Discretion,3,Itiryo,Itiryo,Senta,1,0,0,0,0
+RCT0230,Tarime,Discretion,3,Itiryo,Itiryo,Nyaitebe,1,0,1,0,0
+RCT0229,Tarime,Discretion,3,Itiryo,Itiryo,Nyaitebe,1,0,1,0,0
+RCT0227,Tarime,Discretion,3,Itiryo,Itiryo,Nyaitebe,1,1,0,0,1
+RCT0225,Tarime,Discretion,3,Itiryo,Itiryo,Nyaitebe,1,1,0,0,1
+RCT0224,Tarime,Discretion,3,Itiryo,Itiryo,Nyaitebe,1,1,1,0,1
+RCT0220,Tarime,Discretion,3,Itiryo,Itiryo,Manyata,1,1,0,0,0
+RCT0220,Tarime,Discretion,3,Itiryo,Itiryo,Manyata,1,1,0,0,0
+RCT0220,Tarime,Discretion,3,Itiryo,Itiryo,Manyata,1,1,0,0,0
+RCT0220,Tarime,Discretion,3,Itiryo,Itiryo,Manyata,1,1,0,0,0
+RCT0219,Tarime,Discretion,3,Itiryo,Itiryo,Manyata,1,0,1,0,0
+RCT0219,Tarime,Discretion,3,Itiryo,Itiryo,Manyata,1,0,1,0,0
+RCT0219,Tarime,Discretion,3,Itiryo,Itiryo,Manyata,1,0,1,0,0
+RCT0219,Tarime,Discretion,3,Itiryo,Itiryo,Manyata,1,0,1,0,0
+RCT0218,Tarime,Discretion,3,Itiryo,Itiryo,Manyata,1,0,1,0,0
+RCT0218,Tarime,Discretion,3,Itiryo,Itiryo,Manyata,1,0,1,0,0
+RCT0216,Tarime,Discretion,3,Itiryo,Itiryo,Manyata,1,1,1,1,1
+RCT0216,Tarime,Discretion,3,Itiryo,Itiryo,Manyata,1,1,1,1,1
+RCT0212,Tarime,Discretion,3,Itiryo,Itiryo,Manyata,1,1,1,1,0
+RCT0212,Tarime,Discretion,3,Itiryo,Itiryo,Manyata,1,1,1,1,0
+RCT0211,Tarime,Discretion,3,Itiryo,Itiryo,Manyata,1,1,1,1,1
+RCT0211,Tarime,Discretion,3,Itiryo,Itiryo,Manyata,1,1,1,1,1
+RCT0888,Butiama,pulse,0,Masaba,Bisarye,Kurutambi,1,0,1,0,0
+RCT0882,Butiama,pulse,0,Masaba,Bisarye,Kurutambi,1,0,1,0,0
+RCT0893,Butiama,pulse,0,Masaba,Nyansirori,Nyansirori,1,0,1,0,0
+RCT0892,Butiama,pulse,0,Masaba,Nyansirori,Nyansirori,1,0,1,0,0
+RCT0891,Butiama,pulse,0,Masaba,Nyansirori,Nyansirori,1,1,1,1,1
+RCT0905,Butiama,pulse,0,Masaba,Nyansirori,Nyamurasa,1,1,1,1,1
+RCT0904,Butiama,pulse,0,Masaba,Nyansirori,Nyamurasa,1,0,1,0,0
+RCT0902,Butiama,pulse,0,Masaba,Nyansirori,Nyamurasa,1,1,1,1,1
+RCT0269,Tarime,Village,1,Gorong a,Kenyamosabi,Kiobhoke,1,1,1,1,1
+RCT0268,Tarime,Village,1,Gorong a,Kenyamosabi,Kiobhoke,1,0,1,0,0
+RCT0267,Tarime,Village,1,Gorong a,Kenyamosabi,Kiobhoke,1,0,1,0,0
+RCT0266,Tarime,Village,1,Gorong a,Kenyamosabi,Kiobhoke,1,1,1,1,1
+RCT0264,Tarime,Village,1,Gorong a,Kenyamosabi,Kiobhoke,1,1,1,1,1
+RCT0262,Tarime,Village,1,Gorong a,Kenyamosabi,Kiobhoke,1,1,1,1,1
+RCT0261,Tarime,Village,1,Gorong a,Kenyamosabi,Kiobhoke,1,1,1,1,1
+RCT0260,Tarime,Village,1,Gorong a,Kenyamosabi,Nyamagongwe,1,0,1,0,0
+RCT0258,Tarime,Village,1,Gorong a,Kenyamosabi,Nyamagongwe,1,1,1,1,1
+RCT0257,Tarime,Village,1,Gorong a,Kenyamosabi,Nyamagongwe,1,1,1,1,1
+RCT0252,Tarime,Village,1,Gorong a,Kenyamosabi,Nyamagongwe,1,1,1,1,1
+RCT0249,Tarime,Village,1,Gorong a,Kenyamosabi,Ngonche,1,1,1,1,1
+RCT0243,Tarime,Village,1,Gorong a,Kenyamosabi,Ngonche,1,1,1,1,1
+RCT0241,Tarime,Village,1,Gorong a,Kenyamosabi,Ngonche,1,1,1,1,1
+RCT0920,Butiama,pulse,0,Masaba,Nyansirori,Chamasabeta,1,0,1,0,0
+RCT0920,Butiama,pulse,0,Masaba,Nyansirori,Chamasabeta,1,0,1,0,0
+RCT0920,Butiama,pulse,0,Masaba,Nyansirori,Chamasabeta,1,0,1,0,0
+RCT0920,Butiama,pulse,0,Masaba,Nyansirori,Chamasabeta,1,0,1,0,0
+RCT0919,Butiama,pulse,0,Masaba,Nyansirori,Chamasabeta,1,0,1,0,0
+RCT0919,Butiama,pulse,0,Masaba,Nyansirori,Chamasabeta,1,0,1,0,0
+RCT0919,Butiama,pulse,0,Masaba,Nyansirori,Chamasabeta,1,0,1,0,0
+RCT0919,Butiama,pulse,0,Masaba,Nyansirori,Chamasabeta,1,0,1,0,0
+RCT0916,Butiama,pulse,0,Masaba,Nyansirori,Chamasabeta,1,0,1,0,0
+RCT0916,Butiama,pulse,0,Masaba,Nyansirori,Chamasabeta,1,0,1,0,0
+RCT0913,Butiama,pulse,0,Masaba,Nyansirori,Chamasabeta,1,0,1,0,0
+RCT0913,Butiama,pulse,0,Masaba,Nyansirori,Chamasabeta,1,0,1,0,0
+RCT0912,Butiama,pulse,0,Masaba,Nyansirori,Chamasabeta,1,1,1,1,1
+RCT0912,Butiama,pulse,0,Masaba,Nyansirori,Chamasabeta,1,1,1,1,1
+RCT0911,Butiama,pulse,0,Masaba,Nyansirori,Chamasabeta,1,1,1,1,1
+RCT0911,Butiama,pulse,0,Masaba,Nyansirori,Chamasabeta,1,1,1,1,1
+RCT1271,Rorya,pulse,0,Komuge,Irienyi,Nyakatende,1,1,1,1,1
+RCT1270,Rorya,pulse,0,Komuge,Irienyi,Nyakatende,1,1,1,1,1
+RCT1269,Rorya,pulse,0,Komuge,Irienyi,Nyakatende,1,0,1,0,0
+RCT1301,Rorya,pulse,0,Komuge,Komuge,Ngereri,1,0,1,0,0
+RCT1279,Rorya,pulse,0,Komuge,Irienyi,Ititwe,1,1,1,1,1
+RCT1276,Rorya,pulse,0,Komuge,Irienyi,Ititwe,1,0,1,0,0
+RCT1292,Rorya,pulse,0,Komuge,Irienyi,Malegeri,1,1,1,0,1
+RCT1291,Rorya,pulse,0,Komuge,Irienyi,Malegeri,1,0,1,0,0
+RCT1290,Rorya,pulse,0,Komuge,Irienyi,Malegeri,1,0,2,0,0
+RCT1289,Rorya,pulse,0,Komuge,Irienyi,Malegeri,1,0,1,1,0
+RCT0310,Tarime,Village,1,Gorong a,Masurura,Nyaichirichiri,1,1,1,1,1
+RCT0306,Tarime,Village,1,Gorong a,Masurura,Nyaichirichiri,1,0,1,0,0
+RCT0303,Tarime,Village,1,Gorong a,Masurura,Nyaichirichiri,1,0,1,0,0
+RCT0320,Tarime,Village,1,Gorong a,Masurura,Nyantare,1,1,1,0,1
+RCT0318,Tarime,Village,1,Gorong a,Masurura,Nyantare,1,1,1,1,1
+RCT0317,Tarime,Village,1,Gorong a,Masurura,Nyantare,1,0,1,0,0
+RCT0316,Tarime,Village,1,Gorong a,Masurura,Nyantare,1,0,1,0,0
+RCT0315,Tarime,Village,1,Gorong a,Masurura,Nyantare,1,0,1,0,0
+RCT0329,Tarime,Village,1,Gorong a,Masurura,Kemoseti,1,1,1,1,0
+RCT0328,Tarime,Village,1,Gorong a,Masurura,Kemoseti,1,0,1,0,0
+RCT0324,Tarime,Village,1,Gorong a,Masurura,Kemoseti,1,1,1,1,1
+RCT0323,Tarime,Village,1,Gorong a,Masurura,Kemoseti,1,1,1,1,1
+RCT0322,Tarime,Village,1,Gorong a,Masurura,Kemoseti,1,0,1,0,0
+RCT0300,Tarime,Village,1,Gorong a,Kitawasi,Kitawasi Senta,1,1,1,1,1
+RCT0297,Tarime,Village,1,Gorong a,Kitawasi,Kitawasi Senta,1,1,1,1,1
+RCT0296,Tarime,Village,1,Gorong a,Kitawasi,Kitawasi Senta,1,1,1,1,1
+RCT0290,Tarime,Village,1,Gorong a,Kitawasi,Remerera,1,0,1,0,0
+RCT0289,Tarime,Village,1,Gorong a,Kitawasi,Remerera,1,1,1,1,1
+RCT0287,Tarime,Village,1,Gorong a,Kitawasi,Remerera,1,1,1,1,1
+RCT0282,Tarime,Village,1,Gorong a,Kitawasi,Remerera,1,0,1,0,0
+RCT0281,Tarime,Village,1,Gorong a,Kitawasi,Remerera,1,0,1,0,0
+RCT0275,Tarime,Village,1,Gorong a,Kitawasi,Gibasisi,1,1,1,1,1
+RCT0273,Tarime,Village,1,Gorong a,Kitawasi,Gibasisi,1,1,1,1,1
+RCT0272,Tarime,Village,1,Gorong a,Kitawasi,Gibasisi,1,1,1,1,1
+RCT0349,Tarime,Village,1,Gorong a,Masanga,Nyamerama,1,1,1,1,1
+RCT0348,Tarime,Village,1,Gorong a,Masanga,Nyamerama,1,0,1,0,0
+RCT0347,Tarime,Village,1,Gorong a,Masanga,Nyamerama,1,1,1,1,1
+RCT0346,Tarime,Village,1,Gorong a,Masanga,Nyamerama,1,1,1,1,1
+RCT0344,Tarime,Village,1,Gorong a,Masanga,Nyamerama,1,1,1,1,1
+RCT0343,Tarime,Village,1,Gorong a,Masanga,Nyamerama,1,1,1,1,1
+RCT0342,Tarime,Village,1,Gorong a,Masanga,Nyamerama,1,1,1,1,1
+RCT0341,Tarime,Village,1,Gorong a,Masanga,Nyamerama,1,0,1,1,0
+RCT0340,Tarime,Village,1,Gorong a,Masanga,Kemosae,1,0,1,0,0
+RCT0339,Tarime,Village,1,Gorong a,Masanga,Kemosae,1,1,1,1,1
+RCT0338,Tarime,Village,1,Gorong a,Masanga,Kemosae,1,1,1,1,1
+RCT0337,Tarime,Village,1,Gorong a,Masanga,Kemosae,1,1,1,1,1
+RCT0334,Tarime,Village,1,Gorong a,Masanga,Kemosae,1,1,1,1,1
+RCT0333,Tarime,Village,1,Gorong a,Masanga,Kemosae,1,1,1,1,1
+RCT0332,Tarime,Village,1,Gorong a,Masanga,Kemosae,1,0,1,0,0
+RCT1351,Rorya,pulse,0,Komuge,Kyamwame,Kyabuganga,1,0,1,0,0
+RCT1347,Rorya,pulse,0,Komuge,Kyamwame,Kyabuganga,1,0,1,0,0
+RCT1344,Rorya,pulse,0,Komuge,Kyamwame,Kyabuganga,1,1,1,1,1
+RCT1343,Rorya,pulse,0,Komuge,Kyamwame,Kyabuganga,1,1,1,1,1
+RCT1339,Rorya,pulse,0,Komuge,Kyamwame,Mtakuja,1,0,1,0,0
+RCT1337,Rorya,pulse,0,Komuge,Kyamwame,Mtakuja,1,1,1,1,0
+RCT1336,Rorya,pulse,0,Komuge,Kyamwame,Mtakuja,1,1,0,0,1
+RCT1335,Rorya,pulse,0,Komuge,Kyamwame,Mtakuja,1,1,1,1,1
+RCT1332,Rorya,pulse,0,Komuge,Kenyamosabi,"Kati,Kati",1,1,0,0,1
+RCT1331,Rorya,pulse,0,Komuge,Kyamwame,"Kati,Kati",1,0,1,0,0
+RCT1330,Rorya,pulse,0,Komuge,Kenyamosabi,"Kati,Kati",1,1,1,1,1
+RCT1329,Rorya,pulse,0,Komuge,Kenyamosabi,"Kati,Kati",1,1,1,1,1
+RCT1328,Rorya,pulse,0,Komuge,Kyamwame,"Kati,Kati",1,0,1,0,0
+RCT1327,Rorya,pulse,0,Komuge,Kyamwame,"Kati,Kati",1,0,1,0,0
+RCT1325,Rorya,pulse,0,Komuge,Kenyamosabi,"Kati,Kati",1,1,1,1,1
+RCT1321,Rorya,pulse,0,Komuge,Komuge,Songambele,1,0,1,0,0
+RCT1320,Rorya,pulse,0,Komuge,Komuge,Songambele,1,0,1,0,0
+RCT1318,Rorya,pulse,0,Komuge,Komuge,Songambele,1,1,0,0,1
+RCT1313,Rorya,pulse,0,Komuge,Komuge,Songambele,1,1,1,1,1
+RCT1307,Rorya,pulse,0,Komuge,Komuge,irindibwa,1,1,0,0,1
+RCT1305,Rorya,pulse,0,Komuge,Komuge,irindibwa,1,1,0,0,1
+RCT1303,Rorya,pulse,0,Komuge,Komuge,irindibwa,1,1,1,1,1
+RCT1298,Rorya,pulse,0,Komuge,Komuge,Ngereri,1,0,1,1,0
+RCT1297,Rorya,pulse,0,Komuge,Komuge,Ngereri,1,1,1,1,1
+RCT1296,Rorya,pulse,0,Komuge,Komuge,Ngereri,1,1,1,1,0
+RCT1295,Rorya,pulse,0,Komuge,Komuge,Ngereri,1,1,1,1,1
+RCT1293,Rorya,pulse,0,Komuge,Komuge,Ngereri,1,0,1,0,0
+RCT0360,Tarime,Village,1,Gorong a,Masanga,Kemangari,1,0,1,0,0
+RCT0357,Tarime,Village,1,Gorong a,Masanga,Kemangari,1,1,1,1,1
+RCT0400,Tarime,pulse,0,Nyamwaga,Kimusi,Nyarusiaga,1,1,1,1,1
+RCT0399,Tarime,pulse,0,Nyamwaga,Kimusi,Nyarusiaga,1,0,1,0,0
+RCT0398,Tarime,pulse,0,Nyamwaga,Kimusi,Nyarusiaga,1,1,0,0,1
+RCT0394,Tarime,pulse,0,Nyamwaga,Kimusi,Nyarusiaga,1,1,1,1,1
+RCT0393,Tarime,pulse,0,Nyamwaga,Kimusi,Nyarusiaga,1,0,1,0,0
+RCT0391,Tarime,pulse,0,Nyamwaga,Kimusi,Nyarusiaga,1,0,1,0,0
+RCT0409,Tarime,pulse,0,Nyamwaga,Kimusi,Gwikunili,1,1,1,1,1
+RCT0408,Tarime,pulse,0,Nyamwaga,Kimusi,Gwikunili,1,0,1,0,0
+RCT0407,Tarime,pulse,0,Nyamwaga,Kimusi,Gwikunili,1,1,1,0,1
+RCT0406,Tarime,pulse,0,Nyamwaga,Kimusi,Gwikunili,1,1,1,0,1
+RCT0404,Tarime,pulse,0,Nyamwaga,Kimusi,Gwikunili,1,1,1,1,1
+RCT0403,Tarime,pulse,0,Nyamwaga,Kimusi,Gwikunili,1,1,0,0,0
+RCT0419,Tarime,pulse,0,Nyamwaga,Kimusi,Senta,1,1,0,0,0
+RCT0418,Tarime,pulse,0,Nyamwaga,Kimusi,Senta,1,1,1,1,0
+RCT0417,Tarime,pulse,0,Nyamwaga,Kimusi,Senta,1,1,0,0,1
+RCT0416,Tarime,pulse,0,Nyamwaga,Kimusi,Senta,1,1,1,1,1
+RCT0415,Tarime,pulse,0,Nyamwaga,Kimusi,Senta,1,1,0,0,1
+RCT0413,Tarime,pulse,0,Nyamwaga,Kimusi,Senta,1,0,1,0,0
+RCT0411,Tarime,pulse,0,Nyamwaga,Kimusi,Senta,1,0,1,0,0
+RCT0457,Tarime,pulse,0,Nyamwaga,Komarera,Moharango,1,0,1,0,0
+RCT0455,Tarime,pulse,0,Nyamwaga,Komarera,Moharango,1,0,1,0,0
+RCT0454,Tarime,pulse,0,Nyamwaga,Komarera,Moharango,1,0,0,0,0
+RCT0453,Tarime,pulse,0,Nyamwaga,Komarera,Moharango,1,0,0,0,0
+RCT0452,Tarime,pulse,0,Nyamwaga,Komarera,Moharango,1,0,1,0,0
+RCT0451,Tarime,pulse,0,Nyamwaga,Komarera,Moharango,1,0,1,0,0
+RCT0470,Tarime,pulse,0,Nyamwaga,Komarera,Ntarechagini,1,1,1,1,0
+RCT0466,Tarime,pulse,0,Nyamwaga,Komarera,Ntarechagini,1,0,1,0,0
+RCT0465,Tarime,pulse,0,Nyamwaga,Komarera,Ntarechagini,1,1,1,1,1
+RCT0464,Tarime,pulse,0,Nyamwaga,Komarera,Ntarechagini,1,1,0,0,1
+RCT0463,Tarime,pulse,0,Nyamwaga,Komarera,Ntarechagini,1,1,0,0,1
+RCT0480,Tarime,pulse,0,Nyamwaga,Komarera,Komera Senta,1,1,0,0,1
+RCT0479,Tarime,pulse,0,Nyamwaga,Komarera,Komera Senta,1,0,1,0,0
+RCT0478,Tarime,pulse,0,Nyamwaga,Komarera,Komera Senta,1,0,1,0,0
+RCT0948,Butiama,pulse,0,Masaba,Kwigutu,Nyamaharaga,1,0,1,0,0
+RCT0948,Butiama,pulse,0,Masaba,Kwigutu,Nyamaharaga,1,0,1,0,0
+RCT0948,Butiama,pulse,0,Masaba,Kwigutu,Nyamaharaga,1,0,1,0,0
+RCT0948,Butiama,pulse,0,Masaba,Kwigutu,Nyamaharaga,1,0,1,0,0
+RCT0945,Butiama,pulse,0,Masaba,Kwigutu,Nyamaharaga,1,0,1,0,0
+RCT0945,Butiama,pulse,0,Masaba,Kwigutu,Nyamaharaga,1,0,1,0,0
+RCT0945,Butiama,pulse,0,Masaba,Kwigutu,Nyamaharaga,1,0,1,0,0
+RCT0945,Butiama,pulse,0,Masaba,Kwigutu,Nyamaharaga,1,0,1,0,0
+RCT0943,Butiama,pulse,0,Masaba,Kwigutu,Nyamaharaga,1,1,1,1,1
+RCT0943,Butiama,pulse,0,Masaba,Kwigutu,Nyamaharaga,1,1,1,1,1
+RCT0943,Butiama,pulse,0,Masaba,Kwigutu,Nyamaharaga,1,1,1,1,1
+RCT0943,Butiama,pulse,0,Masaba,Kwigutu,Nyamaharaga,1,1,1,1,1
+RCT0942,Butiama,pulse,0,Masaba,Kwigutu,Nyamaharaga,1,0,1,0,0
+RCT0942,Butiama,pulse,0,Masaba,Kwigutu,Nyamaharaga,1,0,1,0,0
+RCT0942,Butiama,pulse,0,Masaba,Kwigutu,Nyamaharaga,1,0,1,0,0
+RCT0942,Butiama,pulse,0,Masaba,Kwigutu,Nyamaharaga,1,0,1,0,0
+RCT0932,Butiama,pulse,0,Masaba,Kwigutu,Butambahu,1,0,1,0,0
+RCT0932,Butiama,pulse,0,Masaba,Kwigutu,Butambahu,1,0,1,0,0
+RCT0932,Butiama,pulse,0,Masaba,Kwigutu,Butambahu,1,0,1,0,0
+RCT0932,Butiama,pulse,0,Masaba,Kwigutu,Butambahu,1,0,1,0,0
+RCT0930,Butiama,pulse,0,Masaba,Kwigutu,Kukigumu,1,0,1,0,0
+RCT0929,Butiama,pulse,0,Masaba,Kwigutu,Kukigumu,1,1,1,1,0
+RCT0924,Butiama,pulse,0,Masaba,Kwigutu,Kukigumu,1,0,1,0,0
+RCT0923,Butiama,pulse,0,Masaba,Kwigutu,Kukigumu,1,0,1,0,0
+RCT0922,Butiama,pulse,0,Masaba,Kwigutu,Kukigumu,1,0,1,0,0
+RCT0447,Tarime,pulse,0,Nyamwaga,Keisangora,Keruta,1,0,1,0,0
+RCT0444,Tarime,pulse,0,Nyamwaga,Keisangora,Keruta,1,1,1,1,1
+RCT0443,Tarime,pulse,0,Nyamwaga,Keisangora,Keruta,1,0,1,0,0
+RCT0370,Tarime,pulse,0,Nyamwaga,Gwitare,Gwitare Senta,1,1,1,1,1
+RCT0369,Tarime,pulse,0,Nyamwaga,Gwitare,Gwitare Senta,1,0,1,0,0
+RCT0367,Tarime,pulse,0,Nyamwaga,Gwitare,Gwitare Senta,1,1,1,1,1
+RCT0366,Tarime,pulse,0,Nyamwaga,Gwitare,Senta,1,0,1,0,0
+RCT0437,Tarime,pulse,0,Nyamwaga,Keisangora,Keisunguruta,1,1,1,1,1
+RCT0438,Tarime,pulse,0,Nyamwaga,Keisangora,Keisunguruta,1,1,1,1,1
+RCT0435,Tarime,pulse,0,Nyamwaga,Keisangora,Keisunguruta,1,1,1,1,1
+RCT0380,Tarime,pulse,0,Nyamwaga,Gwitare,Ronkore,1,1,1,1,1
+RCT0433,Tarime,pulse,0,Nyamwaga,Keisangora,Keisunguruta,1,0,1,0,0
+RCT0377,Tarime,pulse,0,Nyamwaga,Gwitare,Ronkore,1,1,1,1,1
+RCT0432,Tarime,pulse,0,Nyamwaga,Keisangora,Keisunguruta,1,0,1,0,0
+RCT0431,Tarime,pulse,0,Nyamwaga,Keisangora,Keisunguruta,1,1,1,1,1
+RCT0376,Tarime,pulse,0,Nyamwaga,Gwitare,Ronkore,1,0,1,0,0
+RCT0429,Tarime,pulse,0,Nyamwaga,Keisangora,Gonyi,1,1,1,1,1
+RCT0373,Tarime,pulse,0,Nyamwaga,Gwitare,Ronkore,1,1,1,1,1
+RCT0372,Tarime,pulse,0,Nyamwaga,Gwitare,Ronkore,1,1,1,1,1
+RCT0426,Tarime,pulse,0,Nyamwaga,Keisangora,Gonyi,1,0,1,0,0
+RCT0425,Tarime,pulse,0,Nyamwaga,Keisangora,Gonyi,1,0,1,0,0
+RCT0424,Tarime,pulse,0,Nyamwaga,Keisangora,Gonyi,1,1,1,1,1
+RCT0389,Tarime,pulse,0,Nyamwaga,Gwitare,Nyamiobo,1,0,1,0,0
+RCT0388,Tarime,pulse,0,Nyamwaga,Gwitare,Nyamiobo,1,1,1,1,1
+RCT0422,Tarime,pulse,0,Nyamwaga,Keisangora,Gonyi,1,0,1,0,0
+RCT0386,Tarime,pulse,0,Nyamwaga,Gwitare,Nyamiobo,1,1,1,1,1
+RCT0384,Tarime,pulse,0,Nyamwaga,Gwitare,Nyamiobo,1,0,1,0,0
+RCT0383,Tarime,pulse,0,Nyamwaga,Gwitare,Nyamiobo,1,0,1,0,0
+RCT0382,Tarime,pulse,0,Nyamwaga,Gwitare,Nyamiobo,1,1,1,1,1
+RCT0381,Tarime,pulse,0,Nyamwaga,Gwitare,Nyamiobo,1,0,1,0,0
+RCT0474,Tarime,pulse,0,Nyamwaga,Komera,Komera Senta,1,0,0,0,0
+RCT0473,Tarime,pulse,0,Nyamwaga,Komera,Komera Senta,1,0,1,0,0
+RCT0471,Tarime,pulse,0,Nyamwaga,Komera,Komera Senta,1,0,1,0,0

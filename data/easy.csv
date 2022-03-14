@@ -1,0 +1,17 @@
+﻿Strategy1,Strategy,Strategy1,Location,proportion
+Pulse,CPV,0,Very easy,3.88
+Cont1,VLC,1,Very easy,18.64
+Cont2,SVLC,2,Very easy,21.11
+Cont3,DC,3,Very easy,10.08
+Pulse,CPV,0,Easy,76.7
+Cont1,VLC,1,Easy,67.8
+Cont2,SVLC,2,Easy,76.83
+Cont3,DC,3,Easy,86.29
+Pulse,CPV,0,Difficult,18.45
+Cont1,VLC,1,Difficult,13.22
+Cont2,SVLC,2,Difficult,1.47
+Cont3,DC,3,Difficult,2.42
+Pulse,CPV,0,Very difficult,0.97
+Cont1,VLC,1,Very difficult,0
+Cont2,SVLC,2,Very difficult,0
+Cont3,DC,3,Very difficult,0

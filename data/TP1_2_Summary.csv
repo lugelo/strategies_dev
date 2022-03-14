@@ -1,0 +1,9 @@
+"","TIME","Strategy","Strategy1","N","microchip","X","X.1","X.2","X.3"
+"1","TP1","CPV","Pulse",686,246,"TP1","Tcontinuous",2290,1468
+"2","TP1","VLC","Continuous  1",750,488,"TP2","Tcontinuous",1915,1162
+"3","TP1","SVLC","Continuous  2",961,586,"","",NA,NA
+"4","TP1","DC","Continuous  3",579,394,"","",NA,NA
+"5","TP2","CPV","Pulse",732,235,"","",NA,NA
+"6","TP2","VLC","Continuous  1",668,386,"","",NA,NA
+"7","TP2","SVLC","Continuous  2",692,449,"","",NA,NA
+"8","TP2","DC","Continuous  3",555,327,"","",NA,NA
