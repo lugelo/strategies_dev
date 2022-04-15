@@ -3,7 +3,7 @@ library(lme4)
 library(lmerTest)
 
 #' Load and tidy up data
-dat <- read.csv("Time_Analysis_coded.csv")
+dat <- read.csv("data/Time_Analysis_coded.csv")
 head(dat)
 tail(dat)
 
@@ -67,7 +67,7 @@ par(old.par)
 #' LMM with log transformed response should work - logged 
 #' times look pretty normal within intervention groups.  
 
-#' Create a logged response 
+#' Create a logged response for cp_duration
 dat$cp_duration.log <- log(dat$cp_duration)
 
 #' Fit model  
