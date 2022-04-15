@@ -158,3 +158,65 @@ pred.data[, c("Intervention", "dur", "ci.lower", "ci.upper")]
 #' ward level so the effective sample size is closer to the number of wards per
 #' intervention group than to the number of villages, SV, or HH
 
+#' Create a logged response time to the central point
+dat$cp_travel_time_there.log <- log(dat$cp_travel_time_there)
+
+#' Fit model  
+fit.dur.full <-
+  lmer(cp_travel_time_there.log ~ Intervention + district + (1 | ward) + (1 | village) + (1 | subvillage), 
+       data = dat)
+
+plot(fit.dur.full) 
+#' ...looks fine. 
+#' Compare with the untransformed outcome:
+plot(refit(fit.dur.full, newresp = dat$cp_travel_time_there))
+#' ...severe heteroscedasticity.  
+
+#' Model stats:
+summary(fit.dur.full)
+#' ...fairly substantial random effect variances at every level.  
+
+#' Test for differences between districts and interventions
+drop1(fit.dur.full)
+#' District is n.s. (P = 0.099) so drop it:
+fit.dur <- update(fit.dur.full, ~ . - district)
+#' Test intervention
+drop1(fit.dur)
+#' ...no difference (P = 0.38). However I guess we should keep intervention
+#' in the model because we want to estimate mean duration in each arm?  
+
+
+#' Methods: Differences between districts and intervention arms in mean of 
+#' log_e duration of ... were tested using an F-test, where Satterthwaite's 
+#' approximation to the denominator degrees of freedom was used.  
+
+#' Predict from model. Can do this by fitting a "no intercept" version of the model:
+fit.dur.ni <- update(fit.dur, ~ . -1)
+summary(fit.dur.ni)
+
+#' Make table of predictions
+pred.data <- data.frame(Intervention = paste0("Intervention", (levels(dat$Intervention))))
+pred.data
+
+#' Add logged predictions
+pred.data$log.dur <- fixef(fit.dur.ni)[pred.data$Intervention]
+pred.data$se <- coef(summary(fit.dur.ni))[pred.data$Intervention, "Std. Error"]
+pred.data$df <- coef(summary(fit.dur.ni))[pred.data$Intervention, "df"] 
+pred.data$log.ci.lower <- pred.data$log.dur - pred.data$se * qt(0.975, df = pred.data$df)
+pred.data$log.ci.upper <- pred.data$log.dur + pred.data$se * qt(0.975, df = pred.data$df)
+pred.data
+
+#' Back-transform predictions.  
+#' This requires correction for bias due to averaging over log-normal residual 
+#' errors and random effects (Jensen's inequality).   
+#' The back-transformation is exp(log.scale.mean + 0.5 * sum.of.variances)
+sum.var <- sum(unlist(VarCorr(fit.dur))) + sigma(fit.dur)^2
+
+#' So the simple method is biased:
+exp(pred.data$log.dur)
+
+#' This is unbiased:
+pred.data$dur <- exp(pred.data$log.dur + 0.5 * sum.var)
+pred.data$ci.lower <- exp(pred.data$log.ci.lower + 0.5 * sum.var)
+pred.data$ci.upper <- exp(pred.data$log.ci.upper + 0.5 * sum.var)
+pred.data

@@ -94,7 +94,6 @@ m <- ggplot(MERGE4, aes(Strategy, PointEst, fill = Location))+
 m + theme_bw() + theme(panel.border = element_blank(), panel.grid.major = element_blank(),
                        panel.grid.minor = element_blank())
 
-
 ggsave("Easiness.pdf", width = 17, height = 14, units ="cm")
 
 
