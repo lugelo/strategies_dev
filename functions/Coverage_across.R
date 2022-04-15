@@ -76,9 +76,9 @@ easiness1$Lower <- easiness1$Lower*100
 easiness1$Upper <- easiness1$Upper *100
 easiness1$PointEst <- easiness1$PointEst *100
 easiness1
-write.csv(easiness1, "data/easy.csv")
+write.csv(easiness1, "data/easiness.csv")
 
-MERGE4 <- read.csv("data/easy.csv", sep = ",")
+MERGE4 <- read.csv("data/easiness.csv", sep = ",")
 MERGE4
 
 # barplot
@@ -97,8 +97,4 @@ m + theme_bw() + theme(panel.border = element_blank(), panel.grid.major = elemen
 
 ggsave("Easiness.pdf", width = 17, height = 14, units ="cm")
 
-#e + theme(legend.key.height = unit(0.1, "cm"))
-
-
-ggsave("Easiness.pdf1", width = 17, height = 14, units ="cm")
 
