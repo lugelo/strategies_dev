@@ -76,10 +76,9 @@ easiness1$Lower <- easiness1$Lower*100
 easiness1$Upper <- easiness1$Upper *100
 easiness1$PointEst <- easiness1$PointEst *100
 easiness1
-write.csv(easiness1, "data/easiness.csv")
+write.csv(easiness1, "data/easy.csv")
 
-MERGE4 <- read.csv("data/easiness.csv", sep = ",")
-MERGE4
+MERGE4 <- read.csv("data/easy.csv", sep = ",")
 
 # barplot
 MERGE4$Location <- factor(MERGE4$Location, levels = c("Very easy", "Easy", "Difficult", "Very difficult"))
